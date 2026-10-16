@@ -280,5 +280,55 @@
    "impact": "Pro české domácnosti a firmy může být během příštích tří let důležité, jak se tato debata promítne do pravidel pro vytápění, dopravu a cen energií; to je moje interpretace. Zatím není jasné, zda Komise změny navrhne, zda projdou legislativou ani jak se projeví v cenách.",
    "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/european-council-conclusions-on-competitiveness-the-next-multiannual-financial-framework-and-enlargement-and-reforms/"
   }
+ ],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "Chirp Pong",
+   "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+   "date": "2026-10-15T21:47:52+02:00"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "date": "2026-10-15T21:00:00+02:00"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+   "date": "2026-10-15T18:08:03+02:00"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+   "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+   "date": "2026-10-15T15:04:03+02:00"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Teaching students to think and learn through questions",
+   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+   "date": "2026-10-15T15:00:00+02:00"
+  },
+  {
+   "source": "METR",
+   "title": "Our approach to working with AI companies",
+   "url": "https://metr.org/blog/2026-10-14-our-approach-to-risk-assessment/",
+   "date": "2026-10-14T09:00:00+02:00"
+  },
+  {
+   "source": "METR",
+   "title": "How an assessor could investigate control and monitoring of internal AI agents",
+   "url": "https://metr.org/blog/2026-10-14-control-assessment-proposal/",
+   "date": "2026-10-14T09:00:00+02:00"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+   "date": "2026-10-14T04:00:14+02:00"
+  }
  ]
 }
