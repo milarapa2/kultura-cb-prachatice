@@ -123,21 +123,21 @@
   },
   {
    "kind": "Film",
-   "time": "10:15",
+   "time": "14:15",
    "title": "Léčivé účinky sebeklamu",
    "venue": "Kino Kafé 7",
    "url": "https://www.kinokafe7.cz/?filterIndex=0"
   },
   {
    "kind": "Film",
-   "time": "12:10",
+   "time": "16:10",
    "title": "V srdci divočiny",
    "venue": "Kino Kafé 7",
    "url": "https://www.kinokafe7.cz/?filterIndex=0"
   },
   {
    "kind": "Film",
-   "time": "14:15",
+   "time": "18:15",
    "title": "Bára Basiková",
    "venue": "Kino Kafé 7",
    "url": "https://www.kinokafe7.cz/?filterIndex=0"
@@ -270,6 +270,7 @@
   "Therapy Sessions: Guidle/ICM uvádějí 20:00, detail prodejce a pořadatele 21:00; uveden je čas prodejce. The Valentines + Glad for Today jsou zrušeni a talkshow Pavla Trávníčka přeložena.",
   "Časy u výstav v Českých Budějovicích jsou začátkem dnešní otevírací doby, ne začátkem vernisáže.",
   "Prachatice: měsíční zpravodaj je přepis; změny programu nemusí být zachyceny. U vícedenních výstav ověřte otevírací dobu, rozsah neznamená otevřeno každý den.",
-  "Prachatice: výstavní prostory Seniorpoint a Galerie Neumannka nemají potvrzenou dnešní návštěvní dobu; uvedení z měsíčního zpravodaje nezaručuje přístupnost. Duplicitní bezečasový záznam Tradiční výstavy hub ze zpravodaje vynechán ve prospěch dnešního detailu API."
+  "Prachatice: výstavní prostory Seniorpoint a Galerie Neumannka nemají potvrzenou dnešní návštěvní dobu; uvedení z měsíčního zpravodaje nezaručuje přístupnost. Duplicitní bezečasový záznam Tradiční výstavy hub ze zpravodaje vynechán ve prospěch dnešního detailu API.",
+  "Časy Kina Kafé 7 ručně opraveny 16. 10. 15:20 podle webu kina (ranní data byla posunutá o 4 h)."
  ]
 }
