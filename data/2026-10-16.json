@@ -1,0 +1,275 @@
+{
+ "date": "2026-10-16",
+ "checked_at": "2026-10-16T07:31:58+02:00",
+ "sources": [
+  {
+   "name": "InBudějovice / Guidle",
+   "url": "https://www.inbudejovice.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "ICM České Budějovice",
+   "url": "http://www.icmcb.cz/tydenni-prehled-akci-v-ceskych-budejovicich-16-10-2026-22-10-2026/",
+   "status": "ok"
+  },
+  {
+   "name": "Budějcké akce",
+   "url": "https://www.budejckeakce.cz/?date=2026-10-16",
+   "status": "ok"
+  },
+  {
+   "name": "Budějce.cz",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "unavailable"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky / CBsystem",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "Horká vana",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Jihočeské muzeum",
+   "url": "https://www.muzeumcb.cz/program/vystavy/",
+   "status": "ok"
+  },
+  {
+   "name": "Alšova jihočeská galerie",
+   "url": "https://www.ajg.cz/probihajici-vystavy.html",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-10-16&blok=0",
+   "status": "ok"
+  },
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Veřejný Facebook místních pořadatelů",
+   "url": "https://www.facebook.com/events/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-10-16&end_date=2026-10-16%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Kulturní a společenský servis na říjen 2026 (tištěný zpravodaj Prachatice, foto od Vítka 30. 9. 2026)",
+   "url": "https://visit.prachatice.eu/",
+   "status": "ok"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Doplňky krásy a elegance (výstava)",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/doplnky-krasy-a-elegance.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Hřibovité houby v jižních Čechách (výstava)",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/hribovite-houby-v-jiznich-cechach.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "RETROGAMING: Počátky osobních počítačů u nás (výstava)",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Jana Kučerová: Sudety dnes (výstava)",
+   "venue": "Galerie Nahoře, DK Metropol",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/galerie-nahore-jana-kucerova-sudety-dnes/2441/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "Born This Way",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2815-born-this-way"
+  },
+  {
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Federico Fusj: Olam, vy, kteří jezdíte na bílých oslících (výstava)",
+   "venue": "Wortnerův dům AJG, U Černé věže 22",
+   "url": "https://www.ajg.cz/probihajici-vystavy/federico-fusj-olam-vy-kteri-jezdite-na-bilych-oslicich.html"
+  },
+  {
+   "kind": "Film",
+   "time": "10:15",
+   "title": "Léčivé účinky sebeklamu",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "12:10",
+   "title": "V srdci divočiny",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "14:15",
+   "title": "Bára Basiková",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "18:00",
+   "title": "Wirbel",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-10-16&blok=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "18:00",
+   "title": "Jan Hnízdil: Jak být zdravý v nemocné společnosti",
+   "venue": "KD Vltava",
+   "url": "https://www.smsticket.cz/vstupenky/69100-jan-hnizdil-jak-byt-zdravy-v-nemocne-spolecnosti-kd-vltava-ceske-budejovice"
+  },
+  {
+   "kind": "Akce",
+   "time": "18:30",
+   "title": "Vernisáž Richard Fischer jr.: Comics playlist",
+   "venue": "Kavárna Biografu Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-10-16&blok=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "18:30",
+   "title": "Vernisáž Škola kreativní fotografie v Praze: Čtvrtstoletí",
+   "venue": "Kavárna Biografu Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-10-16&blok=0"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "V bláznivém domě aneb komu tady jebe?",
+   "venue": "Divadlo U Kapličky",
+   "url": "https://www.cbsystem.cz/de/veranstaltungen/9910-v-blaznivem-dome-aneb-komu-tady-jebe"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:55",
+   "title": "Reprezentační ples k 60. výročí ZŠ Grünwaldova",
+   "venue": "Velký sál KD Slavie",
+   "url": "https://www.kdslavie.cz/akce/reprezentacni-ples-k-60-vyroci/"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Láska",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-10-16&blok=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "21:00",
+   "title": "Therapy Sessions CZ XIX",
+   "venue": "MC Fabrika, Jeronýmova 6",
+   "url": "https://xticket.cz/koncert-festival/2627-therapy-sessions-cz-xix-ceske-budejovice-mc-fabrika"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "08:00",
+   "title": "Tradiční výstava hub",
+   "venue": "Muzeum české loutky a cirkusu",
+   "url": "https://visit.prachatice.eu/udalost/tradicni-vystava-hub-4/"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Saunové ceremoniály a peelingy",
+   "venue": "Saunový svět",
+   "url": "https://visit.prachatice.eu/udalost/saunove-ceremonialy-a-peelingy-28/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Alexandra Říhová: Dotyky fauny (výstava)",
+   "venue": "Zimní zahrada MěÚ",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Artem: Successfully (výstava)",
+   "venue": "Galerie Dolní brána",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Charlotte Garrigue Masaryková (výstava)",
+   "venue": "Městská knihovna",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Cirkus v proměnách doby (výstava)",
+   "venue": "Muzeum české loutky a cirkusu",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Karty všech tváří (výstava)",
+   "venue": "Prachatické muzeum",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Každý den pro radost (výstava A. Millisteinerové)",
+   "venue": "Seniorpoint",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Výstava Košilela",
+   "venue": "Galerie Neumannka",
+   "url": "https://visit.prachatice.eu/"
+  }
+ ],
+ "limitations": [
+  "Pokrytí Českých Budějovic není úplné: kalendář budejce.cz zůstal na „Načítám…“, program Horké vany se nepodařilo aktuálně potvrdit, program Divadla U Kapličky obsahuje starší záznamy (dnešní představení potvrzeno v CBsystem).",
+  "Veřejný Facebook byl dostupný jen omezeně; další příspěvky pořadatelů nemohly být úplně prověřeny.",
+  "Therapy Sessions: Guidle/ICM uvádějí 20:00, detail prodejce a pořadatele 21:00; uveden je čas prodejce. The Valentines + Glad for Today jsou zrušeni a talkshow Pavla Trávníčka přeložena.",
+  "Časy u výstav v Českých Budějovicích jsou začátkem dnešní otevírací doby, ne začátkem vernisáže.",
+  "Prachatice: měsíční zpravodaj je přepis; změny programu nemusí být zachyceny. U vícedenních výstav ověřte otevírací dobu, rozsah neznamená otevřeno každý den.",
+  "Prachatice: výstavní prostory Seniorpoint a Galerie Neumannka nemají potvrzenou dnešní návštěvní dobu; uvedení z měsíčního zpravodaje nezaručuje přístupnost. Duplicitní bezečasový záznam Tradiční výstavy hub ze zpravodaje vynechán ve prospěch dnešního detailu API."
+ ]
+}
