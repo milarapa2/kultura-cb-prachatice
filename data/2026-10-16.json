@@ -272,5 +272,13 @@
   "Prachatice: měsíční zpravodaj je přepis; změny programu nemusí být zachyceny. U vícedenních výstav ověřte otevírací dobu, rozsah neznamená otevřeno každý den.",
   "Prachatice: výstavní prostory Seniorpoint a Galerie Neumannka nemají potvrzenou dnešní návštěvní dobu; uvedení z měsíčního zpravodaje nezaručuje přístupnost. Duplicitní bezečasový záznam Tradiční výstavy hub ze zpravodaje vynechán ve prospěch dnešního detailu API.",
   "Časy Kina Kafé 7 ručně opraveny 16. 10. 15:20 podle webu kina (ranní data byla posunutá o 4 h)."
+ ],
+ "news": [
+  {
+   "headline": "Lídři EU žádají nové posouzení dopadů ETS2 a opatření proti vysokým cenám energií.",
+   "fact": "Evropská rada v závěrech zveřejněných 16. října vyzvala Komisi, aby aktualizovala hodnocení dopadů ETS2, zejména jeho nastavení a ochranných opatření, a podle potřeby navrhla další krátkodobé kroky proti vysokým cenám energií. Jde o politickou výzvu, nikoli o schválenou změnu ETS2 nebo cen energií.",
+   "impact": "Pro české domácnosti a firmy může být během příštích tří let důležité, jak se tato debata promítne do pravidel pro vytápění, dopravu a cen energií; to je moje interpretace. Zatím není jasné, zda Komise změny navrhne, zda projdou legislativou ani jak se projeví v cenách.",
+   "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/european-council-conclusions-on-competitiveness-the-next-multiannual-financial-framework-and-enlargement-and-reforms/"
+  }
  ]
 }
