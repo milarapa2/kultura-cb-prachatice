@@ -338,5 +338,32 @@
    "date": "2026-10-14T04:00:14+02:00",
    "title_cs": "Google DeepMind a singapurská vláda vyvinou doladěný AI model pro odhalování podvodů"
   }
- ]
+ ],
+ "money": {
+  "cnb_date": "16.10.2026",
+  "eur": "24,325",
+  "ono_valid": "14.10.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "43,90",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "43,90",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "43,90",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "43,90",
+    "diesel": "45,90"
+   }
+  ]
+ }
 }
