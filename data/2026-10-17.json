@@ -1,0 +1,375 @@
+{
+ "date": "2026-10-17",
+ "checked_at": "2026-10-17T07:26:57+02:00",
+ "sources": [
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-10-17&blok=0",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "Horká vana",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Jihočeské muzeum",
+   "url": "https://www.muzeumcb.cz/program/vystavy/",
+   "status": "ok"
+  },
+  {
+   "name": "Strašidlo na zámku / KD Gerbera",
+   "url": "https://www.strasidlonazamku.cz/strasidelny-koncert/kulturni-dum-gerbera/",
+   "status": "ok"
+  },
+  {
+   "name": "InBudějovice / Guidle",
+   "url": "https://microsite.guidle.com/cs/mr_x9FuRc",
+   "status": "unavailable"
+  },
+  {
+   "name": "Turistický kalendář Budějce",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "unavailable"
+  },
+  {
+   "name": "ICM České Budějovice",
+   "url": "http://www.icmcb.cz/tydenni-prehled-akci-v-ceskych-budejovicich-16-10-2026-22-10-2026/",
+   "status": "ok"
+  },
+  {
+   "name": "Budějcké akce",
+   "url": "https://www.budejckeakce.cz/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Facebook místních pořadatelů",
+   "url": "https://www.facebook.com/events/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-10-17&end_date=2026-10-17%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Kulturní a společenský servis na říjen 2026 (tištěný zpravodaj Prachatice, foto od Vítka 30. 9. 2026)",
+   "url": "https://visit.prachatice.eu/",
+   "status": "ok"
+  },
+  {
+   "name": "Galerie Dolní brána",
+   "url": "https://visit.prachatice.eu/aktivity/galerie-dolni-brana/",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatické muzeum",
+   "url": "https://www.prachatickemuzeum.cz/oteviraci-doba.html",
+   "status": "ok"
+  },
+  {
+   "name": "Muzeum české loutky a cirkusu",
+   "url": "https://www.nm.cz/navstivte-nas/objekty/muzeum-ceske-loutky-a-cirkusu",
+   "status": "ok"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Film",
+   "time": "10:00",
+   "title": "Do pohádky za zvířátky II.",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-10-17&blok=0"
+  },
+  {
+   "kind": "Film",
+   "time": "12:45",
+   "title": "Pejsek Fešák",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "13:00",
+   "title": "Kinotaj | Filmy a povídání o nich",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-10-17&blok=0"
+  },
+  {
+   "kind": "Film",
+   "time": "14:30",
+   "title": "Divočina",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "16:15",
+   "title": "Bára Basiková",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "16:30",
+   "title": "Pat a Mat: Zpátky na venkově",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-10-17&blok=0"
+  },
+  {
+   "kind": "Film",
+   "time": "18:00",
+   "title": "Divočina",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-10-17&blok=0"
+  },
+  {
+   "kind": "Film",
+   "time": "18:10",
+   "title": "V srdci divočiny",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "18:30",
+   "title": "Born This Way",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2815-born-this-way"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Strašidelný koncert",
+   "venue": "KD Gerbera",
+   "url": "https://www.strasidlonazamku.cz/strasidelny-koncert/kulturni-dum-gerbera/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:30",
+   "title": "Monstrum",
+   "venue": "Na Půdě (Jihočeské divadlo)",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2806-monstrum"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Fjord",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-10-17&blok=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Doplňky krásy a elegance (výstava)",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/doplnky-krasy-a-elegance.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Hřibovité houby v jižních Čechách (výstava)",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/hribovite-houby-v-jiznich-cechach.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "RETROGAMING: Počátky osobních počítačů u nás (výstava)",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "08:00",
+   "title": "Městské trhy",
+   "venue": "Velké náměstí",
+   "url": "https://visit.prachatice.eu/udalost/mestske-trhy-3/"
+  },
+  {
+   "kind": "Akce",
+   "time": "08:30",
+   "title": "Mykologická vycházka",
+   "venue": "Hrašova louka – parkoviště pod borovicemi",
+   "url": "https://visit.prachatice.eu/udalost/mykologicka-vychazka/"
+  },
+  {
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Tukaní slavnost",
+   "venue": "Rodinný klub TUKAN",
+   "url": "https://visit.prachatice.eu/udalost/tukani-slavnost/"
+  },
+  {
+   "kind": "Akce",
+   "time": "13:00",
+   "title": "Lidé z našeho města – autorské čtení",
+   "venue": "KreBul (Seniorpoint)",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "15:30",
+   "title": "FK Tatran Prachatice „A“ vs. Sokol Křemže",
+   "venue": "Městský stadion Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/fk-tatran-prachatice-a-vs-sokol-kremze/"
+  },
+  {
+   "kind": "Akce",
+   "time": "16:00",
+   "title": "Vernisáž: Veronika Škopková: Malba",
+   "venue": "Galerie SKLO – GL&SS",
+   "url": "https://visit.prachatice.eu/udalost/vernisaz-veronika-skopkova-malba/"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Listování: Deník lehký holky",
+   "venue": "Kavárna Nebe Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/listovani-denik-lehky-holky/"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "O nejlepšího utopence a nákládaný sýr",
+   "venue": "Prostor u hasičské zbrojnice Staré Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/o-nejlepsiho-utopence-a-nakladany-syr-2/"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Morava vs Evropa s Tomášem z Line of Wine",
+   "venue": "Cafe Madona",
+   "url": "https://visit.prachatice.eu/udalost/morava-vs-evropa-s-tomasem-z-line-of-wine/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Artem: Successfully (výstava)",
+   "venue": "Galerie Dolní brána",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Cirkus v proměnách doby (výstava)",
+   "venue": "Muzeum české loutky a cirkusu",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Karty všech tváří (výstava)",
+   "venue": "Prachatické muzeum",
+   "url": "https://visit.prachatice.eu/"
+  }
+ ],
+ "weekend_events": [],
+ "limitations": [
+  "InBudějovice/Guidle, budejce.cz a Budějcké akce neposkytly spolehlivě ověřitelný dnešní podrobný program. Divadlo u Kapličky má zastaralý přehled, program Horké vany nebyl spolehlivě ověřen. Pokrytí není úplné.",
+  "Veřejný Facebook místních pořadatelů včetně okolí Heydukovy ulice nebyl bez přihlášení úplně dostupný.",
+  "Prachatice: z měsíčního zpravodaje byly vyřazeny výstavy v Zimní zahradě MěÚ (sobota zavřeno) a Městské knihovně, Seniorpointu, Galerii Neumannka a Galerii SKLO – GL&SS (sobotní otevření nepotvrzeno). Zpravodaj nemusí zachycovat změny programu.",
+  "Víkend: dnes je sobota, proto se podle pravidla pro středu až pátek další víkend neověřoval."
+ ],
+ "news": [],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+   "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+   "date": "2026-10-17T00:06:37+02:00",
+   "title_cs": "Citáty: Addy Osmani, Morgan Westlee Lunt a Qing Wang"
+  },
+  {
+   "source": "OpenAI",
+   "title": "How Itaú is building generative AI for its entire customer base",
+   "url": "https://openai.com/index/itau-generative-ai",
+   "date": "2026-10-16T21:00:00+02:00",
+   "title_cs": "Jak Itaú buduje generativní AI pro všechny své zákazníky"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "date": "2026-10-16T02:00:00+02:00",
+   "title_cs": "Stack Overflow for Agents díky pluginu pro ChatGPT ztrojnásobil počet registrací"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "Chirp Pong",
+   "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+   "date": "2026-10-15T21:47:52+02:00",
+   "title_cs": "Chirp Pong"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+   "date": "2026-10-15T18:08:03+02:00",
+   "title_cs": "Google Antigravity urychluje hledání antimikrobiálních peptidů"
+  },
+  {
+   "source": "METR",
+   "title": "Our approach to working with AI companies",
+   "url": "https://metr.org/blog/2026-10-14-our-approach-to-risk-assessment/",
+   "date": "2026-10-14T09:00:00+02:00",
+   "title_cs": "Náš přístup ke spolupráci s AI firmami"
+  },
+  {
+   "source": "METR",
+   "title": "How an assessor could investigate control and monitoring of internal AI agents",
+   "url": "https://metr.org/blog/2026-10-14-control-assessment-proposal/",
+   "date": "2026-10-14T09:00:00+02:00",
+   "title_cs": "Jak může posuzovatel prověřit kontrolu a monitorování interních AI agentů"
+  }
+ ],
+ "money": {
+  "cnb_date": "16.10.2026",
+  "eur": "24,325",
+  "ono_valid": "14.10.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "43,90",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "43,90",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "43,90",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "43,90",
+    "diesel": "45,90"
+   }
+  ]
+ }
+}
