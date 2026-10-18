@@ -1,0 +1,304 @@
+{
+ "date": "2026-10-18",
+ "checked_at": "2026-10-18T07:29:46+02:00",
+ "sources": [
+  {
+   "name": "Kino Kafé 7 – renderovaný detailní seznam",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-10-18&blok=0",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "Horká vana – veřejné kalendáře ICS",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské muzeum",
+   "url": "https://www.muzeumcb.cz/program/vystavy/",
+   "status": "ok"
+  },
+  {
+   "name": "Verbarium – Kolotoč příběhů",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/",
+   "status": "ok"
+  },
+  {
+   "name": "KD Vltava / vstupenky Aladin",
+   "url": "https://www.smsticket.cz/skupiny/775-aladin-a-kouzelna-lampa",
+   "status": "ok"
+  },
+  {
+   "name": "InBudějovice",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "Turistický kalendář Budějce",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "unavailable"
+  },
+  {
+   "name": "ICM České Budějovice",
+   "url": "http://www.icmcb.cz/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Budějcké akce",
+   "url": "https://budejckeakce.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut Prachatice",
+   "url": "https://goout.net/cs/prachatice/akce/lezwmynkk/",
+   "status": "ok"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-10-18&end_date=2026-10-18%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Kulturní a společenský servis na říjen 2026 (přepis tištěného zpravodaje)",
+   "url": "https://visit.prachatice.eu/",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatické muzeum",
+   "url": "https://www.prachatickemuzeum.cz/oteviraci-doba.html",
+   "status": "ok"
+  },
+  {
+   "name": "Muzeum české loutky a cirkusu",
+   "url": "https://www.nm.cz/navstivte-nas/objekty/muzeum-ceske-loutky-a-cirkusu",
+   "status": "ok"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Film",
+   "time": "12:15",
+   "title": "Ovečka Shaun: Příšera z Mossy Bottom - PŘEDPREMIÉRA!",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "13:55",
+   "title": "Pitomá příroda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "14:00",
+   "title": "Aladin a kouzelná lampa",
+   "venue": "KD Vltava",
+   "url": "https://www.smsticket.cz/skupiny/775-aladin-a-kouzelna-lampa"
+  },
+  {
+   "kind": "Film",
+   "time": "15:15",
+   "title": "Fjord",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "16:00",
+   "title": "Pejsek Fešák",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-10-18&blok=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "16:00",
+   "title": "Verbarium: Sbírej – skládej – vyprávěj",
+   "venue": "Kulturní centrum Rabenštejnská",
+   "url": "https://goout.net/cs/verbarium-sbirej-skladej-vypravej/sztwsny/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Aladin a kouzelná lampa",
+   "venue": "KD Vltava",
+   "url": "https://www.smsticket.cz/skupiny/775-aladin-a-kouzelna-lampa"
+  },
+  {
+   "kind": "Film",
+   "time": "18:00",
+   "title": "Odyssea",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "18:30",
+   "title": "Hvězdy swingu: Vivat Glenn Miller!",
+   "venue": "DK Metropol – Malá scéna",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/hvezdy-swingu-vivat-glenn-miller!/2322/"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Bez scénáře: Mahulena Bočanová & Martin Zounar",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-10-18&blok=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Doplňky krásy a elegance (výstava)",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/doplnky-krasy-a-elegance.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Hřibovité houby v jižních Čechách (výstava)",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/hribovite-houby-v-jiznich-cechach.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "RETROGAMING: Počátky osobních počítačů u nás (výstava)",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "11:00",
+   "title": "FK Tatran Prachatice „B“ vs. FK Slavoj Český Krumlov",
+   "venue": "Městský stadion Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/fk-tatran-prachatice-b-vs-fk-slavoj-cesky-krumlov/"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Martin Hranáč – CRAZY SHOW – Prachatice",
+   "venue": "Kongresové centrum Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/martin-hranac-crazy-show-prachatice/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Cirkus v proměnách doby (výstava)",
+   "venue": "Muzeum české loutky a cirkusu",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Karty všech tváří (výstava)",
+   "venue": "Prachatické muzeum",
+   "url": "https://visit.prachatice.eu/"
+  }
+ ],
+ "weekend_events": [],
+ "limitations": [
+  "Prachatice: měsíční zpravodaj je přepis; změny programu nemusí být zachyceny. U vícedenních výstav ověřte otevírací dobu, rozsah neznamená otevřeno každý den.",
+  "Prachatice: výstavy v Galerii Dolní brána a Neumannce byly vyřazeny pro nedělní zavření. U Zimní zahrady MěÚ, Městské knihovny, Seniorpointu a Galerie Sklo – Gl&ss se dnešní otevření nepodařilo potvrdit, proto byly vyřazeny.",
+  "InBudějovice bez použitelného datovaného programu; budejce.cz a týdenní přehled ICM neposkytly spolehlivě ověřitelné dnešní položky. Divadlo u Kapličky má neaktuální program. Pokrytí akcí nemusí být úplné.",
+  "Horká vana: sedm veřejných tematických kalendářů bylo načteno a rozvinuto iCalendar parserem; na 18. 10. nevrátily ověřenou položku.",
+  "Víkend: dnes je neděle, pravidlo pro ověřování následující soboty a neděle platí jen ve středu až pátek."
+ ],
+ "news": [],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "Inline rendering with document​.currentScript",
+   "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+   "date": "2026-10-17T23:11:12+02:00",
+   "title_cs": "Vykreslování přímo na místě pomocí document.currentScript"
+  },
+  {
+   "source": "Interconnects",
+   "title": "Meta shakes up the frontiers, open and closed",
+   "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+   "date": "2026-10-17T16:06:54+02:00",
+   "title_cs": "Meta mění poměry na špičce AI, otevřené i uzavřené"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "web-edit 0.1a2",
+   "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
+   "date": "2026-10-17T15:16:49+02:00",
+   "title_cs": "web-edit 0.1a2"
+  },
+  {
+   "source": "OpenAI",
+   "title": "How Itaú is building generative AI for its entire customer base",
+   "url": "https://openai.com/index/itau-generative-ai",
+   "date": "2026-10-16T21:00:00+02:00",
+   "title_cs": "Jak Itaú buduje generativní AI pro všechny své zákazníky"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Benefit Street Partners answers questions faster with Codex",
+   "url": "https://openai.com/index/benefit-street-partners",
+   "date": "2026-10-16T02:00:00+02:00",
+   "title_cs": "Benefit Street Partners díky Codexu odpovídá na dotazy rychleji"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+   "date": "2026-10-15T18:08:03+02:00",
+   "title_cs": "Google Antigravity urychluje hledání antimikrobiálních peptidů"
+  }
+ ],
+ "money": {
+  "cnb_date": "16.10.2026",
+  "eur": "24,325",
+  "ono_valid": "14.10.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "43,90",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "43,90",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "43,90",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "43,90",
+    "diesel": "45,90"
+   }
+  ]
+ }
+}
