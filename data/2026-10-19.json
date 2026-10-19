@@ -1,0 +1,351 @@
+{
+ "date": "2026-10-19",
+ "checked_at": "2026-10-19T07:33:21+02:00",
+ "sources": [
+  {
+   "name": "Kino Kafé 7 – renderované detailní řádky",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "Horká vana – veřejné tematické ICS",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "Městský kalendář Budějce",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "InBudějovice",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "ICM ČB – týdenní přehled",
+   "url": "http://www.icmcb.cz/tydenni-prehled-akci-v-ceskych-budejovicich-16-10-2026-22-10-2026/",
+   "status": "ok"
+  },
+  {
+   "name": "Budějcké akce",
+   "url": "https://budejckeakce.cz/",
+   "status": "stale"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut Prachatice",
+   "url": "https://goout.net/cs/prachatice/akce/lezwmynkk/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Verbarium – Kolotoč příběhů",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské muzeum – výstava hub zrušena",
+   "url": "https://www.muzeumcb.cz/program/vystavy/vystava-hub-2026-zruseno.html",
+   "status": "ok"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-10-19&end_date=2026-10-19%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Kulturní a společenský servis Prachatice (přepis říjen 2026)",
+   "url": "https://visit.prachatice.eu/",
+   "status": "ok"
+  },
+  {
+   "name": "Galerie Dolní brána – otevírací doba",
+   "url": "https://visit.prachatice.eu/aktivity/galerie-dolni-brana/",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatické muzeum – otevírací doba",
+   "url": "https://www.prachatickemuzeum.cz/oteviraci-doba.html",
+   "status": "ok"
+  },
+  {
+   "name": "Muzeum české loutky a cirkusu – otevírací doba",
+   "url": "https://www.nm.cz/navstivte-nas/objekty/muzeum-ceske-loutky-a-cirkusu",
+   "status": "ok"
+  },
+  {
+   "name": "Senior Point Prachatice – provozní doba",
+   "url": "https://www.seniorpointy.cz/pobocka/prachatice/",
+   "status": "ok"
+  },
+  {
+   "name": "Galerie SKLO-GL&SS – aktuální program",
+   "url": "https://sklo-glass.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Galerie Neumannka – otevírací doba",
+   "url": "https://neumannka.allyou.net/2239651/kontakt",
+   "status": "ok"
+  },
+  {
+   "name": "MěÚ Prachatice – úřední hodiny",
+   "url": "https://prachatice.eu/uredni-hodiny-meu/d-33208/p1=24349",
+   "status": "ok"
+  },
+  {
+   "name": "Městská knihovna Prachatice – otevírací doba",
+   "url": "https://www.knih-pt.cz/mestska-knihovna-prachatice/os-10",
+   "status": "unavailable"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Jana Kučerová – Sudety dnes (výstava)",
+   "venue": "Galerie Nahoře, DK Metropol",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/galerie-nahore-jana-kucerova-sudety-dnes/2441/"
+  },
+  {
+   "kind": "Film",
+   "time": "14:30",
+   "title": "Léčivé účinky sebeklamu",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/film/lecive-ucinky-sebeklamu/"
+  },
+  {
+   "kind": "Film",
+   "time": "15:10",
+   "title": "Fjord",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "16:30",
+   "title": "Prohlídky domů a dvorků měšťanských domů",
+   "venue": "Sraz u Samsonovy kašny",
+   "url": "https://www.budejce.cz/kalendar/1328032251-prohlidky-domu-a-dvorku-mestanskych-domu"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Kolotoč příběhů: Vypravěčský klub",
+   "venue": "Kreativní hub Tady",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  },
+  {
+   "kind": "Film",
+   "time": "17:15",
+   "title": "Milovník, ne bojovník",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/film/milovnik-ne-bojovnik/"
+  },
+  {
+   "kind": "Film",
+   "time": "17:55",
+   "title": "V srdci divočiny",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "18:00",
+   "title": "Prodloužená tanečních PODZIM 2026",
+   "venue": "Společenský sál, DK Metropol",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/prodlouzena-tanecnich-podzim-2026/1926/"
+  },
+  {
+   "kind": "Akce",
+   "time": "18:00",
+   "title": "SOIRÉE S MICHANSONS aneb šansony a jiné písně",
+   "venue": "Jihočeská vědecká knihovna, pobočka Vltava, Fr. Ondříčka 1243/46",
+   "url": "http://www.icmcb.cz/tydenni-prehled-akci-v-ceskych-budejovicich-16-10-2026-22-10-2026/"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Hudba QUEEN & ABBA při svíčkách",
+   "venue": "Malá scéna, DK Metropol",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/hudba-queen--abba-pri-svickach/2410/"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Slavnostní galakoncert: Ozvěny filmových melodií",
+   "venue": "Divadelní sál, DK Metropol",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/slavnostni-galakoncert-ozveny-filmovych-melodii/2431/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "Partička na vzduchu",
+   "venue": "KD Vltava, České Budějovice",
+   "url": "https://www.kdvltava.com/22-akce/118-particka"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Hospodský kvíz – Horká vana – pondělky",
+   "venue": "Horká vana, Česká 222/7, České Budějovice",
+   "url": "https://horkavanacb.cz/program/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:30",
+   "title": "Pořád jsem to já",
+   "venue": "Jihočeské divadlo, scéna Na Půdě",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2425-porad-jsem-to-ja"
+  },
+  {
+   "kind": "Film",
+   "time": "19:30",
+   "title": "Mlčení",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/film/mlceni/"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Minotaur",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "21:00",
+   "title": "Hudba QUEEN & ABBA při svíčkách – přidaný koncert",
+   "venue": "Malá scéna, DK Metropol",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/hudba-queen--abba-pri-svickach/2425/"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Daniela Přikrylová – pamětnice 2. generace",
+   "venue": "Komunitní centrum na půdě",
+   "url": "https://visit.prachatice.eu/udalost/19-rocnik-multikulturni-konference-volary-a-pochod-smrti/"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Saunové ceremoniály a peelingy",
+   "venue": "Saunový svět",
+   "url": "https://visit.prachatice.eu/udalost/saunove-ceremonialy-a-peelingy-25/"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Vztahy",
+   "venue": "Centrum Naomi",
+   "url": "https://visit.prachatice.eu/udalost/vztahy/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Alexandra Říhová: Dotyky fauny (výstava)",
+   "venue": "Zimní zahrada MěÚ",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Výstava Košilela",
+   "venue": "Galerie Neumannka",
+   "url": "https://visit.prachatice.eu/"
+  }
+ ],
+ "weekend_events": [],
+ "limitations": [
+  "InBudějovice neukazuje použitelné datované události mimo vložený kalendář; Divadlo u Kapličky má zastaralý program, Budějcké akce míchají staré a budoucí termíny. Úplnost menších pořadatelů nelze zaručit.",
+  "České Budějovice: výstava hub v Jihočeském muzeu je podle muzea zrušena; školní blok Kolotoče příběhů nemá veřejně určené místo jednotlivých programů a není zahrnut.",
+  "Prachatice: měsíční zpravodaj je přepis; změny programu nemusí být zachyceny. Rozsah vícedenních výstav sám o sobě nedokazuje dnešní otevření.",
+  "Prachatice: vyřazeny pondělní zavřené výstavy Artem: Successfully (Galerie Dolní brána), Karty všech tváří (Prachatické muzeum), Cirkus v proměnách doby (Muzeum české loutky a cirkusu), Každý den pro radost (Senior Point má provoz jen čtvrtek). Galerie Sklo–Gl&ss nyní na svém webu neuvádí prachatickou výstavu Veroniky Škopkové, proto vyřazena.",
+  "Prachatice: pondělní otevření Městské knihovny nelze přímo ověřit (web nedostupný), výstava Charlotte Garrigue Masarykové byla vynechána. U Zimní zahrady a Galerie Neumannka je ověřena provozní doba místa, nikoli případná mimořádná uzavírka.",
+  "Prachatice: GoOut nebylo samostatně plně prověřeno; městské API a měsíční přepis tvoří hlavní podklad. Pokrytí nemusí být úplné."
+ ],
+ "news": [],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "llm-tools-datasette 0.1.1",
+   "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+   "date": "2026-10-19T01:43:09+02:00",
+   "title_cs": "llm-tools-datasette 0.1.1"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "llm-echo 0.5",
+   "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+   "date": "2026-10-19T01:16:16+02:00",
+   "title_cs": "llm-echo 0.5"
+  },
+  {
+   "source": "Interconnects",
+   "title": "Meta shakes up the frontiers, open and closed",
+   "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+   "date": "2026-10-17T16:06:54+02:00",
+   "title_cs": "Meta mění poměry na špičce AI, otevřené i uzavřené"
+  },
+  {
+   "source": "OpenAI",
+   "title": "How Itaú is building generative AI for its entire customer base",
+   "url": "https://openai.com/index/itau-generative-ai",
+   "date": "2026-10-16T21:00:00+02:00",
+   "title_cs": "Jak Itaú buduje generativní AI pro všechny své zákazníky"
+  }
+ ],
+ "money": {
+  "cnb_date": "16.10.2026",
+  "eur": "24,325",
+  "ono_valid": "14.10.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "43,90",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "43,90",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "43,90",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "43,90",
+    "diesel": "45,90"
+   }
+  ]
+ }
+}
