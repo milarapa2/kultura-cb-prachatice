@@ -290,7 +290,14 @@
   "Prachatice: pondělní otevření Městské knihovny nelze přímo ověřit (web nedostupný), výstava Charlotte Garrigue Masarykové byla vynechána. U Zimní zahrady a Galerie Neumannka je ověřena provozní doba místa, nikoli případná mimořádná uzavírka.",
   "Prachatice: GoOut nebylo samostatně plně prověřeno; městské API a měsíční přepis tvoří hlavní podklad. Pokrytí nemusí být úplné."
  ],
- "news": [],
+ "news": [
+  {
+   "headline": "Anthropic chce vyčlenit podíl ve firmě do fondu pro veřejný prospěch včetně řešení dopadů AI na práci.",
+   "fact": "Anthropic 18. října oznámil záměr vložit 5 % svých akcií do nového fondu; krok podléhá schválení akcionářů. Firma jako možné využití uvádí dary či přímou podporu a řešení dopadů AI na pracovní trh.",
+   "impact": "Pokud fond vznikne a bude financovat účinná opatření, mohl by v příštích třech letech pomoci hledat způsoby, jak tlumit změny práce způsobené AI. Zatím není jisté schválení, konkrétní příjemci ani přínos pro lidi v ČR.",
+   "source_url": "https://www.anthropic.com/news/public-benefit-fund"
+  }
+ ],
  "ai_news": [
   {
    "source": "Simon Willison",
