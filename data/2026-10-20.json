@@ -1,0 +1,338 @@
+{
+ "date": "2026-10-20",
+ "checked_at": "2026-10-20T07:31:05+02:00",
+ "sources": [
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské muzeum",
+   "url": "https://www.muzeumcb.cz/jihoceske-muzeum/",
+   "status": "ok"
+  },
+  {
+   "name": "Horká vana",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "Budějce.cz",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "InBudějovice",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "ICM ČB",
+   "url": "http://www.icmcb.cz/tydenni-prehled-akci-v-ceskych-budejovicich-16-10-2026-22-10-2026/",
+   "status": "ok"
+  },
+  {
+   "name": "Budějcké akce",
+   "url": "https://budejckeakce.cz/",
+   "status": "unavailable"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "ok"
+  },
+  {
+   "name": "Verbarium",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/",
+   "status": "ok"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-10-20&end_date=2026-10-20%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Kulturní a společenský servis Prachatice (přepis říjen 2026)",
+   "url": "https://visit.prachatice.eu/",
+   "status": "ok"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Doplňky krásy a elegance (výstava)",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/doplnky-krasy-a-elegance.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Hřibovité houby v jižních Čechách (výstava)",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/hribovite-houby-v-jiznich-cechach.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "RETROGAMING | Počátky osobních počítačů u nás (výstava)",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "Karkulka vrací úder",
+   "venue": "Malé divadlo, České Budějovice",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2427-karkulka-vraci-uder"
+  },
+  {
+   "kind": "Film",
+   "time": "10:30",
+   "title": "Divadlo Petra Bezruče: 1984 | PRO ŠKOLY",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "16:00",
+   "title": "V srdci divočiny",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Zelené úterý – Klimatomluva: fakta proti dezinformacím",
+   "venue": "Horká vana, Česká 222/7, České Budějovice",
+   "url": "https://horkavanacb.cz/program/"
+  },
+  {
+   "kind": "Film",
+   "time": "17:15",
+   "title": "Kdyby se holubi proměnili ve zlato",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Akce",
+   "time": "18:00",
+   "title": "Prohlídka Kendeho vily – Jan Ciglbauer",
+   "venue": "Kendeho vila, Otakarova 9, České Budějovice",
+   "url": "https://www.budejce.cz/kalendar/1175667590-prohlidka-kendeho-vily-jan-ciglbauer"
+  },
+  {
+   "kind": "Akce",
+   "time": "18:00",
+   "title": "Podzimní koncert – Carmína",
+   "venue": "DK Metropol, společenský sál",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/podzimni-koncert-carmina/2454/"
+  },
+  {
+   "kind": "Film",
+   "time": "18:00",
+   "title": "Bára Basiková",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Karel Svoboda – Ještě světu šanci dej",
+   "venue": "DK Metropol, divadelní sál",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/karel-svoboda-jeste-svetu-sanci-dej/2297/"
+  },
+  {
+   "kind": "Film",
+   "time": "19:30",
+   "title": "Fjord",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Fjord",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Bleší trh a KreBul obchůdek",
+   "venue": "KreBul, Zlatá stezka 145",
+   "url": "https://visit.prachatice.eu/udalost/blesi-trh-a-krebul-obchudek-5/"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Blešší trh a KreBul obchůdek",
+   "venue": "KreBul, Zlatá stezka 145",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Lenka Hrabalová – Jižní Súdán, Džibutsko, Somaliland a Etiopie",
+   "venue": "Městské divadlo",
+   "url": "https://visit.prachatice.eu/udalost/lenka-hrabalova-jizni-sudan-dzibutsko-somaliland-a-etiopie/"
+  },
+  {
+   "kind": "Film",
+   "time": "19:30",
+   "title": "Divočina",
+   "venue": "Kino Národka",
+   "url": "https://visit.prachatice.eu/udalost/divocina/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Alexandra Říhová: Dotyky fauny (výstava)",
+   "venue": "Zimní zahrada MěÚ",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Artem: Successfully (výstava)",
+   "venue": "Galerie Dolní brána",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Charlotte Garrigue Masaryková (výstava)",
+   "venue": "Městská knihovna",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Cirkus v proměnách doby (výstava)",
+   "venue": "Muzeum české loutky a cirkusu",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Karty všech tváří (výstava)",
+   "venue": "Prachatické muzeum",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Každý den pro radost (výstava A. Millisteinerové)",
+   "venue": "Seniorpoint",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Veronika Škopková: Obrazy (výstava)",
+   "venue": "Galerie Sklo – Gl&ss",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Výstava Košilela",
+   "venue": "Galerie Neumannka",
+   "url": "https://visit.prachatice.eu/"
+  }
+ ],
+ "weekend_events": [],
+ "limitations": [
+  "Pokrytí ČB nemusí být úplné: InBudějovice neposkytlo datované události, Divadlo u Kapličky má starý program a Budějcké akce neměly ověřitelný dnešní detail.",
+  "Prachatice: měsíční zpravodaj je přepis; změny programu nemusí být zachyceny. U vícedenních výstav ověřte otevírací dobu, rozsah neznamená otevřeno každý den.",
+  "Prachatice: podklad obsahuje dvě pravděpodobně totožné položky Bleší/Blešší trh; přeneseny beze změny. Otevírací doba prachatických výstav nebyla samostatně potvrzena."
+ ],
+ "news": [],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "My obituary for programming",
+   "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+   "date": "2026-10-20T01:58:25+02:00",
+   "title_cs": "Můj nekrolog programování"
+  },
+  {
+   "source": "Import AI",
+   "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
+   "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+   "date": "2026-10-19T14:31:37+02:00",
+   "title_cs": "Import AI 477: Jak jsem MMF řekl, že singularita začala"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Advancing coding in low‑resource programming languages",
+   "url": "https://openai.com/index/low-resource-programming-languages",
+   "date": "2026-10-19T14:00:00+02:00",
+   "title_cs": "Lepší programování v jazycích s málem zdrojů"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "llm-tools-datasette 0.1.1",
+   "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+   "date": "2026-10-19T01:43:09+02:00",
+   "title_cs": "llm-tools-datasette 0.1.1"
+  },
+  {
+   "source": "Interconnects",
+   "title": "Meta shakes up the frontiers, open and closed",
+   "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+   "date": "2026-10-17T16:06:54+02:00",
+   "title_cs": "Meta mění poměry na špičce AI, otevřené i uzavřené"
+  }
+ ],
+ "money": {
+  "cnb_date": "19.10.2026",
+  "eur": "24,340",
+  "ono_valid": "14.10.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "43,90",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "43,90",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "43,90",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "43,90",
+    "diesel": "45,90"
+   }
+  ]
+ }
+}
