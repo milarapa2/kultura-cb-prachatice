@@ -270,7 +270,14 @@
   "Prachatice: měsíční zpravodaj je přepis; změny programu nemusí být zachyceny. U vícedenních výstav ověřte otevírací dobu, rozsah neznamená otevřeno každý den.",
   "Prachatice: podklad obsahuje dvě pravděpodobně totožné položky Bleší/Blešší trh; přeneseny beze změny. Otevírací doba prachatických výstav nebyla samostatně potvrzena."
  ],
- "news": [],
+ "news": [
+  {
+   "headline": "Anthropic chce vyčlenit podíl ve firmě na veřejně prospěšný fond pro éru AI.",
+   "fact": "Anthropic 18. října oznámil plán převést 5 % svých akcií do fondu, který by mohl financovat například pomoc lidem dotčeným změnami práce kvůli AI. Převod podléhá schválení akcionářů; pravidla správy fondu firma teprve zveřejní.",
+   "impact": "Pokud plán uskuteční, může během příštích tří let nabídnout nový způsob, jak část výnosů z AI vracet společnosti; pro lidi v Česku zatím žádná konkrétní pomoc oznámena není. Rozsah a skutečný účinek budou záviset na schválení, hodnotě akcií a budoucích pravidlech fondu.",
+   "source_url": "https://www.anthropic.com/news/public-benefit-fund"
+  }
+ ],
  "ai_news": [
   {
    "source": "Simon Willison",
