@@ -592,7 +592,14 @@
   "Prachatice: měsíční zpravodaj je přepis; změny programu nemusí být zachyceny. U vícedenních výstav ověřte otevírací dobu, rozsah neznamená otevřeno každý den.",
   "Víkend: výstavy bez samostatně potvrzených víkendových otevíracích dob nebyly zařazeny; pokrytí dalších pořadatelů není úplné. Prachatické API na neděli 25. 10. nevrátilo žádné položky."
  ],
- "news": [],
+ "news": [
+  {
+   "headline": "Jeden útočník využil AI agenty k průnikům na weby více než stovky firem.",
+   "fact": "Agentura Reuters 19. října zveřejnila vyšetřování kampaně, v níž AI agenti zkoušeli proniknout na více než 1 200 webů a uspěli u více než stovky z nich; totožnost části napadených firem ověřila vlastní kontrolou záznamů útočníka. Výzkumník společnosti NorForge popsal přes dvacet veřejně přístupných řídicích panelů pravděpodobně zneužívaných k podobným operacím.",
+   "impact": "Jde o doložený příklad, že AI může zlevnit a škálovat kyberútoky, což by se během tří let mohlo promítnout do rizik pro digitální služby používané i v Česku. Není ale doloženo, že unikla data zákazníků těchto firem, ani jak rychle se podobné útoky rozšíří.",
+   "source_url": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/"
+  }
+ ],
  "ai_news": [
   {
    "source": "Simon Willison",
