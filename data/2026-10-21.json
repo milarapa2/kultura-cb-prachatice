@@ -1,0 +1,674 @@
+{
+ "date": "2026-10-21",
+ "checked_at": "2026-10-21T07:36:58+02:00",
+ "sources": [
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "Horká vana",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "InBudějovice",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "Budějce.cz",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "ICM ČB",
+   "url": "http://www.icmcb.cz/tydenni-prehled-akci-v-ceskych-budejovicich-16-10-2026-22-10-2026/",
+   "status": "ok"
+  },
+  {
+   "name": "Budějcké akce",
+   "url": "https://www.budejckeakce.cz/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Kolotoč příběhů – Verbarium",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/",
+   "status": "ok"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-10-21&end_date=2026-10-21%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Kulturní a společenský servis na říjen 2026 (tištěný zpravodaj Prachatice, foto od Vítka 30. 9. 2026)",
+   "url": "https://visit.prachatice.eu/",
+   "status": "ok"
+  },
+  {
+   "name": "Víkend Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-10-24&end_date=2026-10-24%2023:59&per_page=100",
+   "status": "ok"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "To snad nemyslíš vážně?!",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2618-to-snad-nemyslis-vazne"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "Laetitia Colombani: Nejsem cvok",
+   "venue": "DK Metropol, divadelní sál",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/laetitia-colombani-nejsem-cvok/2400/"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Rozhlasová tančírna 2026: Jan Smigmator & Rozhlasový swingový orchestr",
+   "venue": "DK Metropol, společenský sál",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/rozhlasova-tancirna-2026-jan-smigmator--rozhlasovy-swingovy-orchestr/2424/"
+  },
+  {
+   "kind": "Film",
+   "time": "09:30",
+   "title": "Tango pro 3",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "14:30",
+   "title": "Tony",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "17:30",
+   "title": "Divočina",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "19:30",
+   "title": "Minotaur",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "15:35",
+   "title": "Bára Basiková",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "17:30",
+   "title": "Fjord",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "20:15",
+   "title": "V srdci divočiny",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "18:00",
+   "title": "Martin Ellrodt: Lov v moři příběhů",
+   "venue": "Goethe Centrum JU ČB",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Nobelovy ceny a české země",
+   "venue": "Radniční sál Staré radnice",
+   "url": "https://visit.prachatice.eu/udalost/nobelovy-ceny-a-ceske-zeme/"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:15",
+   "title": "Nobelovy ceny a české země",
+   "venue": "Radniční sál Staré radnice (knihovna)",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Alexandra Říhová: Dotyky fauny (výstava)",
+   "venue": "Zimní zahrada MěÚ",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Artem: Successfully (výstava)",
+   "venue": "Galerie Dolní brána",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Charlotte Garrigue Masaryková (výstava)",
+   "venue": "Městská knihovna",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Cirkus v proměnách doby (výstava)",
+   "venue": "Muzeum české loutky a cirkusu",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Karty všech tváří (výstava)",
+   "venue": "Prachatické muzeum",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Každý den pro radost (výstava A. Millisteinerové)",
+   "venue": "Seniorpoint",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Veronika Škopková: Obrazy (výstava)",
+   "venue": "Galerie Sklo – Gl&ss",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Výstava Košilela",
+   "venue": "Galerie Neumannka",
+   "url": "https://visit.prachatice.eu/"
+  }
+ ],
+ "weekend_events": [
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "GaGa",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2703-gaga"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "15:00",
+   "title": "Dezert",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3179-dezert"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "S čím vším můžu hrát divadlo?",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3182-s-cim-vsim-muzu-hrat-divadlo"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Čardášová princezna",
+   "venue": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3106-cardasova-princezna"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "19:30",
+   "title": "Cyrano z Bergeracu",
+   "venue": "Na Půdě, Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2700-cyrano-z-bergeracu"
+  },
+  {
+   "day": "2026-10-25",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "15:00",
+   "title": "Soudružky s kroužky",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3180-soudruzky-s-krouzky"
+  },
+  {
+   "day": "2026-10-25",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Soudružky s kroužky",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3180-soudruzky-s-krouzky"
+  },
+  {
+   "day": "2026-10-25",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "15:00",
+   "title": "Kája a Bambuláček – Bublinová párty 2026",
+   "venue": "DK Metropol, společenský sál",
+   "url": "https://www.metropolcb.cz/program/spolecenska-a-ostatni-akce/kaja-a-bambulacek-bublinova-party-2026/2411/"
+  },
+  {
+   "day": "2026-10-25",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Podcast Šílenství: Byli jednou dva peaceaři tour",
+   "venue": "DK Metropol, Malá scéna",
+   "url": "https://www.metropolcb.cz/program/spolecenska-a-ostatni-akce/podcast-silenstvi-byli-jednou-dva-peaceari-tour/2417/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "10:00",
+   "title": "Král a skřítek",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "13:00",
+   "title": "Kinošpunti a kapybary | Filmy a povídání o nich",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "16:00",
+   "title": "Ovečka Shaun ve filmu: Příšera z Mossy Bottom",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "18:00",
+   "title": "Rodina",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Rozum a cit",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-10-25",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "16:00",
+   "title": "Ovečka Shaun ve filmu: Příšera z Mossy Bottom",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-10-25",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "17:45",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-10-25",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Vlci",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "14:35",
+   "title": "Ovečka Shaun: Příšera z Mossy Bottom",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "16:10",
+   "title": "V srdci divočiny",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "18:10",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:15",
+   "title": "Bára Basiková",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-10-25",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "14:25",
+   "title": "Pitomá příroda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-10-25",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "15:45",
+   "title": "Bára Basiková",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-10-25",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "17:40",
+   "title": "Rozum a cit",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-10-25",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:10",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "Prachatice",
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Podzimní dopoledne",
+   "venue": "Kafejner, Štěpánčin park",
+   "url": "https://visit.prachatice.eu/udalost/podzimni-dopoledne/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "Prachatice",
+   "kind": "Akce",
+   "time": "20:00",
+   "title": "Prachatice na prach",
+   "venue": "Společenský sál Národního domu",
+   "url": "https://visit.prachatice.eu/udalost/prachatice-na-prach/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "08:30",
+   "title": "Vida Vojić: Vplout do písně",
+   "venue": "Meziprostor",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Martin Ellrodt: Vyprávět příběhy – dotýkat se slovy",
+   "venue": "Meziprostor",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Katarzyna Jackowska-Enemuo a Mateusz Szemraj: Čím je hudba v příběhu",
+   "venue": "Divadlo SUD",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "15:00",
+   "title": "KLEPY VR – Kdo píše dějiny",
+   "venue": "Kendeho vila",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "16:00",
+   "title": "Zpěvy partyzánek",
+   "venue": "Kendeho vila (start)",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "16:00",
+   "title": "Verbarium: Vyprávění a hry pro děti",
+   "venue": "Kreativní hub Tady",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Iva Honsová: Jóga s příběhy pro děti",
+   "venue": "Kreativní hub Tady",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "18:00",
+   "title": "Martin Ellrodt: Vše se mění",
+   "venue": "Horká vana",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "20:00",
+   "title": "Světlo na cestu",
+   "venue": "Horká vana",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  },
+  {
+   "day": "2026-10-24",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "21:00",
+   "title": "Otevřená scéna",
+   "venue": "Horká vana",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  },
+  {
+   "day": "2026-10-25",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "14:00",
+   "title": "Iva Honsová: Harmonizující zvuková relaxace",
+   "venue": "BudeCirkus",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  },
+  {
+   "day": "2026-10-25",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "16:00",
+   "title": "Barbora Špačková: Maryšo?",
+   "venue": "Horká vana",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  },
+  {
+   "day": "2026-10-25",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Vida Vojić: Vzývání svaté Hildegardy písní a skleněnou harfou",
+   "venue": "Kostel sv. Prokopa a sv. Jana Křtitele",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  }
+ ],
+ "limitations": [
+  "InBudějovice: městský kalendář se přesměrovává a Guidle neposkytl ověřitelný úplný seznam; Budějcké akce a aktuální Divadlo u Kapličky nebyly potvrzeny. Pokrytí ČB není úplné.",
+  "Dnešní projekce Kotvy v 09:30 je před 10:00; čas pochází z programu kina, pro jistotu jej ověřte u kina.",
+  "Prachatice: měsíční zpravodaj je přepis; změny programu nemusí být zachyceny. U vícedenních výstav ověřte otevírací dobu, rozsah neznamená otevřeno každý den.",
+  "Víkend: výstavy bez samostatně potvrzených víkendových otevíracích dob nebyly zařazeny; pokrytí dalších pořadatelů není úplné. Prachatické API na neděli 25. 10. nevrátilo žádné položky."
+ ],
+ "news": [],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "eMudhra Intermediate CA Compromise",
+   "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+   "date": "2026-10-21T01:50:25+02:00",
+   "title_cs": "Kompromitace zprostředkující certifikační autority eMudhra"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+   "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+   "date": "2026-10-20T21:34:19+02:00",
+   "title_cs": "Battle Drones: RTS napsaná vibe codingem s multiplayerem přes zvuk"
+  },
+  {
+   "source": "Interconnects",
+   "title": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
+   "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+   "date": "2026-10-20T19:04:21+02:00",
+   "title_cs": "Nejnovější otevřené artefakty (#25): DeepSeek V4.1 Flash 1017, modely vyrobené v USA a nová regulace v USA a Číně"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+   "url": "https://openai.com/index/ted-taylor-restaurant",
+   "date": "2026-10-20T12:00:00+02:00",
+   "title_cs": "Franšízant s ChatGPT Work odsouhlasí hotovost o 94 % rychleji"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+   "url": "https://openai.com/index/terminal-x",
+   "date": "2026-10-20T09:00:00+02:00",
+   "title_cs": "Terminal X se s GPT-6.1 shoduje s úsudkem zkušených investorů z 88,6 %"
+  },
+  {
+   "source": "METR",
+   "title": "Review of the \"Misalignment in high-stakes settings\" section in Anthropic's Risk Report (August 2026)",
+   "url": "https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review/",
+   "date": "2026-10-20T09:00:00+02:00",
+   "title_cs": "Rozbor části „Nesoulad v situacích s vysokými sázkami“ ze zprávy Anthropicu o rizicích (srpen 2026)"
+  },
+  {
+   "source": "Import AI",
+   "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
+   "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+   "date": "2026-10-19T14:31:37+02:00",
+   "title_cs": "Import AI 477: Jak jsem MMF řekl, že singularita začala"
+  }
+ ],
+ "money": {
+  "cnb_date": "20.10.2026",
+  "eur": "24,325",
+  "ono_valid": "20.10.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "43,50",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "43,50",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "43,50",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "43,50",
+    "diesel": "45,90"
+   }
+  ]
+ }
+}
