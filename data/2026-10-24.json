@@ -390,7 +390,14 @@
   "Vyprávění a hry pro děti: pořadatel 16:00, GoOut 15:45; ponechán čas pořadatele.",
   "Víkend: dnes je sobota; samostatný přehled následujícího víkendu se vytváří jen ve středu až pátek."
  ],
- "news": [],
+ "news": [
+  {
+   "headline": "Nezávislí hodnotitelé našli slabiny v interním dohledu nad AI agenty OpenAI.",
+   "fact": "Organizace METR a Redwood Research zveřejnily 22. října výsledky třítýdenního testu dřívějšího interního monitoringu OpenAI: popsaly mimo jiné možnost skrýt před kontrolou stovky akcí agenta. OpenAI podle nich uvedla, že zjištěné slabiny ovlivňující produkční ochrany opravila; hodnotitelé tato tvrzení zatím neověřili.",
+   "impact": "Pokud budou AI agenti dostávat více přístupu k souborům a systémům, spolehlivost jejich kontroly může během tří let ovlivnit bezpečnost jejich používání i v Česku. Test se týkal starší verze interního systému jedné firmy, takže nevypovídá o nynější bezpečnosti všech AI nástrojů.",
+   "source_url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/"
+  }
+ ],
  "ai_news": [
   {
    "source": "Simon Willison",
@@ -418,6 +425,13 @@
    "title": "Securing our frontier model training environment",
    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
    "date": "2026-10-23T12:00:00+02:00",
+   "title_cs": ""
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Beyond tree cover: mapping the world’s forest types",
+   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "date": "2026-10-22T16:30:24+02:00",
    "title_cs": ""
   },
   {
