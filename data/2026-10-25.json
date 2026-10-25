@@ -1,0 +1,310 @@
+{
+ "date": "2026-10-25",
+ "checked_at": "2026-10-25T07:25:04+01:00",
+ "sources": [
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3180-soudruzky-s-krouzky",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/kaja-a-bambulacek-bublinova-party-2026/2411/",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "InBudějovice",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "ICM ČB",
+   "url": "https://www.icmcb.cz/",
+   "status": "stale"
+  },
+  {
+   "name": "Budějcké akce",
+   "url": "https://budejckeakce.cz/",
+   "status": "stale"
+  },
+  {
+   "name": "Budějce.cz",
+   "url": "https://www.budejce.cz/kalendar/1329825524-ceske-budejovice-cokofest-2026",
+   "status": "ok"
+  },
+  {
+   "name": "Horká vana, veřejné iCal kalendáře",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "Verbarium – Kolotoč příběhů",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské muzeum",
+   "url": "https://www.muzeumcb.cz/program/doprovodne-akce/koncert-habsburkove-na-ceskem-kralovskem-trune-a-hudba-v-cechach-1526-1612.html",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut Prachatice",
+   "url": "https://goout.net/cs/prachatice/akce/lezwmynkk/",
+   "status": "ok"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-10-25&end_date=2026-10-25%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Kulturní a společenský servis na říjen 2026 (tištěný zpravodaj Prachatice, foto od Vítka 30. 9. 2026)",
+   "url": "https://visit.prachatice.eu/",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatické muzeum – otevírací doba",
+   "url": "https://www.prachatickemuzeum.cz/oteviraci-doba.html",
+   "status": "ok"
+  },
+  {
+   "name": "Muzeum české loutky a cirkusu – otevírací doba",
+   "url": "https://www.nm.cz/navstivte-nas/objekty/muzeum-ceske-loutky-a-cirkusu",
+   "status": "ok"
+  },
+  {
+   "name": "Galerie Dolní brána – otevírací doba",
+   "url": "https://visit.prachatice.eu/aktivity/galerie-dolni-brana/",
+   "status": "ok"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "České Budějovice ČokoFest 2026",
+   "venue": "Výstaviště České Budějovice",
+   "url": "https://www.budejce.cz/kalendar/1329825524-ceske-budejovice-cokofest-2026"
+  },
+  {
+   "kind": "Film",
+   "time": "14:25",
+   "title": "Pitomá příroda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "14:00",
+   "title": "Iva Honsová: Harmonizující zvuková relaxace",
+   "venue": "BudeCirkus",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "15:00",
+   "title": "Soudružky s kroužky",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3180-soudruzky-s-krouzky"
+  },
+  {
+   "kind": "Akce",
+   "time": "15:00",
+   "title": "Kája a Bambuláček – Bublinová párty 2026",
+   "venue": "DK Metropol, Společenský sál",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/kaja-a-bambulacek-bublinova-party-2026/2411/"
+  },
+  {
+   "kind": "Film",
+   "time": "15:45",
+   "title": "Bára Basiková",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "16:00",
+   "title": "Ovečka Shaun ve filmu: Příšera z Mossy Bottom",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "16:00",
+   "title": "Barbora Špačková: Maryšo?",
+   "venue": "Horká vana, Česká 222/7",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Soudružky s kroužky",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3180-soudruzky-s-krouzky"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Vida Vojić: Vzývání svaté Hildegardy písní a skleněnou harfou",
+   "venue": "Kostel sv. Prokopa a sv. Jana Křtitele",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Koncert: Habsburkové na českém královském trůně a hudba v Čechách 1526–1612",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/doprovodne-akce/koncert-habsburkove-na-ceskem-kralovskem-trune-a-hudba-v-cechach-1526-1612.html"
+  },
+  {
+   "kind": "Film",
+   "time": "17:40",
+   "title": "Rozum a cit",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "17:45",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Vlci",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "20:10",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Cirkus v proměnách doby (výstava)",
+   "venue": "Muzeum české loutky a cirkusu",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Karty všech tváří (výstava)",
+   "venue": "Prachatické muzeum",
+   "url": "https://visit.prachatice.eu/"
+  }
+ ],
+ "weekend_events": [],
+ "limitations": [
+  "Prachatice: měsíční zpravodaj je přepis; změny programu nemusí být zachyceny. U vícedenních výstav ověřte otevírací dobu, rozsah neznamená otevřeno každý den.",
+  "Prachatice: Galerie Dolní brána má nedělní otevírací dobu uvedenou jen pro červen až září; říjnová výstava proto vyřazena. Pro výstavy v Zimní zahradě MěÚ, knihovně, Seniorpointu, Galerii Sklo a Galerii Neumannka nebylo potvrzeno nedělní otevření.",
+  "Pokrytí Českých Budějovic není úplné: InBudějovice neposkytlo ověřitelné datované položky; týdenní ICM, Budějcké akce a Divadlo u Kapličky neměly použitelný aktuální program.",
+  "Víkend: dnes je neděle; samostatné víkendové položky se zpracovávají pouze ve středu až pátek."
+ ],
+ "news": [
+  {
+   "headline": "ECDC vyhodnotilo šíření eboly do Keni a Nigérie; riziko pro Evropu zatím zůstává velmi nízké.",
+   "fact": "V hodnocení zveřejněném 23. října ECDC uvádí devět potvrzených případů v Keni a jeden v Nigérii v souvislosti s epidemií viru Bundibugyo v DR Kongu. Celkové riziko pro běžnou populaci EU/EHP hodnotí jako velmi nízké a doporučuje zdravotnickou připravenost, nikoli omezení cest do Keni a Nigérie.",
+   "impact": "Jde o důležitý test schopnosti včas rozpoznat a zvládnout zavlečené případy, což může být během příštích tří let podstatné pro zdravotní bezpečnost i v Česku. Další vývoj epidemie je nejistý; současné hodnocení ECDC nepodporuje závěr, že českým rodinám hrozí bezprostřední nákaza.",
+   "source_url": "https://www.ecdc.europa.eu/en/publications-data/threat-assessment-brief-importation-ebola-disease-cases-caused-bundibugyo-virus"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "battledrones v14: Compass Rose, a four player map",
+   "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+   "date": "2026-10-24T05:59:57+02:00",
+   "title_cs": ""
+  },
+  {
+   "source": "Simon Willison",
+   "title": "Quick Study",
+   "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+   "date": "2026-10-23T23:35:13+02:00",
+   "title_cs": ""
+  },
+  {
+   "source": "OpenAI",
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "date": "2026-10-23T19:00:00+02:00",
+   "title_cs": ""
+  },
+  {
+   "source": "OpenAI",
+   "title": "Securing our frontier model training environment",
+   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "date": "2026-10-23T12:00:00+02:00",
+   "title_cs": ""
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Beyond tree cover: mapping the world’s forest types",
+   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "date": "2026-10-22T16:30:24+02:00",
+   "title_cs": ""
+  },
+  {
+   "source": "METR",
+   "title": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
+   "url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/",
+   "date": "2026-10-22T09:00:00+02:00",
+   "title_cs": ""
+  }
+ ],
+ "money": {
+  "cnb_date": "23.10.2026",
+  "eur": "24,335",
+  "ono_valid": "22.10.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "42,50",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "42,50",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "42,50",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "42,50",
+    "diesel": "45,90"
+   }
+  ]
+ }
+}
