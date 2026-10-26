@@ -220,6 +220,13 @@
  ],
  "ai_news": [
   {
+   "source": "Simon Willison",
+   "title": "Quoting Jason Koebler",
+   "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+   "date": "2026-10-26T20:00:25+01:00",
+   "title_cs": "Citát: Jason Koebler"
+  },
+  {
    "source": "Import AI",
    "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
    "url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
@@ -253,13 +260,6 @@
    "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
    "date": "2026-10-25T12:49:00+01:00",
    "title_cs": "Podcast: Kimi K3.1 Pro, nová kybernetická realita a úvahy o Muse"
-  },
-  {
-   "source": "Simon Willison",
-   "title": "battledrones v14: Compass Rose, a four player map",
-   "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
-   "date": "2026-10-24T05:59:57+02:00",
-   "title_cs": "battledrones v14: Compass Rose, mapa pro čtyři hráče"
   }
  ],
  "money": {
