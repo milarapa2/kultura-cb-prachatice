@@ -228,6 +228,13 @@
   },
   {
    "source": "OpenAI",
+   "title": "ChatGPT’s expanding world of work",
+   "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+   "date": "2026-10-26T11:00:00+01:00",
+   "title_cs": "Rozšiřující se pracovní svět ChatGPT"
+  },
+  {
+   "source": "OpenAI",
    "title": "How Fanatics and OpenAI streamline the fan experience",
    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
    "date": "2026-10-26T08:00:00+01:00",
@@ -253,13 +260,6 @@
    "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
    "date": "2026-10-24T05:59:57+02:00",
    "title_cs": "battledrones v14: Compass Rose, mapa pro čtyři hráče"
-  },
-  {
-   "source": "OpenAI",
-   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-   "date": "2026-10-23T19:00:00+02:00",
-   "title_cs": "Jak jsme rychle škálovali online úložiště pro více než miliardu uživatelů ChatGPT (2. část)"
   }
  ],
  "money": {
