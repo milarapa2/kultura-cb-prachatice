@@ -220,6 +220,20 @@
  ],
  "ai_news": [
   {
+   "source": "Import AI",
+   "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+   "url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+   "date": "2026-10-26T13:31:52+01:00",
+   "title_cs": "Import AI 478: Matematika pro alignment, ProgramBench a Mirendil ukazuje, co znamená RSI"
+  },
+  {
+   "source": "OpenAI",
+   "title": "How Fanatics and OpenAI streamline the fan experience",
+   "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+   "date": "2026-10-26T08:00:00+01:00",
+   "title_cs": "Jak Fanatics a OpenAI zjednodušují zážitek pro fanoušky"
+  },
+  {
    "source": "Simon Willison",
    "title": "Seam Cutter",
    "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
@@ -246,18 +260,11 @@
    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
    "date": "2026-10-23T19:00:00+02:00",
    "title_cs": "Jak jsme rychle škálovali online úložiště pro více než miliardu uživatelů ChatGPT (2. část)"
-  },
-  {
-   "source": "OpenAI",
-   "title": "Securing our frontier model training environment",
-   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-   "date": "2026-10-23T12:00:00+02:00",
-   "title_cs": "Jak zabezpečujeme prostředí pro trénování našich nejpokročilejších modelů"
   }
  ],
  "money": {
-  "cnb_date": "23.10.2026",
-  "eur": "24,335",
+  "cnb_date": "26.10.2026",
+  "eur": "24,365",
   "ono_valid": "22.10.2026",
   "ono": [
    {
