@@ -1,0 +1,285 @@
+{
+ "date": "2026-10-26",
+ "checked_at": "2026-10-26T07:39:25+01:00",
+ "sources": [
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "InBudějovice",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "ICM ČB",
+   "url": "https://www.icmcb.cz/",
+   "status": "stale"
+  },
+  {
+   "name": "Budějcké akce",
+   "url": "https://budejckeakce.cz/",
+   "status": "stale"
+  },
+  {
+   "name": "Budějce.cz",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "Horká vana, veřejné iCal kalendáře",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "ok"
+  },
+  {
+   "name": "Verbarium – Kolotoč příběhů",
+   "url": "https://verbarium.cz/projekty/kolotoc-pribehu-2026/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské muzeum",
+   "url": "https://www.muzeumcb.cz/navstivte-nas/oteviraci-doba/",
+   "status": "ok"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-10-26&end_date=2026-10-26%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Kulturní a společenský servis na říjen 2026 (tištěný zpravodaj Prachatice, foto od Vítka 30. 9. 2026)",
+   "url": "https://visit.prachatice.eu/",
+   "status": "ok"
+  },
+  {
+   "name": "Zimní zahrada MěÚ Prachatice – přístupnost",
+   "url": "https://visit.prachatice.eu/aktivity/zimni-zahrada-meu-prachatice/",
+   "status": "ok"
+  },
+  {
+   "name": "MěÚ Prachatice – úřední hodiny",
+   "url": "https://www.prachatice.eu/uredni%2Dhodiny/d-33208/p1=43273",
+   "status": "ok"
+  },
+  {
+   "name": "Městská knihovna Prachatice – výpůjční doba",
+   "url": "https://www.knih-pt.cz/mestska-knihovna-prachatice/os-10",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatické muzeum – otevírací doba",
+   "url": "https://www.prachatickemuzeum.cz/oteviraci-doba.html",
+   "status": "ok"
+  },
+  {
+   "name": "Muzeum české loutky a cirkusu – otevírací doba",
+   "url": "https://www.nm.cz/navstivte-nas/objekty/muzeum-ceske-loutky-a-cirkusu",
+   "status": "ok"
+  },
+  {
+   "name": "Galerie Dolní brána – otevírací doba",
+   "url": "https://visit.prachatice.eu/aktivity/galerie-dolni-brana/",
+   "status": "ok"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Týden turistických informačních center v Českých Budějovicích",
+   "venue": "Turistické informační centrum, náměstí Přemysla Otakara II.",
+   "url": "https://www.budejce.cz/kalendar/1329190022-tyden-turistickych-informacnich-center-v-ceskych-budejovicich"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "1968",
+   "venue": "Český rozhlas České Budějovice",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2812-1968"
+  },
+  {
+   "kind": "Film",
+   "time": "14:30",
+   "title": "Christopherové",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Akce",
+   "time": "15:00",
+   "title": "Prohlídka turistického informačního centra",
+   "venue": "Turistické informační centrum, náměstí Přemysla Otakara II.",
+   "url": "https://www.budejce.cz/kalendar/1329190022-tyden-turistickych-informacnich-center-v-ceskych-budejovicich"
+  },
+  {
+   "kind": "Film",
+   "time": "15:40",
+   "title": "Rozum a cit",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "16:30",
+   "title": "Prohlídky domů a dvorků měšťanských domů",
+   "venue": "Sraz u Samsonovy kašny",
+   "url": "https://www.budejce.cz/kalendar/1328032259-prohlidky-domu-a-dvorku-mestanskych-domu"
+  },
+  {
+   "kind": "Film",
+   "time": "17:00",
+   "title": "Fjord",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "18:10",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "1968",
+   "venue": "Český rozhlas České Budějovice",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2812-1968"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Lev salonu s Davidem Vávrou",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "20:15",
+   "title": "Rose",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Alexandra Říhová: Dotyky fauny (výstava)",
+   "venue": "Zimní zahrada MěÚ",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Charlotte Garrigue Masaryková (výstava)",
+   "venue": "Městská knihovna",
+   "url": "https://visit.prachatice.eu/"
+  }
+ ],
+ "weekend_events": [],
+ "limitations": [
+  "Prachatice: měsíční zpravodaj je přepis; změny programu nemusí být zachyceny. U vícedenních výstav ověřte otevírací dobu, rozsah neznamená otevřeno každý den.",
+  "Prachatice: Galerie Dolní brána, Prachatické muzeum a Muzeum české loutky a cirkusu mají v pondělí zavřeno; jejich výstavy jsou vyřazeny. U Seniorpointu, Galerie Sklo a Galerie Neumannka nebylo potvrzeno pondělní otevření.",
+  "Pokrytí Českých Budějovic není úplné: InBudějovice neposkytlo ověřitelné datované položky; týdenní ICM, Budějcké akce a Divadlo u Kapličky neměly použitelný aktuální program. Veřejné iCal kalendáře Horké vany pro dnešek nevrátily ověřenou akci.",
+  "Víkend: dnes je pondělí; samostatné víkendové položky se zpracovávají pouze ve středu až pátek."
+ ],
+ "news": [
+  {
+   "headline": "Výrobce modelu Kimi před plánovaným zveřejněním jeho vah omezil schopnost pomáhat s kyberútoky.",
+   "fact": "Čínská společnost Moonshot podle zprávy Reuters představila model Kimi K3.1 Pro a uvedla, že z jeho tréninku odstranila část kybernetických dat. Váhy modelu plánuje zveřejnit 4. listopadu; oslabení útočných schopností vychází pouze z jejího interního testu, který zatím nebyl nezávisle ověřen.",
+   "impact": "Jde o konkrétní pokus snížit riziko zneužití otevřeného AI modelu při útocích na software, což může být v příštích třech letech důležité i pro digitální služby v Česku. Zda opatření skutečně obstojí po zveřejnění vah, zatím není jasné.",
+   "source_url": "https://indianexpress.com/article/technology/artificial-intelligence/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-ai-powered-cyberattacks-10935831/"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "Seam Cutter",
+   "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+   "date": "2026-10-25T16:10:19+01:00",
+   "title_cs": "Nástroj na párání švů"
+  },
+  {
+   "source": "Interconnects",
+   "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+   "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+   "date": "2026-10-25T12:49:00+01:00",
+   "title_cs": "Podcast: Kimi K3.1 Pro, nová kybernetická realita a úvahy o Muse"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "battledrones v14: Compass Rose, a four player map",
+   "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+   "date": "2026-10-24T05:59:57+02:00",
+   "title_cs": "battledrones v14: Compass Rose, mapa pro čtyři hráče"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "date": "2026-10-23T19:00:00+02:00",
+   "title_cs": "Jak jsme rychle škálovali online úložiště pro více než miliardu uživatelů ChatGPT (2. část)"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Securing our frontier model training environment",
+   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "date": "2026-10-23T12:00:00+02:00",
+   "title_cs": "Jak zabezpečujeme prostředí pro trénování našich nejpokročilejších modelů"
+  }
+ ],
+ "money": {
+  "cnb_date": "23.10.2026",
+  "eur": "24,335",
+  "ono_valid": "22.10.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "42,50",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "42,50",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "42,50",
+    "diesel": "45,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "42,50",
+    "diesel": "45,90"
+   }
+  ]
+ }
+}
