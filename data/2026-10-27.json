@@ -298,27 +298,27 @@
  "money": {
   "cnb_date": "27.10.2026",
   "eur": "24,340",
-  "ono_valid": "22.10.2026",
+  "ono_valid": "27.10.2026",
   "ono": [
    {
     "name": "Dolní Dvořiště - ONO I",
-    "n95": "42,50",
-    "diesel": "45,90"
+    "n95": "41,90",
+    "diesel": "46,90"
    },
    {
     "name": "Jindřichův Hradec",
-    "n95": "42,50",
-    "diesel": "45,90"
+    "n95": "41,90",
+    "diesel": "46,90"
    },
    {
     "name": "Planá nad Lužnicí",
-    "n95": "42,50",
-    "diesel": "45,90"
+    "n95": "41,90",
+    "diesel": "46,90"
    },
    {
     "name": "Podolí u Písku",
-    "n95": "42,50",
-    "diesel": "45,90"
+    "n95": "41,90",
+    "diesel": "46,90"
    }
   ]
  }
