@@ -253,6 +253,13 @@
  ],
  "ai_news": [
   {
+   "source": "Simon Willison",
+   "title": "Game Boy Color on My Conference Badge",
+   "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+   "date": "2026-10-27T20:34:18+01:00",
+   "title_cs": "Game Boy Color na mém konferenčním odznaku"
+  },
+  {
    "source": "Google DeepMind",
    "title": "Genie 4: A new generation of world simulation",
    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
@@ -279,13 +286,6 @@
    "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
    "date": "2026-10-27T00:53:07+01:00",
    "title_cs": "GPT-6.1 Terra"
-  },
-  {
-   "source": "Simon Willison",
-   "title": "Quoting Jason Koebler",
-   "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
-   "date": "2026-10-26T20:00:25+01:00",
-   "title_cs": "Citát: Jason Koebler"
   },
   {
    "source": "Import AI",
