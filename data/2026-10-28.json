@@ -612,6 +612,20 @@
  "ai_news": [
   {
    "source": "Simon Willison",
+   "title": "The October inflection point for vibe game development",
+   "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+   "date": "2026-10-28T14:55:15+01:00",
+   "title_cs": "Říjnový zlom ve vibe vývoji her"
+  },
+  {
+   "source": "Interconnects",
+   "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+   "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+   "date": "2026-10-28T13:58:39+01:00",
+   "title_cs": "Artificial Analysis v5 a dilema tvůrců benchmarků"
+  },
+  {
+   "source": "Simon Willison",
    "title": "Quoting Terk Terkowitz",
    "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
    "date": "2026-10-28T11:09:07+01:00",
@@ -625,11 +639,11 @@
    "title_cs": "Legora buduje agentní operační systém pro právní práci"
   },
   {
-   "source": "Simon Willison",
-   "title": "Game Boy Color on My Conference Badge",
-   "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
-   "date": "2026-10-27T20:34:18+01:00",
-   "title_cs": "Game Boy Color na mém konferenčním odznaku"
+   "source": "OpenAI",
+   "title": "Legora is building the agentic operating system for legal work",
+   "url": "https://openai.com/index/legora",
+   "date": "2026-10-28T10:30:00+01:00",
+   "title_cs": "Legora buduje agentní operační systém pro právní práci"
   },
   {
    "source": "Google DeepMind",
@@ -639,25 +653,11 @@
    "title_cs": "Genie 4: Nová generace simulace světů"
   },
   {
-   "source": "OpenAI",
-   "title": "Retell uses OpenAI models to help power 100M monthly calls",
-   "url": "https://openai.com/index/retell-ai",
-   "date": "2026-10-27T16:00:00+01:00",
-   "title_cs": "Retell využívá modely OpenAI k obsluze 100 milionů hovorů měsíčně"
-  },
-  {
    "source": "Import AI",
    "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
    "url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
    "date": "2026-10-26T13:31:52+01:00",
    "title_cs": "Import AI 478: Matematika pro alignment, ProgramBench a Mirendil ukazuje, co znamená RSI"
-  },
-  {
-   "source": "Interconnects",
-   "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
-   "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
-   "date": "2026-10-25T12:49:00+01:00",
-   "title_cs": "Podcast: Kimi K3.1 Pro, nová kybernetická realita a úvahy o Muse"
   }
  ],
  "money": {
