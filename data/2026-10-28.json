@@ -611,6 +611,20 @@
  ],
  "ai_news": [
   {
+   "source": "Google DeepMind",
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "date": "2026-10-28T18:00:58+01:00",
+   "title_cs": "Gemini 4 Carbon: náš další špičkový model"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "GitHub Octoverse 2026",
+   "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+   "date": "2026-10-28T17:45:23+01:00",
+   "title_cs": "GitHub Octoverse 2026"
+  },
+  {
    "source": "Simon Willison",
    "title": "The October inflection point for vibe game development",
    "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
@@ -625,23 +639,16 @@
    "title_cs": "Artificial Analysis v5 a dilema tvůrců benchmarků"
   },
   {
-   "source": "Simon Willison",
-   "title": "Quoting Terk Terkowitz",
-   "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
-   "date": "2026-10-28T11:09:07+01:00",
-   "title_cs": "Citát: Terk Terkowitz"
+   "source": "OpenAI",
+   "title": "The future of the firm",
+   "url": "https://openai.com/index/the-future-of-the-firm",
+   "date": "2026-10-28T11:00:00+01:00",
+   "title_cs": "Budoucnost firmy"
   },
   {
    "source": "OpenAI",
    "title": "Legora is building the agentic operating system for legal work",
    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-   "date": "2026-10-28T10:30:00+01:00",
-   "title_cs": "Legora buduje agentní operační systém pro právní práci"
-  },
-  {
-   "source": "OpenAI",
-   "title": "Legora is building the agentic operating system for legal work",
-   "url": "https://openai.com/index/legora",
    "date": "2026-10-28T10:30:00+01:00",
    "title_cs": "Legora buduje agentní operační systém pro právní práci"
   },
