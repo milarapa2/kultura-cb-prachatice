@@ -1,0 +1,380 @@
+{
+ "date": "2026-10-29",
+ "checked_at": "2026-10-29T09:53:10+01:00",
+ "sources": [
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-10-29&end_date=2026-10-29%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Kulturní a společenský servis na říjen 2026 (tištěný zpravodaj Prachatice, foto od Vítka 30. 9. 2026)",
+   "url": "https://visit.prachatice.eu/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "Kino Kafé 7, renderované detaily Europe/Prague",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Turistický kalendář Budějce",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "Horká vana",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva, jednotlivé časy nepotvrzeny",
+   "url": "https://www.biografkotva.cz/",
+   "status": "unavailable"
+  },
+  {
+   "name": "InBudějovice, vložený Guidle",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "Zavolejte Jeevese",
+   "venue": "Budova Jihočeského divadla, České Budějovice",
+   "url": "https://www.jihoceskedivadlo.cz/porad/1868-zavolejte-jeevese"
+  },
+  {
+   "kind": "Film",
+   "time": "13:50",
+   "title": "Pat a Mat: Zpátky na venkově",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "15:20",
+   "title": "Fantom opery",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "17:55",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Rozum a cit",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Podzimní prázdniny – Halloweenské setkání",
+   "venue": "Městská knihovna, odd. pro děti",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Film",
+   "time": "17:00",
+   "title": "Mia a škola monster",
+   "venue": "Kino Národka",
+   "url": "https://visit.prachatice.eu/udalost/mia-a-skola-monster/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Alexandra Říhová: Dotyky fauny (výstava)",
+   "venue": "Zimní zahrada MěÚ",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Artem: Successfully (výstava)",
+   "venue": "Galerie Dolní brána",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Charlotte Garrigue Masaryková (výstava)",
+   "venue": "Městská knihovna",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Cirkus v proměnách doby (výstava)",
+   "venue": "Muzeum české loutky a cirkusu",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Karty všech tváří (výstava)",
+   "venue": "Prachatické muzeum",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Každý den pro radost (výstava A. Millisteinerové)",
+   "venue": "Seniorpoint",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Veronika Škopková: Obrazy (výstava)",
+   "venue": "Galerie Sklo – Gl&ss",
+   "url": "https://visit.prachatice.eu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Výstava Košilela",
+   "venue": "Galerie Neumannka",
+   "url": "https://visit.prachatice.eu/"
+  }
+ ],
+ "weekend_events": [
+  {
+   "day": "2026-10-31",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Stalo se…? (premiéra)",
+   "venue": "KD Slávie Black Box, České Budějovice",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3101-stalo-se"
+  },
+  {
+   "day": "2026-10-31",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "Pán slepic (sitcom o moci)",
+   "venue": "Budova Jihočeského divadla, České Budějovice",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2920-pan-slepic-sitcom-o-moci"
+  },
+  {
+   "day": "2026-10-31",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "19:30",
+   "title": "Tulák po hvězdách (derniéra)",
+   "venue": "Na Půdě, České Budějovice",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2813-tulak-po-hvezdach"
+  },
+  {
+   "day": "2026-10-31",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "13:25",
+   "title": "Wildwood: Tajemství zakázaného lesa",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-10-31",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "16:00",
+   "title": "Bára Basiková",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-10-31",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "17:55",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-10-31",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Rozum a cit",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-01",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "13:30",
+   "title": "Ovečka Shaun ve filmu: Příšera z Mossy Bottom",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-01",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "15:05",
+   "title": "Fantom opery",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-01",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "17:40",
+   "title": "Rozum a cit",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-01",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:10",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-10-31",
+   "city": "Prachatice",
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Den čar a kouzel",
+   "venue": "Rodinný klub TUKAN, Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/den-car-a-kouzel/"
+  },
+  {
+   "day": "2026-11-01",
+   "city": "Prachatice",
+   "kind": "Divadlo",
+   "time": "15:00",
+   "title": "Sek a Zula",
+   "venue": "Městské divadlo, Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/sek-a-zula/"
+  }
+ ],
+ "limitations": [
+  "Prachatice: měsíční zpravodaj je přepis; změny programu nemusí být zachyceny. U vícedenních výstav ověřte otevírací dobu, rozsah neznamená otevřeno každý den.",
+  "Prachatice: výstavy z říjnového zpravodaje jsou převzaté bez potvrzené dnešní otevírací doby; interval výstavy neznamená otevřeno celý den.",
+  "Kotva: na úvodní stránce jsou upoutávky, nikoli bezpečně spárované dnešní a víkendové projekce s časy; žádný film nebyl převzat.",
+  "InBudějovice: vložený Guidle nebylo možné přečíst po jednotlivých akcích.",
+  "Metropol a další zdroje: víkendový program není úplný; neověřené začátky či jednotlivé části festivalů nejsou zařazeny.",
+  "Jihočeské divadlo: Zavolejte Jeevese, Stalo se…? a Tulák po hvězdách byly podle programu vyprodány.",
+  "Kino 7: každý uvedený film a čas byl spárován s vlastním detailním řádkem pro 29. 10., 31. 10. či 1. 11. po přepnutí prohlížeče na Europe/Prague (offset −60).",
+  "Víkend: vystoupení Báry Basikové v Kino Kafé 7 je kulturní akce, nikoli filmová projekce."
+ ],
+ "news": [],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "Quoting Ted Sanders",
+   "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+   "date": "2026-10-29T00:23:21+01:00",
+   "title_cs": "Cituji Teda Sanderse"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "date": "2026-10-28T18:00:58+01:00",
+   "title_cs": "Gemini 4 Carbon: náš další špičkový model"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "GitHub Octoverse 2026",
+   "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+   "date": "2026-10-28T17:45:23+01:00",
+   "title_cs": "GitHub Octoverse 2026"
+  },
+  {
+   "source": "OpenAI",
+   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "date": "2026-10-28T14:15:00+01:00",
+   "title_cs": "OpenAI a ServiceNow rozšiřují partnerství v oblasti firemních workflow"
+  },
+  {
+   "source": "Interconnects",
+   "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+   "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+   "date": "2026-10-28T13:58:39+01:00",
+   "title_cs": "Artificial Analysis v5 a dilema tvůrců benchmarků"
+  },
+  {
+   "source": "OpenAI",
+   "title": "The future of the firm",
+   "url": "https://openai.com/index/the-future-of-the-firm",
+   "date": "2026-10-28T11:00:00+01:00",
+   "title_cs": "Budoucnost firmy"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Genie 4: A new generation of world simulation",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "date": "2026-10-27T17:01:38+01:00",
+   "title_cs": "Genie 4: Nová generace simulace světů"
+  },
+  {
+   "source": "Import AI",
+   "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+   "url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+   "date": "2026-10-26T13:31:52+01:00",
+   "title_cs": "Import AI 478: Matematika pro alignment, ProgramBench a Mirendil ukazuje, co znamená RSI"
+  }
+ ],
+ "money": {
+  "cnb_date": "27.10.2026",
+  "eur": "24,340",
+  "ono_valid": "27.10.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "41,90",
+    "diesel": "46,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "41,90",
+    "diesel": "46,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "41,90",
+    "diesel": "46,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "41,90",
+    "diesel": "46,90"
+   }
+  ]
+ }
+}
