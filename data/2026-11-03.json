@@ -1,0 +1,208 @@
+{
+ "date": "2026-11-03",
+ "checked_at": "2026-11-03T09:30:00+01:00",
+ "sources": [
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Turistický kalendář Budějce",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Horká vana",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-03&end_date=2026-11-03%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatický zpravodaj",
+   "url": "https://visit.prachatice.eu/",
+   "status": "unavailable"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "16:00",
+   "title": "Prohlídka Kendeho vily – Milan Binder",
+   "venue": "Kendeho vila, Otakarova 9",
+   "url": "https://www.budejce.cz/kalendar/1175667711-prohlidka-kendeho-vily-milan-binder"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Mimi opera (vyprodáno)",
+   "venue": "Jihočeské divadlo – Na Půdě",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2505-mimi-opera"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:30",
+   "title": "Slavnost památky všech zesnulých (do 21:00)",
+   "venue": "Centrum Českých Budějovic",
+   "url": "https://www.budejce.cz/kalendar/1330112659-slavnost-pamatky-vsech-zesnulych"
+  },
+  {
+   "kind": "Film",
+   "time": "14:45",
+   "title": "Bára Basiková",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "16:40",
+   "title": "Rozum a cit",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "17:30",
+   "title": "8 dní, 8 hodin (promítání s debatou, Slavnost památky všech zesnulých)",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "19:10",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Pina",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "14:00",
+   "title": "Dobrá kondice seniora",
+   "venue": "Komunitní centrum SNP 559",
+   "url": "https://visit.prachatice.eu/udalost/dobra-kondice-seniora/"
+  },
+  {
+   "kind": "Akce",
+   "time": "15:00",
+   "title": "Vernisáž: Zlatá ŠEDESÁTKA",
+   "venue": "Zimní zahrada Městského úřadu Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/vernisaz-zlata-sedesatka/"
+  },
+  {
+   "kind": "Akce",
+   "time": "15:30",
+   "title": "Odpoledne s jógou",
+   "venue": "Přednáškový sál – Bašta Hospice sv. J.N.Neumanna",
+   "url": "https://visit.prachatice.eu/udalost/odpoledne-s-jogou-3/"
+  },
+  {
+   "kind": "Film",
+   "time": "19:30",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Národka",
+   "url": "https://visit.prachatice.eu/udalost/kluci-to-vidi-jinak-nez-holky/"
+  }
+ ],
+ "limitations": [
+  "Dnešní přehled ČB připravil Claude ručně (Hermes na limitu ChatGPT); InBudějovice, Facebook a budejckeakce.cz neprověřeny, pokrytí nemusí být úplné. Divadlo u Kapličky a Horká vana bez čitelného dnešního programu.",
+  "Prachatice: chybí měsíční podklad nebo je neplatný (prachatice-2026-11.json: FileNotFoundError)."
+ ],
+ "news": [],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+   "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+   "date": "2026-11-03T06:32:25+01:00",
+   "title_cs": "Objevil jsem zvuk, který prozradí vaši přesnou polohu (a je všude) – YouTube"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "October sponsors-only newsletter",
+   "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+   "date": "2026-11-03T06:28:59+01:00",
+   "title_cs": "Říjnový newsletter jen pro sponzory"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Scaling Git at OpenAI",
+   "url": "https://openai.com/index/scaling-git-at-openai",
+   "date": "2026-11-02T16:30:00+01:00",
+   "title_cs": "Jak OpenAI škáluje Git"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Introducing the Grid Protectors Program",
+   "url": "https://openai.com/index/grid-protectors-program",
+   "date": "2026-11-02T16:00:00+01:00",
+   "title_cs": "Představujeme program Grid Protectors"
+  },
+  {
+   "source": "Import AI",
+   "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+   "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+   "date": "2026-11-02T15:30:54+01:00",
+   "title_cs": "Import AI 479: Spacewar, úlohy s nízkou latencí versus LLM, Genie 4"
+  }
+ ],
+ "money": {
+  "cnb_date": "02.11.2026",
+  "eur": "24,350",
+  "ono_valid": "30.10.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "41,50",
+    "diesel": "46,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "41,50",
+    "diesel": "46,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "41,50",
+    "diesel": "46,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "41,50",
+    "diesel": "46,90"
+   }
+  ]
+ }
+}
