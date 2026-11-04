@@ -143,32 +143,39 @@
  "news": [],
  "ai_news": [
   {
+   "source": "Google DeepMind",
+   "title": "Agentic cheminformatics with Google Antigravity",
+   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "date": "2026-11-03T18:01:49+01:00",
+   "title_cs": "Agentní chemoinformatika s Google Antigravity"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "date": "2026-11-03T17:29:48+01:00",
+   "title_cs": "Qwen 3.8 27B na mém notebooku umí interpretovat i váhy modelů"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Accelerating engineering for the physical world",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "date": "2026-11-03T13:00:00+01:00",
+   "title_cs": "Zrychlení inženýrské práce pro fyzický svět"
+  },
+  {
+   "source": "OpenAI",
+   "title": "How Cisco defends at machine speed with OpenAI",
+   "url": "https://openai.com/index/cisco-cyber",
+   "date": "2026-11-03T09:00:00+01:00",
+   "title_cs": "Jak se Cisco brání rychlostí strojů díky OpenAI"
+  },
+  {
    "source": "Simon Willison",
    "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
    "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
    "date": "2026-11-03T06:32:25+01:00",
    "title_cs": "Objevil jsem zvuk, který prozradí vaši přesnou polohu (a je všude) – YouTube"
-  },
-  {
-   "source": "Simon Willison",
-   "title": "October sponsors-only newsletter",
-   "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
-   "date": "2026-11-03T06:28:59+01:00",
-   "title_cs": "Říjnový newsletter jen pro sponzory"
-  },
-  {
-   "source": "OpenAI",
-   "title": "Scaling Git at OpenAI",
-   "url": "https://openai.com/index/scaling-git-at-openai",
-   "date": "2026-11-02T16:30:00+01:00",
-   "title_cs": "Jak OpenAI škáluje Git"
-  },
-  {
-   "source": "OpenAI",
-   "title": "Introducing the Grid Protectors Program",
-   "url": "https://openai.com/index/grid-protectors-program",
-   "date": "2026-11-02T16:00:00+01:00",
-   "title_cs": "Představujeme program Grid Protectors"
   },
   {
    "source": "Import AI",
@@ -179,29 +186,29 @@
   }
  ],
  "money": {
-  "cnb_date": "02.11.2026",
-  "eur": "24,350",
-  "ono_valid": "30.10.2026",
+  "cnb_date": "03.11.2026",
+  "eur": "24,340",
+  "ono_valid": "03.11.2026",
   "ono": [
    {
     "name": "Dolní Dvořiště - ONO I",
-    "n95": "41,50",
-    "diesel": "46,90"
+    "n95": "40,90",
+    "diesel": "46,50"
    },
    {
     "name": "Jindřichův Hradec",
-    "n95": "41,50",
-    "diesel": "46,90"
+    "n95": "40,90",
+    "diesel": "46,50"
    },
    {
     "name": "Planá nad Lužnicí",
-    "n95": "41,50",
-    "diesel": "46,90"
+    "n95": "40,90",
+    "diesel": "46,50"
    },
    {
     "name": "Podolí u Písku",
-    "n95": "41,50",
-    "diesel": "46,90"
+    "n95": "40,90",
+    "diesel": "46,50"
    }
   ]
  }
