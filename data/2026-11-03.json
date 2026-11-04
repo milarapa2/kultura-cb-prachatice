@@ -143,6 +143,20 @@
  "news": [],
  "ai_news": [
   {
+   "source": "OpenAI",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "date": "2026-11-04T15:30:00+01:00",
+   "title_cs": "OpenAI kupuje společnost Pierre Computer Company, Inc."
+  },
+  {
+   "source": "OpenAI",
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "date": "2026-11-04T08:00:00+01:00",
+   "title_cs": "Daybreak Red je nyní dostupný v AWS GovCloud (US-East)"
+  },
+  {
    "source": "Google DeepMind",
    "title": "Agentic cheminformatics with Google Antigravity",
    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
@@ -155,20 +169,6 @@
    "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
    "date": "2026-11-03T17:29:48+01:00",
    "title_cs": "Qwen 3.8 27B na mém notebooku umí interpretovat i váhy modelů"
-  },
-  {
-   "source": "OpenAI",
-   "title": "Accelerating engineering for the physical world",
-   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-   "date": "2026-11-03T13:00:00+01:00",
-   "title_cs": "Zrychlení inženýrské práce pro fyzický svět"
-  },
-  {
-   "source": "OpenAI",
-   "title": "How Cisco defends at machine speed with OpenAI",
-   "url": "https://openai.com/index/cisco-cyber",
-   "date": "2026-11-03T09:00:00+01:00",
-   "title_cs": "Jak se Cisco brání rychlostí strojů díky OpenAI"
   },
   {
    "source": "Simon Willison",
@@ -186,28 +186,28 @@
   }
  ],
  "money": {
-  "cnb_date": "03.11.2026",
-  "eur": "24,340",
-  "ono_valid": "03.11.2026",
+  "cnb_date": "04.11.2026",
+  "eur": "24,310",
+  "ono_valid": "04.11.2026",
   "ono": [
    {
     "name": "Dolní Dvořiště - ONO I",
-    "n95": "40,90",
+    "n95": "39,90",
     "diesel": "46,50"
    },
    {
     "name": "Jindřichův Hradec",
-    "n95": "40,90",
+    "n95": "39,90",
     "diesel": "46,50"
    },
    {
     "name": "Planá nad Lužnicí",
-    "n95": "40,90",
+    "n95": "39,90",
     "diesel": "46,50"
    },
    {
     "name": "Podolí u Písku",
-    "n95": "40,90",
+    "n95": "39,90",
     "diesel": "46,50"
    }
   ]
