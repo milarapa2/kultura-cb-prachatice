@@ -143,6 +143,13 @@
  "news": [],
  "ai_news": [
   {
+   "source": "Interconnects",
+   "title": "How well can we measure open model inference share?",
+   "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+   "date": "2026-11-04T17:35:44+01:00",
+   "title_cs": "Jak přesně lze změřit podíl otevřených modelů na inferenci?"
+  },
+  {
    "source": "OpenAI",
    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
    "url": "https://openai.com/index/openai-to-acquire-pierre",
