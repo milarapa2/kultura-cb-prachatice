@@ -1,0 +1,645 @@
+{
+ "date": "2026-11-05",
+ "checked_at": "2026-11-05T07:37:07+01:00",
+ "sources": [
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "Horká vana",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské muzeum",
+   "url": "https://www.muzeumcb.cz/program/vystavy/",
+   "status": "ok"
+  },
+  {
+   "name": "Alšova jihočeská galerie",
+   "url": "https://www.ajg.cz/probihajici-vystavy/michal-cimala-achat-f1.html",
+   "status": "ok"
+  },
+  {
+   "name": "Budějce kalendář",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "InBudějovice kalendář",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut Prachatice",
+   "url": "https://goout.net/cs/prachatice/akce/lezwmynkk/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-05&end_date=2026-11-05%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatický zpravodaj",
+   "url": "https://visit.prachatice.eu/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Prachatice víkend API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatické muzeum",
+   "url": "https://www.prachatickemuzeum.cz/oteviraci-doba.html",
+   "status": "ok"
+  },
+  {
+   "name": "Galerie Dolní brána",
+   "url": "https://www.kisprachatice.cz/kontakty-a-oteviraci-doba/os-1010/p1=1037",
+   "status": "ok"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Doplňky krásy a elegance",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/doplnky-krasy-a-elegance.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Hřibovité houby v jižních Čechách",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/hribovite-houby-v-jiznich-cechach.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "RETROGAMING | Počátky osobních počítačů u nás",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Očima, srdcem, rukama",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/ocima-srdcem-rukama.html"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "To snad nemyslíš vážně?!",
+   "venue": "Malé divadlo, České Budějovice",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2618-to-snad-nemyslis-vazne"
+  },
+  {
+   "kind": "Film",
+   "time": "15:20",
+   "title": "Fantom opery",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Michal Cimala | Achát F1 – vernisáž",
+   "venue": "Wortnerův dům, České Budějovice",
+   "url": "https://www.ajg.cz/probihajici-vystavy/michal-cimala-achat-f1.html"
+  },
+  {
+   "kind": "Film",
+   "time": "17:45",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "17:55",
+   "title": "Houpačky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Hospodský kvíz – Horká vana – čtvrtky",
+   "venue": "Horká vana, Česká 222/7, České Budějovice",
+   "url": "https://horkavanacb.cz/program/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "20:00",
+   "title": "Monstrum",
+   "venue": "Na Půdě, Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2806-monstrum"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "De Gaulle 1: Odboj",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "20:00",
+   "title": "Lucie Macháčková: Micina",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "14:00",
+   "title": "Hudební soubor CINK",
+   "venue": "Domov Mistra Křišťana",
+   "url": "https://visit.prachatice.eu/udalost/hudebni-soubor-cink/"
+  },
+  {
+   "kind": "Film",
+   "time": "17:00",
+   "title": "Kocour v klobouku",
+   "venue": "Kino Národka",
+   "url": "https://visit.prachatice.eu/udalost/kocour-v-klobouku/"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Spolek Schlaraffia",
+   "venue": "Prachatické muzeum",
+   "url": "https://visit.prachatice.eu/udalost/spolek-schlaraffia/"
+  }
+ ],
+ "weekend_events": [
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Doplňky krásy a elegance",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/doplnky-krasy-a-elegance.html"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Hřibovité houby v jižních Čechách",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/hribovite-houby-v-jiznich-cechach.html"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "RETROGAMING | Počátky osobních počítačů u nás",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Očima, srdcem, rukama",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/ocima-srdcem-rukama.html"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Michal Cimala | Achát F1",
+   "venue": "Wortnerův dům, U Černé věže 22",
+   "url": "https://www.ajg.cz/probihajici-vystavy/michal-cimala-achat-f1.html"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "Verneovka",
+   "venue": "Malé divadlo, České Budějovice",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2701-verneovka"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "10:00",
+   "title": "Kytice pohádek I.",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Rybář a zlatá rybka – Divoloď",
+   "venue": "Horká vana, Česká 222/7, České Budějovice",
+   "url": "https://horkavanacb.cz/program/"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "14:00",
+   "title": "Ovečka Shaun ve filmu: Příšera z Mossy Bottom",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=2"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "14:00",
+   "title": "Santova kouzelná dílna",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "15:40",
+   "title": "Divoký kůň Devítka",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=2"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Next Place",
+   "venue": "Na Půdě, Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2932-next-place"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "17:55",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=2"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "European Classical Ballet – Labutí jezero",
+   "venue": "Divadelní sál, Metropol",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/european-classical-ballet-labuti-jezero/2377/"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "Zavolejte Jeevese",
+   "venue": "Budova Jihočeského divadla",
+   "url": "https://www.jihoceskedivadlo.cz/porad/1868-zavolejte-jeevese"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Jazzový koncert: Petra, Skip and friends",
+   "venue": "Horká vana, Česká 222/7, České Budějovice",
+   "url": "https://horkavanacb.cz/program/"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "20:00",
+   "title": "Jamaron – Něco zůstane tour 2026",
+   "venue": "MC Fabrika, Jeronýmova 6",
+   "url": "https://goout.net/cs/jamaron-neco-zustane-tour-2026/szugoiy/"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Rammstein – Live in Mexico City",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=2"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Rammstein: Live in Mexico City",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "Prachatice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Pletení z pedigu s Miroslavem Ševčíkem",
+   "venue": "Prachatické muzeum – pokladna",
+   "url": "https://www.prachatickemuzeum.cz/doprovodne-akce/pleteni-z-pedigu.html"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "Prachatice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Josef Sahula",
+   "venue": "Galerie Dolní brána",
+   "url": "https://visit.prachatice.eu/udalost/josef-sahula/"
+  },
+  {
+   "day": "2026-11-07",
+   "city": "Prachatice",
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Karty všech tváří – výstava hracích karet pro malé i velké",
+   "venue": "Prachatické muzeum",
+   "url": "https://www.prachatickemuzeum.cz/vystavy/karty-vsech-tvari-vystava-hracich-karet-pro-male-i-velke.html"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Doplňky krásy a elegance",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/doplnky-krasy-a-elegance.html"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Hřibovité houby v jižních Čechách",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/hribovite-houby-v-jiznich-cechach.html"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "RETROGAMING | Počátky osobních počítačů u nás",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Očima, srdcem, rukama",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/ocima-srdcem-rukama.html"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Michal Cimala | Achát F1",
+   "venue": "Wortnerův dům, U Černé věže 22",
+   "url": "https://www.ajg.cz/probihajici-vystavy/michal-cimala-achat-f1.html"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "14:05",
+   "title": "Pitomá příroda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=3"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "15:00",
+   "title": "Pirátská pohádka – premiéra II",
+   "venue": "Divadlo u Kapličky, Husova tř. 622/45",
+   "url": "https://dsjktylcb.cz/aktualni-program/piratska-pohadka-premiera-ii/"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "15:30",
+   "title": "Rozum a cit",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=3"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "15:30",
+   "title": "Kocour v klobouku",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "18:00",
+   "title": "Houpačky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=3"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "18:00",
+   "title": "Budějovická mordparta 2: Skutečné zločiny z jihu Čech",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "Rapper – Divadlo Frída",
+   "venue": "Malá scéna, Metropol",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/rapper-%E2%80%93-divadlo-frida/2456/"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Setkání s Jaroslavem Duškem a Janem Vojáčkem",
+   "venue": "KD Vltava, České Budějovice",
+   "url": "https://bud-zdrav.cz/setkani-s-jaroslavem-duskem-a-janem-vojackem-8-11-2026/"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:10",
+   "title": "Divoký kůň Devítka",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=3"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:15",
+   "title": "Divoký kůň Devítka",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-08",
+   "city": "Prachatice",
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Karty všech tváří – výstava hracích karet pro malé i velké",
+   "venue": "Prachatické muzeum",
+   "url": "https://www.prachatickemuzeum.cz/vystavy/karty-vsech-tvari-vystava-hracich-karet-pro-male-i-velke.html"
+  }
+ ],
+ "limitations": [
+  "Prachatice: chybí měsíční podklad nebo je neplatný (prachatice-2026-11.json: FileNotFoundError).",
+  "InBudějovice: kalendář přesměrovává či zobrazuje vložený Guidle; bez samostatného potvrzení nebyl použit.",
+  "GoOut Prachatice: z agregátoru nebyla potvrzena další konkrétní položka.",
+  "Horká vana: popis čtvrtečního kvízu obsahuje starší zmínku o pondělí; datum a čas určují rozvinuté kalendářní výskyty.",
+  "09:00/10:00 u výstav označují otevření instituce, nikoli začátek jednorázového programu. Úplnost menších pořadatelů nelze zaručit.",
+  "Víkend: některé programy menších pořadatelů a výstavy bez potvrzené sobotní/nedělní otevírací doby zůstaly nepokryté; API Prachatic nevrací starší vícedenní výstavy. Nedělní galerie Dolní brána je zavřená."
+ ],
+ "news": [
+  {
+   "headline": "OpenAI popsala automatizované hledání a opravy stovek zranitelností linuxového jádra.",
+   "fact": "Podle zprávy OpenAI z 4. listopadu její výzkumný systém při říjnovém testu vytvořil funkční lokální útoky pro 948 různých zranitelností umožňujících získat oprávnění správce a navrhl opravy k posouzení správci Linuxu. Jde o výsledky testu popsané samotnou firmou, ne o potvrzení, že všech 948 oprav již bylo přijato.",
+   "impact": "Pokud se podobné systémy rozšíří, mohou během tří let zrychlit hledání i záplatování chyb, ale také zvýšit schopnosti útočníků; rozhodující bude rychlost nasazení oprav a nezávislé ověření výsledků. Zjištěné chyby vyžadují místní přístup k systému, nejde o doloženou sérii vzdálených útoků.",
+   "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "Interconnects",
+   "title": "How big is the open model economy today?",
+   "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+   "date": "2026-11-04T17:35:44+01:00",
+   "title_cs": "Jak velká je dnes ekonomika otevřených modelů?"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "datasette-llm 0.1a10",
+   "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+   "date": "2026-11-04T16:26:02+01:00",
+   "title_cs": "datasette-llm 0.1a10"
+  },
+  {
+   "source": "OpenAI",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "date": "2026-11-04T15:30:00+01:00",
+   "title_cs": "OpenAI kupuje společnost Pierre Computer Company, Inc."
+  },
+  {
+   "source": "OpenAI",
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "date": "2026-11-04T08:00:00+01:00",
+   "title_cs": "Daybreak Red je nyní dostupný v AWS GovCloud (US-East)"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "datasette-apps 0.3a0",
+   "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+   "date": "2026-11-04T01:29:36+01:00",
+   "title_cs": "datasette-apps 0.3a0"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Agentic cheminformatics with Google Antigravity",
+   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "date": "2026-11-03T18:01:49+01:00",
+   "title_cs": "Agentní chemoinformatika s Google Antigravity"
+  },
+  {
+   "source": "Import AI",
+   "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+   "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+   "date": "2026-11-02T15:30:54+01:00",
+   "title_cs": "Import AI 479: Spacewar, úlohy s nízkou latencí versus LLM, Genie 4"
+  }
+ ],
+ "money": {
+  "cnb_date": "04.11.2026",
+  "eur": "24,310",
+  "ono_valid": "04.11.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "39,90",
+    "diesel": "46,50"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "39,90",
+    "diesel": "46,50"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "39,90",
+    "diesel": "46,50"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "39,90",
+    "diesel": "46,50"
+   }
+  ]
+ }
+}
