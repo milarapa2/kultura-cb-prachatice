@@ -566,6 +566,13 @@
  ],
  "ai_news": [
   {
+   "source": "OpenAI",
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "date": "2026-11-05T03:00:00+01:00",
+   "title_cs": "Nový standard pro zodpovědnou AI infrastrukturu"
+  },
+  {
    "source": "Interconnects",
    "title": "How big is the open model economy today?",
    "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
@@ -587,25 +594,11 @@
    "title_cs": "OpenAI kupuje společnost Pierre Computer Company, Inc."
   },
   {
-   "source": "OpenAI",
-   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-   "date": "2026-11-04T08:00:00+01:00",
-   "title_cs": "Daybreak Red je nyní dostupný v AWS GovCloud (US-East)"
-  },
-  {
    "source": "Simon Willison",
    "title": "datasette-apps 0.3a0",
    "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
    "date": "2026-11-04T01:29:36+01:00",
    "title_cs": "datasette-apps 0.3a0"
-  },
-  {
-   "source": "Google DeepMind",
-   "title": "Agentic cheminformatics with Google Antigravity",
-   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-   "date": "2026-11-03T18:01:49+01:00",
-   "title_cs": "Agentní chemoinformatika s Google Antigravity"
   },
   {
    "source": "Import AI",
