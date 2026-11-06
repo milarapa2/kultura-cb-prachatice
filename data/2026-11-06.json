@@ -468,6 +468,13 @@
  ],
  "ai_news": [
   {
+   "source": "Simon Willison",
+   "title": "Quoting Nilay Patel",
+   "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+   "date": "2026-11-06T18:13:12+01:00",
+   "title_cs": "Citát: Nilay Patel"
+  },
+  {
    "source": "OpenAI",
    "title": "Cult.fit builds operational muscle with Codex",
    "url": "https://openai.com/index/cultfit-builds-with-codex",
@@ -480,6 +487,13 @@
    "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
    "date": "2026-11-05T18:34:03+01:00",
    "title_cs": "Citát: Paul Ford"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+   "date": "2026-11-05T18:05:16+01:00",
+   "title_cs": "Gemini Omni 1.2 Flash: rychlý a levný, s delšími klipy"
   },
   {
    "source": "OpenAI",
@@ -508,39 +522,32 @@
    "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
    "date": "2026-11-04T17:35:44+01:00",
    "title_cs": "Jak velká je dnes ekonomika otevřených modelů?"
-  },
-  {
-   "source": "Simon Willison",
-   "title": "datasette-llm 0.1a10",
-   "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-   "date": "2026-11-04T16:26:02+01:00",
-   "title_cs": "datasette-llm 0.1a10"
   }
  ],
  "money": {
-  "cnb_date": "05.11.2026",
-  "eur": "24,290",
-  "ono_valid": "05.11.2026",
+  "cnb_date": "06.11.2026",
+  "eur": "24,345",
+  "ono_valid": "06.11.2026",
   "ono": [
    {
     "name": "Dolní Dvořiště - ONO I",
-    "n95": "39,50",
-    "diesel": "45,50"
+    "n95": "38,90",
+    "diesel": "44,90"
    },
    {
     "name": "Jindřichův Hradec",
-    "n95": "39,50",
-    "diesel": "45,50"
+    "n95": "38,90",
+    "diesel": "44,90"
    },
    {
     "name": "Planá nad Lužnicí",
-    "n95": "39,50",
-    "diesel": "45,50"
+    "n95": "38,90",
+    "diesel": "44,90"
    },
    {
     "name": "Podolí u Písku",
-    "n95": "39,50",
-    "diesel": "45,50"
+    "n95": "38,90",
+    "diesel": "44,90"
    }
   ]
  }
