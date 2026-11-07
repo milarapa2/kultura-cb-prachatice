@@ -1,0 +1,326 @@
+{
+ "date": "2026-11-07",
+ "checked_at": "2026-11-07T07:32:17+01:00",
+ "sources": [
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské muzeum",
+   "url": "https://www.muzeumcb.cz/program/vystavy/",
+   "status": "ok"
+  },
+  {
+   "name": "Alšova jihočeská galerie",
+   "url": "https://www.ajg.cz/probihajici-vystavy.html",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "unavailable"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://dsjktylcb.cz/2026/11/",
+   "status": "ok"
+  },
+  {
+   "name": "Horká vana",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "InBudějovice",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "Budějce",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "Budějcké akce",
+   "url": "https://www.budejckeakce.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "ok"
+  },
+  {
+   "name": "ICM České Budějovice",
+   "url": "http://www.icmcb.cz/aktuality/",
+   "status": "stale"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-07&end_date=2026-11-07%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatický zpravodaj",
+   "url": "https://visit.prachatice.eu/",
+   "status": "unavailable"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Doplňky krásy a elegance",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/doplnky-krasy-a-elegance.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Hřibovité houby v jižních Čechách",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/hribovite-houby-v-jiznich-cechach.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "RETROGAMING: Počátky osobních počítačů u nás",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Očima, srdcem, rukama",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/ocima-srdcem-rukama.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Michal Cimala: Achát F1",
+   "venue": "Wortnerův dům, U Černé věže 22",
+   "url": "https://www.ajg.cz/probihajici-vystavy/michal-cimala-achat-f1.html"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "Pohádkovana: Divoloď – Rybář a zlatá rybka",
+   "venue": "Horká vana, Česká 222/7",
+   "url": "https://www.smsticket.cz/vstupenky/76284-pohadkovana-aneb-pohadky-pro-deti-v-horke-vane-horka-vana-ceske-budejovice"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Informační přednáška s lékařem – Cesta ke zdraví těla a duše",
+   "venue": "Malá scéna DK Metropol, Senovážné náměstí 2",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/informacni-prednaska-s-lekarem-%E2%80%93-cesta-ke-zdravi-tela-a-duse/2463/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "European Classical Ballet – Labutí jezero",
+   "venue": "Divadelní sál DK Metropol, Senovážné náměstí 2",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/european-classical-ballet-labuti-jezero/2377/"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Jazzový koncert: Petra, Skip and friends",
+   "venue": "Horká vana, Česká 222/7",
+   "url": "https://horkavanacb.cz/program/"
+  },
+  {
+   "kind": "Akce",
+   "time": "20:00",
+   "title": "Jamaron – Něco zůstane tour 2026",
+   "venue": "MC Fabrika, Jeronýmova 6",
+   "url": "https://goout.net/cs/jamaron-neco-zustane-tour-2026/szugoiy/"
+  },
+  {
+   "kind": "Akce",
+   "time": "22:00",
+   "title": "Tech(no) limits is back!",
+   "venue": "Klub K2, České Budějovice",
+   "url": "https://www.budejckeakce.cz/techno-limits-is-back-13590.html"
+  },
+  {
+   "kind": "Film",
+   "time": "10:00",
+   "title": "Kytice pohádek I.",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "14:00",
+   "title": "Santova kouzelná dílna",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Rammstein: Live in Mexico City",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "14:00",
+   "title": "Ovečka Shaun ve filmu: Příšera z Mossy Bottom",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "15:40",
+   "title": "Divoký kůň Devítka",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "17:55",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Rammstein – Live in Mexico City",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Den otevřených dveří – ZŠ Prachatice, Zlatá stezka 240",
+   "venue": "ZŠ Prachatice, Zlatá stezka 240",
+   "url": "https://visit.prachatice.eu/udalost/den-otevrenych-dveri-zs-prachatice-zlata-stezka-240-2/"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Pletení z pedigu s Miroslavem Ševčíkem",
+   "venue": "Prachatické muzeum",
+   "url": "https://visit.prachatice.eu/udalost/pleteni-z-pedigu-s-miroslavem-sevcikem/"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Podzimní saunové ceremoniály a peelingy",
+   "venue": "Saunový svět",
+   "url": "https://visit.prachatice.eu/udalost/podzimni-saunove-ceremonialy-a-peelingy-6/"
+  }
+ ],
+ "weekend_events": [],
+ "limitations": [
+  "Prachatice: chybí měsíční podklad nebo je neplatný (prachatice-2026-11.json: FileNotFoundError).",
+  "Jihočeské divadlo: nepodařilo se načíst jednotlivá dnešní představení; nelze potvrdit prázdný program.",
+  "InBudějovice: vložený městský kalendář nezobrazuje ověřitelné jednotlivé akce.",
+  "ICM České Budějovice: nebyl dostupný použitelný aktuální týdenní kulturní přehled.",
+  "Pokrytí kulturních akcí není úplné; nezařazeny zrušené ani pouze intervalem datované položky bez dnešní návštěvní doby."
+ ],
+ "news": [
+  {
+   "headline": "ČNB zvýšila základní úrokovou sazbu na čtyři procenta a pro příští rok předpovídá vyšší inflaci.",
+   "fact": "Bankovní rada ČNB 5. listopadu zvýšila dvoutýdenní repo sazbu o 0,25 procentního bodu na 4,00 %, s platností od 6. listopadu. Její nová prognóza počítá s průměrnou inflací 3,2 % v roce 2027; jde o předpověď, ne o naměřený výsledek.",
+   "impact": "Vyšší základní sazba může během příštích let ovlivnit cenu úvěrů i úročení úspor v Česku. Jak dlouho vydrží a zda se inflační prognóza naplní, není jisté; konkrétní sazby bank se nemusejí změnit stejně.",
+   "source_url": "https://www.cnb.cz/cs/cnb-news/tiskove-zpravy/CNB-zvysuje-urokove-sazby-00028/"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "Quoting Nilay Patel",
+   "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+   "date": "2026-11-06T18:13:12+01:00",
+   "title_cs": "Citát: Nilay Patel"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "url": "https://openai.com/index/partnering-with-hacktron",
+   "date": "2026-11-06T09:00:00+01:00",
+   "title_cs": ""
+  },
+  {
+   "source": "OpenAI",
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "date": "2026-11-06T01:00:00+01:00",
+   "title_cs": ""
+  },
+  {
+   "source": "Simon Willison",
+   "title": "Quoting Paul Ford",
+   "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+   "date": "2026-11-05T18:34:03+01:00",
+   "title_cs": "Citát: Paul Ford"
+  },
+  {
+   "source": "METR",
+   "title": "Review of the \"Risks from automated R&D\" section in Anthropic's Risk Report (August 2026)",
+   "url": "https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/",
+   "date": "2026-11-05T09:00:00+01:00",
+   "title_cs": "Posudek kapitoly „Rizika automatizovaného výzkumu a vývoje“ ve zprávě o rizicích Anthropicu (srpen 2026)"
+  },
+  {
+   "source": "METR",
+   "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+   "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+   "date": "2026-11-05T09:00:00+01:00",
+   "title_cs": "Nezávislé hodnocení zrychlení výzkumu a vývoje AI v Anthropicu v říjnu 2026"
+  },
+  {
+   "source": "Interconnects",
+   "title": "How big is the open model economy today?",
+   "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+   "date": "2026-11-04T17:35:44+01:00",
+   "title_cs": "Jak velká je dnes ekonomika otevřených modelů?"
+  }
+ ],
+ "money": {
+  "cnb_date": "06.11.2026",
+  "eur": "24,345",
+  "ono_valid": "06.11.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "38,90",
+    "diesel": "44,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "38,90",
+    "diesel": "44,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "38,90",
+    "diesel": "44,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "38,90",
+    "diesel": "44,90"
+   }
+  ]
+ }
+}
