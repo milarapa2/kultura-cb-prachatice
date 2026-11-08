@@ -1,0 +1,277 @@
+{
+ "date": "2026-11-08",
+ "checked_at": "2026-11-08T07:30:01+01:00",
+ "sources": [
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské muzeum",
+   "url": "https://www.muzeumcb.cz/program/vystavy/",
+   "status": "ok"
+  },
+  {
+   "name": "Divadelní spolek J. K. Tyl",
+   "url": "https://dsjktylcb.cz/aktualni-program/piratska-pohadka-premiera-ii/",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky – starý program",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "unavailable"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Horká vana – tematické kalendáře",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "InBudějovice – konkrétní dnešní záznamy",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "ok"
+  },
+  {
+   "name": "Budějce",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "Budějcké akce",
+   "url": "https://www.budejckeakce.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut Prachatice",
+   "url": "https://goout.net/cs/prachatice/akce/lezwmynkk/",
+   "status": "ok"
+  },
+  {
+   "name": "ICM České Budějovice – týdenní přehled",
+   "url": "http://www.icmcb.cz/aktuality/",
+   "status": "stale"
+  },
+  {
+   "name": "Rabenštejnská – nedělní otevírání dle akcí",
+   "url": "https://rabenstejnska.cz/kontakt/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-08&end_date=2026-11-08%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatický zpravodaj",
+   "url": "https://visit.prachatice.eu/",
+   "status": "unavailable"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Doplňky krásy a elegance",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/doplnky-krasy-a-elegance.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Hřibovité houby v jižních Čechách",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/hribovite-houby-v-jiznich-cechach.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Očima, srdcem, rukama",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/ocima-srdcem-rukama.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "RETROGAMING: Počátky osobních počítačů u nás",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  },
+  {
+   "kind": "Film",
+   "time": "14:05",
+   "title": "Pitomá příroda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "15:30",
+   "title": "Rozum a cit",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "18:00",
+   "title": "Houpačky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "20:10",
+   "title": "Divoký kůň Devítka",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "15:30",
+   "title": "Kocour v klobouku",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/film/kocour-v-klobouku/"
+  },
+  {
+   "kind": "Film",
+   "time": "20:15",
+   "title": "Divoký kůň Devítka",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/film/divoky-kun-devitka/"
+  },
+  {
+   "kind": "Akce",
+   "time": "18:00",
+   "title": "Budějovická mordparta 2: Skutečné zločiny z jihu Čech",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/film/budejovicka-mordparta-2-skutecne-zlociny-z-jihu-cech/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "15:00",
+   "title": "Pirátská pohádka – premiéra II",
+   "venue": "Divadlo u Kapličky",
+   "url": "https://dsjktylcb.cz/aktualni-program/piratska-pohadka-premiera-ii/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "16:00",
+   "title": "Čaroděj ze země Oz – muzikál na ledě",
+   "venue": "Budvar aréna",
+   "url": "https://microsite.guidle.com/hosted/template_portal/microsite/cs/mr_x9FuRc/arodj-ze-zem-oz-eske-budjovice-7_Abd3eNa"
+  }
+ ],
+ "prachatice_events": [],
+ "weekend_events": [],
+ "limitations": [
+  "Pokrytí kulturních akcí nemusí být úplné. Jihočeské divadlo neposkytlo ověřitelný dnešní program; ICM má zastaralý týdenní přehled a program Divadla u Kapličky je starý (dnešní pohádka je ověřena přímo u souboru).",
+  "Výstavy v Rabenštejnské byly vynechány: oficiální otevírací doba v neděli je jen dle akcí, dnešní otevření se nepodařilo potvrdit.",
+  "Prachatice: chybí měsíční podklad nebo je neplatný (prachatice-2026-11.json: FileNotFoundError)."
+ ],
+ "news": [
+  {
+   "headline": "Nezávislá analýza zjistila u Anthropicu přibližně dvojnásobné tempo zlepšování modelů v měřených úlohách.",
+   "fact": "Výzkumná organizace METR 5. listopadu zveřejnila analýzu interních dat Anthropicu: skóre jeho modelů ve sledovaném indexu od října 2025 rostlo zhruba 1,9krát rychleji než dříve. METR soudí, že významnou část zrychlení dnes způsobuje využití AI ve výzkumu, ale upozorňuje na značnou nejistotu a na začernění části důkazů firmou.",
+   "impact": "Pokud se zrychlení potvrdí i mimo měřené úlohy, mohlo by během tří let ovlivnit rychlost nasazování AI do práce i tempo vývoje dalších modelů. Z jedné firmy a jejího interního ukazatele však nelze spolehlivě předpovědět obecný pokrok ani konkrétní dopady na zaměstnanost.",
+   "source_url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+   "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+   "date": "2026-11-08T00:57:46+01:00",
+   "title_cs": ""
+  },
+  {
+   "source": "Simon Willison",
+   "title": "Quoting Nilay Patel",
+   "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+   "date": "2026-11-06T18:13:12+01:00",
+   "title_cs": "Citát: Nilay Patel"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "url": "https://openai.com/index/partnering-with-hacktron",
+   "date": "2026-11-06T09:00:00+01:00",
+   "title_cs": ""
+  },
+  {
+   "source": "OpenAI",
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "date": "2026-11-06T01:00:00+01:00",
+   "title_cs": ""
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+   "date": "2026-11-05T18:05:16+01:00",
+   "title_cs": "Gemini Omni 1.2 Flash: rychlý a levný, s delšími klipy"
+  },
+  {
+   "source": "METR",
+   "title": "Review of the \"Risks from automated R&D\" section in Anthropic's Risk Report (August 2026)",
+   "url": "https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/",
+   "date": "2026-11-05T09:00:00+01:00",
+   "title_cs": "Posudek kapitoly „Rizika automatizovaného výzkumu a vývoje“ ve zprávě o rizicích Anthropicu (srpen 2026)"
+  },
+  {
+   "source": "METR",
+   "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+   "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+   "date": "2026-11-05T09:00:00+01:00",
+   "title_cs": "Nezávislé hodnocení zrychlení výzkumu a vývoje AI v Anthropicu v říjnu 2026"
+  }
+ ],
+ "money": {
+  "cnb_date": "06.11.2026",
+  "eur": "24,345",
+  "ono_valid": "06.11.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "38,90",
+    "diesel": "44,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "38,90",
+    "diesel": "44,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "38,90",
+    "diesel": "44,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "38,90",
+    "diesel": "44,90"
+   }
+  ]
+ }
+}
