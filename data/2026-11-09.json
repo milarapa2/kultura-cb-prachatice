@@ -156,10 +156,10 @@
   },
   {
    "source": "OpenAI",
-   "title": "Introducing Control Room: Human control over AI workloads",
-   "url": "https://openai.com/index/introducing-control-room",
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "url": "https://openai.com/index/control-room",
    "date": "2026-11-09T14:00:00+01:00",
-   "title_cs": "Představujeme Control Room: lidská kontrola nad úlohami AI"
+   "title_cs": "Control Room: centrální systém pro sledování a zastavování modelových úloh napříč naší výzkumnou infrastrukturou"
   },
   {
    "source": "Simon Willison",
