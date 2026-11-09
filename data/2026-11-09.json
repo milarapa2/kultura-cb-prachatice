@@ -1,0 +1,192 @@
+{
+ "date": "2026-11-09",
+ "checked_at": "2026-11-09T07:30:20+01:00",
+ "sources": [
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Turistický kalendář ČB",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "stale"
+  },
+  {
+   "name": "InBudějovice",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Horká vana",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "unavailable"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "unavailable"
+  },
+  {
+   "name": "GoOut Prachatice",
+   "url": "https://goout.net/cs/prachatice/akce/lezwmynkk/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-09&end_date=2026-11-09%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatický zpravodaj",
+   "url": "https://visit.prachatice.eu/",
+   "status": "unavailable"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Galerie Nahoře: Jana Kučerová – Sudety dnes",
+   "venue": "Galerie Nahoře, DK Metropol",
+   "url": "https://www.metropolcb.cz/program/vystava/galerie-nahore-jana-kucerova-sudety-dnes/2441/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "Malý Mozart",
+   "venue": "Jihočeské divadlo – Na Půdě",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2611-maly-mozart"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "Verneovka",
+   "venue": "Jihočeské divadlo – Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2701-verneovka"
+  },
+  {
+   "kind": "Film",
+   "time": "15:20",
+   "title": "Fjord",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "18:00",
+   "title": "Malý Mozart",
+   "venue": "Jihočeské divadlo – Na Půdě",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2611-maly-mozart"
+  },
+  {
+   "kind": "Film",
+   "time": "18:00",
+   "title": "Prázdniny v Černobylu",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "¡VIVA MEXICO! – Kateřina & Miloš Motani",
+   "venue": "DK Metropol – Malá scéna",
+   "url": "https://www.metropolcb.cz/program/spolecenska-a-ostatni-akce/%C2%A1viva-mexico!-%E2%80%93-katerina--milos-motani/2440/"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Houpačky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  }
+ ],
+ "prachatice_events": [],
+ "weekend_events": [],
+ "limitations": [
+  "Biograf Kotva: přehled zobrazil 9. 11. jako ZÍTRA, aktuální dnešní program se nepodařilo znovu otevřít v prohlížeči; projekce vynechány.",
+  "InBudějovice bez dostupného konkrétního dnešního programu; Divadlo u Kapličky a GoOut bez jednoznačně ověřených dnešních položek.",
+  "Horká vana: opakované iCalendar instance se nepodařilo ověřit, akce vynechány.",
+  "Prachatice: chybí měsíční podklad nebo je neplatný (prachatice-2026-11.json: FileNotFoundError).",
+  "Pokrytí programu nemusí být úplné.",
+  "Víkend: dnes je pondělí; víkendový doplněk se sestavuje pouze ve středu až pátek."
+ ],
+ "news": [
+  {
+   "headline": "Francie oznámila účast evropských zástupců na chystaných jednáních o válce na Ukrajině.",
+   "fact": "Francouzský ministr zahraničí Jean-Noël Barrot 8. listopadu řekl, že se Francie a další Evropané zúčastní jednání v Abú Zabí plánovaných na 10.–11. listopadu. Není zatím jasné, kdo Francii zastoupí ani zda budou Evropané přímo u vyjednávacího stolu.",
+   "impact": "Podoba případné dohody a bezpečnostních záruk pro Ukrajinu by mohla v příštích třech letech ovlivnit bezpečnost Evropy včetně ČR. Jednání teprve mají proběhnout; účast Evropy sama o sobě nezaručuje dohodu ani ukončení války.",
+   "source_url": "https://www.reuters.com/world/europe/europeans-will-join-ukraine-talks-abu-dhabi-french-foreign-minister-says-2026-11-08/"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "The Web Is More Than Enough, by Paul Ford",
+   "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+   "date": "2026-11-09T05:32:33+01:00",
+   "title_cs": "Web je víc než dost, píše Paul Ford"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "Hide your slop PR descriptions behind <details><summary>",
+   "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+   "date": "2026-11-09T05:25:05+01:00",
+   "title_cs": "Schovejte své odbyté PR popisy do <details><summary>"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "url": "https://openai.com/index/partnering-with-hacktron",
+   "date": "2026-11-06T09:00:00+01:00",
+   "title_cs": "Spolupracujeme s Hacktronem na hledání zranitelností v systémech OpenAI"
+  }
+ ],
+ "money": {
+  "cnb_date": "06.11.2026",
+  "eur": "24,345",
+  "ono_valid": "06.11.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "38,90",
+    "diesel": "44,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "38,90",
+    "diesel": "44,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "38,90",
+    "diesel": "44,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "38,90",
+    "diesel": "44,90"
+   }
+  ]
+ }
+}
