@@ -141,6 +141,27 @@
  ],
  "ai_news": [
   {
+   "source": "OpenAI",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "date": "2026-11-09T20:00:00+01:00",
+   "title_cs": "ChatGPT Enterprise je nyní dostupný v AWS Marketplace"
+  },
+  {
+   "source": "Import AI",
+   "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+   "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+   "date": "2026-11-09T14:31:34+01:00",
+   "title_cs": "Import AI 480: Soběstačné vesmírné ekonomiky, pokrok AI ve vědě a Meta staví dokonalé ruce pro superinteligenci"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Introducing Control Room: Human control over AI workloads",
+   "url": "https://openai.com/index/introducing-control-room",
+   "date": "2026-11-09T14:00:00+01:00",
+   "title_cs": "Představujeme Control Room: lidská kontrola nad úlohami AI"
+  },
+  {
    "source": "Simon Willison",
    "title": "The Web Is More Than Enough, by Paul Ford",
    "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
@@ -156,29 +177,29 @@
   }
  ],
  "money": {
-  "cnb_date": "06.11.2026",
-  "eur": "24,345",
-  "ono_valid": "06.11.2026",
+  "cnb_date": "09.11.2026",
+  "eur": "24,360",
+  "ono_valid": "09.11.2026",
   "ono": [
    {
     "name": "Dolní Dvořiště - ONO I",
-    "n95": "38,90",
-    "diesel": "44,90"
+    "n95": "38,50",
+    "diesel": "44,50"
    },
    {
     "name": "Jindřichův Hradec",
-    "n95": "38,90",
-    "diesel": "44,90"
+    "n95": "38,50",
+    "diesel": "44,50"
    },
    {
     "name": "Planá nad Lužnicí",
-    "n95": "38,90",
-    "diesel": "44,90"
+    "n95": "38,50",
+    "diesel": "44,50"
    },
    {
     "name": "Podolí u Písku",
-    "n95": "38,90",
-    "diesel": "44,90"
+    "n95": "38,50",
+    "diesel": "44,50"
    }
   ]
  }
