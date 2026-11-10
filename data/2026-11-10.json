@@ -202,18 +202,25 @@
  ],
  "ai_news": [
   {
+   "source": "OpenAI",
+   "title": "Closing the AI guidance gap in education",
+   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "date": "2026-11-10T10:00:00+01:00",
+   "title_cs": "Jak zacelit mezeru v pravidlech pro AI ve vzdělávání"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+   "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+   "date": "2026-11-10T08:28:21+01:00",
+   "title_cs": "Představujeme náš nejmenší a nejúspornější model: Muse Ember"
+  },
+  {
    "source": "Simon Willison",
    "title": "Quoting Prompting Claude Fable 5.2",
    "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
    "date": "2026-11-10T06:34:14+01:00",
    "title_cs": "Citát z dokumentu Prompting Claude Fable 5.2"
-  },
-  {
-   "source": "Simon Willison",
-   "title": "Yonkers Rises",
-   "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
-   "date": "2026-11-10T04:53:04+01:00",
-   "title_cs": "Yonkers na vzestupu"
   },
   {
    "source": "OpenAI",
@@ -228,13 +235,6 @@
    "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
    "date": "2026-11-09T14:31:34+01:00",
    "title_cs": "Import AI 480: Soběstačné vesmírné ekonomiky, pokrok AI ve vědě a Meta staví dokonalé ruce pro superinteligenci"
-  },
-  {
-   "source": "OpenAI",
-   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-   "url": "https://openai.com/index/control-room",
-   "date": "2026-11-09T14:00:00+01:00",
-   "title_cs": "Control Room: centrální systém pro sledování a zastavování modelových úloh napříč naší výzkumnou infrastrukturou"
   }
  ],
  "money": {
