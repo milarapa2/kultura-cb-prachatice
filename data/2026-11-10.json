@@ -1,0 +1,267 @@
+{
+ "date": "2026-11-10",
+ "checked_at": "2026-11-10T07:27:00+01:00",
+ "sources": [
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program?date=2026-11-10",
+   "status": "ok"
+  },
+  {
+   "name": "InBudějovice / detail Guidle",
+   "url": "https://www.inbudejovice.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Budějce kalendář",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské muzeum",
+   "url": "https://www.muzeumcb.cz/navstivte-nas/oteviraci-doba/",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "Horká vana – veřejné kalendáře",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut detail koncertu",
+   "url": "https://goout.net/cs/tereza-maskova/szeakiy/",
+   "status": "ok"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-10&end_date=2026-11-10%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatický zpravodaj",
+   "url": "https://visit.prachatice.eu/",
+   "status": "unavailable"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "RETROGAMING | Počátky osobních počítačů u nás",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Očima, srdcem, rukama",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/ocima-srdcem-rukama.html"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "Richard 3, 2, 1... teď!",
+   "venue": "Malé divadlo, České Budějovice",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2926-richard-3-2-1-ted"
+  },
+  {
+   "kind": "Film",
+   "time": "10:30",
+   "title": "Městská divadla pražská: Revizor | PRO ŠKOLY",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "15:30",
+   "title": "V srdci divočiny",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Prohlídka Kendeho vily – Jan Ciglbauer",
+   "venue": "Kendeho vila, Otakarova 9",
+   "url": "https://www.budejce.cz/kalendar/1175667590-prohlidka-kendeho-vily-jan-ciglbauer"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Kříž s Křížovou horou v Českém Krumlově – přednáška Jarmily Hansové",
+   "venue": "Státní okresní archiv České Budějovice, Rudolfovská 40",
+   "url": "https://microsite.guidle.com/hosted/template_portal/microsite/cs/mr_x9FuRc/k-s-kovou-horou-v-eskem-krumlov-pednka--jarmila-hansov-eske-budjovice_AEfs6fr"
+  },
+  {
+   "kind": "Film",
+   "time": "17:15",
+   "title": "Houpačky",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "17:30",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "18:30",
+   "title": "Vánoce s Monikou Brýdovou",
+   "venue": "Jihočeská vědecká knihovna, pobočka Čtyři Dvory, Emy Destinové 46",
+   "url": "https://microsite.guidle.com/hosted/template_portal/microsite/cs/mr_x9FuRc/vnoce-s-monikou-brdovou-eske-budjovice-2_As7pvfr"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Hudební úterky v Solnici – Trio MLS",
+   "venue": "Restaurace Solnice, Piaristické náměstí 3",
+   "url": "https://microsite.guidle.com/hosted/template_portal/microsite/cs/mr_x9FuRc/hudebn-terky-v-solnici-eske-budjovice_ARkwY8B"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Tereza Mašková",
+   "venue": "DK Metropol, Senovážné náměstí 2",
+   "url": "https://goout.net/cs/tereza-maskova/szeakiy/"
+  },
+  {
+   "kind": "Film",
+   "time": "19:30",
+   "title": "FAMU 80 – Best of",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "19:40",
+   "title": "De Gaulle 1: Odboj",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "14:00",
+   "title": "Povídání o cestování na motorce v Jižní Evropě",
+   "venue": "Komunitní centrum SNP 559",
+   "url": "https://visit.prachatice.eu/udalost/povidani-o-cestovani-na-motorce-v-jizni-evrope/"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Podzimní saunové ceremoniály a peelingy",
+   "venue": "Saunový svět",
+   "url": "https://visit.prachatice.eu/udalost/podzimni-saunove-ceremonialy-a-peelingy-8/"
+  },
+  {
+   "kind": "Film",
+   "time": "19:30",
+   "title": "Divoký kůň Devítka",
+   "venue": "Kino Národka",
+   "url": "https://visit.prachatice.eu/udalost/divoky-kun-devitka/"
+  }
+ ],
+ "weekend_events": [],
+ "limitations": [
+  "Pokrytí kulturních programů není úplné.",
+  "Horká vana: Zelený úterek má rozdílný čas ve veřejném ICS (17:00) a detailu Guidle (17:30); vynechán.",
+  "Prachatice: chybí měsíční podklad nebo je neplatný (prachatice-2026-11.json: FileNotFoundError)."
+ ],
+ "news": [
+  {
+   "headline": "Austrálie představila plán povinných bezpečnostních pravidel pro nejpokročilejší AI.",
+   "fact": "Australská vláda 10. listopadu oznámila záměr uzákonit bezpečnostní povinnosti pro firmy provozující nejpokročilejší modely AI a navrhla specializovaný dozorový úřad. Pravidla mají zahrnovat nezávislé hodnocení modelů, řízení rizik a rychlé povinné hlášení incidentů; zatím jde o návrh, nikoli platný zákon.",
+   "impact": "Pokud pravidla projdou, mohou v příštích třech letech ovlivnit, jak globální poskytovatelé AI řeší bezpečnost a jak podobný dohled nastaví další státy; to by se mohlo nepřímo dotknout i uživatelů v ČR. Podoba zákona, jeho přijetí a skutečný účinek jsou zatím nejisté.",
+   "source_url": "https://www.pm.gov.au/media/new-australian-ai-safety-and-security-protections"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "Quoting Prompting Claude Fable 5.2",
+   "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+   "date": "2026-11-10T06:34:14+01:00",
+   "title_cs": "Citát z dokumentu Prompting Claude Fable 5.2"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "Yonkers Rises",
+   "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+   "date": "2026-11-10T04:53:04+01:00",
+   "title_cs": "Yonkers na vzestupu"
+  },
+  {
+   "source": "OpenAI",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "date": "2026-11-09T20:00:00+01:00",
+   "title_cs": "ChatGPT Enterprise je nyní dostupný v AWS Marketplace"
+  },
+  {
+   "source": "Import AI",
+   "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+   "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+   "date": "2026-11-09T14:31:34+01:00",
+   "title_cs": "Import AI 480: Soběstačné vesmírné ekonomiky, pokrok AI ve vědě a Meta staví dokonalé ruce pro superinteligenci"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "url": "https://openai.com/index/control-room",
+   "date": "2026-11-09T14:00:00+01:00",
+   "title_cs": "Control Room: centrální systém pro sledování a zastavování modelových úloh napříč naší výzkumnou infrastrukturou"
+  }
+ ],
+ "money": {
+  "cnb_date": "09.11.2026",
+  "eur": "24,360",
+  "ono_valid": "09.11.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "38,50",
+    "diesel": "44,50"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "38,50",
+    "diesel": "44,50"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "38,50",
+    "diesel": "44,50"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "38,50",
+    "diesel": "44,50"
+   }
+  ]
+ }
+}
