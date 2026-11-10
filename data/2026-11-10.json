@@ -202,6 +202,20 @@
  ],
  "ai_news": [
   {
+   "source": "Google DeepMind",
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "date": "2026-11-10T13:02:28+01:00",
+   "title_cs": "Představujeme AlphaProof Code: průlom v hloubkovém ověřování složitého softwaru"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Helping caregivers use AI in everyday life",
+   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "date": "2026-11-10T13:00:00+01:00",
+   "title_cs": "Jak pomoci pečujícím využívat AI v každodenním životě"
+  },
+  {
    "source": "OpenAI",
    "title": "Closing the AI guidance gap in education",
    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
@@ -223,11 +237,11 @@
    "title_cs": "Citát z dokumentu Prompting Claude Fable 5.2"
   },
   {
-   "source": "OpenAI",
-   "title": "ChatGPT Enterprise now available in AWS Marketplace",
-   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "date": "2026-11-09T20:00:00+01:00",
-   "title_cs": "ChatGPT Enterprise je nyní dostupný v AWS Marketplace"
+   "source": "Google DeepMind",
+   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "date": "2026-11-09T20:51:47+01:00",
+   "title_cs": "Gemini Robotics 2.5 urychluje vývoj všestranné zručnosti robotů v reálném světě"
   },
   {
    "source": "Import AI",
@@ -238,29 +252,29 @@
   }
  ],
  "money": {
-  "cnb_date": "09.11.2026",
-  "eur": "24,360",
-  "ono_valid": "09.11.2026",
+  "cnb_date": "10.11.2026",
+  "eur": "24,335",
+  "ono_valid": "10.11.2026",
   "ono": [
    {
     "name": "Dolní Dvořiště - ONO I",
-    "n95": "38,50",
-    "diesel": "44,50"
+    "n95": "37,90",
+    "diesel": "43,90"
    },
    {
     "name": "Jindřichův Hradec",
-    "n95": "38,50",
-    "diesel": "44,50"
+    "n95": "37,90",
+    "diesel": "43,90"
    },
    {
     "name": "Planá nad Lužnicí",
-    "n95": "38,50",
-    "diesel": "44,50"
+    "n95": "37,90",
+    "diesel": "43,90"
    },
    {
     "name": "Podolí u Písku",
-    "n95": "38,50",
-    "diesel": "44,50"
+    "n95": "37,90",
+    "diesel": "43,90"
    }
   ]
  }
