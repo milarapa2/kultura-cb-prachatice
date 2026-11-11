@@ -493,6 +493,20 @@
    "title_cs": "Gilbert + Tobin s AI mění způsob, jak dělá právo jako byznys"
   },
   {
+   "source": "Simon Willison",
+   "title": "Anthropic's IPO roadshow video",
+   "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+   "date": "2026-11-11T16:11:59+01:00",
+   "title_cs": "Videoprezentace Anthropicu k IPO"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "date": "2026-11-11T16:00:15+01:00",
+   "title_cs": "AlphaGenome 2: Jak buňky čtou DNA a co to prozradí o nemocech"
+  },
+  {
    "source": "OpenAI",
    "title": "ChatGPT Plus for veterans and servicemembers",
    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
@@ -514,20 +528,6 @@
    "title_cs": "Gemini 4 Carbon je k dispozici"
   },
   {
-   "source": "Google DeepMind",
-   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-   "date": "2026-11-10T13:02:28+01:00",
-   "title_cs": "Představujeme AlphaProof Code: průlom v hloubkovém ověřování složitého softwaru"
-  },
-  {
-   "source": "Simon Willison",
-   "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-   "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
-   "date": "2026-11-10T08:28:21+01:00",
-   "title_cs": "Představujeme náš nejmenší a nejúspornější model: Muse Ember"
-  },
-  {
    "source": "Import AI",
    "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
    "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
@@ -538,27 +538,27 @@
  "money": {
   "cnb_date": "11.11.2026",
   "eur": "24,380",
-  "ono_valid": "10.11.2026",
+  "ono_valid": "11.11.2026",
   "ono": [
    {
     "name": "Dolní Dvořiště - ONO I",
     "n95": "37,90",
-    "diesel": "43,90"
+    "diesel": "42,90"
    },
    {
     "name": "Jindřichův Hradec",
     "n95": "37,90",
-    "diesel": "43,90"
+    "diesel": "42,90"
    },
    {
     "name": "Planá nad Lužnicí",
     "n95": "37,90",
-    "diesel": "43,90"
+    "diesel": "42,90"
    },
    {
     "name": "Podolí u Písku",
     "n95": "37,90",
-    "diesel": "43,90"
+    "diesel": "42,90"
    }
   ]
  }
