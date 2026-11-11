@@ -1,0 +1,565 @@
+{
+ "date": "2026-11-11",
+ "checked_at": "2026-11-11T07:44:07+01:00",
+ "sources": [
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské muzeum",
+   "url": "https://www.muzeumcb.cz/program/vystavy/",
+   "status": "ok"
+  },
+  {
+   "name": "Horká vana",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "InBudějovice Guidle",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "InBudějovice týdenní přehled",
+   "url": "https://www.inbudejovice.cz/tydenni-prehled-akci-v-ceskych-budejovicich-6-11-2026-12-11-2026",
+   "status": "ok"
+  },
+  {
+   "name": "Budějce.cz",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "unavailable"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "unavailable"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut Prachatice",
+   "url": "https://goout.net/cs/prachatice/akce/lezwmynkk/",
+   "status": "ok"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-11&end_date=2026-11-11%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatický zpravodaj",
+   "url": "https://visit.prachatice.eu/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Prachatice API 2026-11-14",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-14&end_date=2026-11-14%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatice API 2026-11-15",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-15&end_date=2026-11-15%2023:59&per_page=100",
+   "status": "ok"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Doplňky krásy a elegance",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/doplnky-krasy-a-elegance.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Hřibovité houby v jižních Čechách",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/hribovite-houby-v-jiznich-cechach.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Očima, srdcem, rukama",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/ocima-srdcem-rukama.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "RETROGAMING | Počátky osobních počítačů u nás",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "Verneovka",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2701-verneovka"
+  },
+  {
+   "kind": "Film",
+   "time": "14:30",
+   "title": "Wirbel",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-11&blok=0"
+  },
+  {
+   "kind": "Film",
+   "time": "15:20",
+   "title": "Rozum a cit",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Poznejte Orty | Přednáška pro veřejnost",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/prednasky-konference-seminare/poznejte-orty-prednaska-pro-verejnost.html"
+  },
+  {
+   "kind": "Film",
+   "time": "17:45",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-11&blok=0"
+  },
+  {
+   "kind": "Film",
+   "time": "17:50",
+   "title": "Houpačky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:30",
+   "title": "HOSPODSKÝ KVÍZ - náhrada za pondělí (H.P. speciál)",
+   "venue": "Horká vana, Česká 222/7",
+   "url": "https://horkavanacb.cz/program/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:30",
+   "title": "Vyšší moc",
+   "venue": "Jihočeské divadlo – Na Půdě",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2931-vyssi-moc"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Fjord",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "George Michael: The Faith Tour",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-11&blok=0"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Podzimní saunové ceremoniály a peelingy",
+   "venue": "Saunový svět",
+   "url": "https://visit.prachatice.eu/udalost/podzimni-saunove-ceremonialy-a-peelingy-9/"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Muzikály Naruby | Prachatice",
+   "venue": "Kongresové centrum Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/muzikaly-naruby-prachatice/"
+  }
+ ],
+ "weekend_events": [
+  {
+   "day": "2026-11-14",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Doplňky krásy a elegance",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/doplnky-krasy-a-elegance.html"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Hřibovité houby v jižních Čechách",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/hribovite-houby-v-jiznich-cechach.html"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Očima, srdcem, rukama",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/ocima-srdcem-rukama.html"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "RETROGAMING | Počátky osobních počítačů u nás",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Pohádkovaná aneb pohádky pro děti v Horké vaně",
+   "venue": "Horká vana, Česká 222/7",
+   "url": "https://horkavanacb.cz/program/"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "10:00",
+   "title": "Příběhy zvířátek",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-14&blok=0"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "Uneste mě, prosím",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2814-uneste-me-prosim"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "13:45",
+   "title": "Ebenezer: Vánoční koleda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "14:00",
+   "title": "Pat a Mat: Zpátky na venkově",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-14&blok=0"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "15:30",
+   "title": "Skřítek: Nový začátek",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-14&blok=0"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "16:00",
+   "title": "Kluci to vidí jinak než holky - PLETKY V KINĚ",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Čardášová princezna",
+   "venue": "Jihočeské divadlo – Budova JD",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3106-cardasova-princezna"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "17:30",
+   "title": "Snow Film Fest 2026",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-14&blok=0"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "18:05",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "19:30",
+   "title": "Kupé Na Půdě",
+   "venue": "Jihočeské divadlo – Na Půdě",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2220-kupe-na-pude"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "Prachatice",
+   "kind": "Akce",
+   "time": "20:00",
+   "title": "Olympic: Bombarďák tour 2026",
+   "venue": "Kongresové centrum Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/olympic-bombardak-tour-2026/"
+  },
+  {
+   "day": "2026-11-14",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:10",
+   "title": "Divoký kůň Devítka",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-15",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Doplňky krásy a elegance",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/doplnky-krasy-a-elegance.html"
+  },
+  {
+   "day": "2026-11-15",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Hřibovité houby v jižních Čechách",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/hribovite-houby-v-jiznich-cechach.html"
+  },
+  {
+   "day": "2026-11-15",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Očima, srdcem, rukama",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/ocima-srdcem-rukama.html"
+  },
+  {
+   "day": "2026-11-15",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "RETROGAMING | Počátky osobních počítačů u nás",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  },
+  {
+   "day": "2026-11-15",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "13:20",
+   "title": "Můj pes Barry",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-15",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "15:15",
+   "title": "Dřevorubec",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-15",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "16:00",
+   "title": "Papája",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-15&blok=0"
+  },
+  {
+   "day": "2026-11-15",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "8 miliard lidí hoří",
+   "venue": "Jihočeské divadlo – Na Půdě",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3181-8-miliard-lidi-hori"
+  },
+  {
+   "day": "2026-11-15",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "17:10",
+   "title": "De Gaulle 1: Odboj",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-15",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "18:00",
+   "title": "Návrat do neznámé země",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-15&blok=0"
+  },
+  {
+   "day": "2026-11-15",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "19:30",
+   "title": "8 miliard lidí hoří",
+   "venue": "Jihočeské divadlo – Na Půdě",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3181-8-miliard-lidi-hori"
+  },
+  {
+   "day": "2026-11-15",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Rozvod za časů války",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-15&blok=0"
+  },
+  {
+   "day": "2026-11-15",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:10",
+   "title": "Ebenezer: Vánoční koleda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  }
+ ],
+ "limitations": [
+  "Pokrytí není úplné: městský Guidle, budejce.cz a listopadový program Metropolu neměly ověřitelný seznam; Divadlo u Kapličky má starý program.",
+  "Prachatice: chybí měsíční podklad nebo je neplatný (prachatice-2026-11.json: FileNotFoundError).",
+  "Víkend: mimo ověřené programy není pokrytí úplné; chybí prachatický měsíční zpravodaj. Neověřené výstavy či festivalové permanentky nejsou zahrnuty."
+ ],
+ "news": [
+  {
+   "headline": "Ukrajina a Rusko po měsících obnovily přímé rozhovory o ukončení války; ve hře je i evropská bezpečnost.",
+   "fact": "Ukrajinští a ruští vyjednavači se 10. listopadu sešli v Abú Zabí k prvním přímým rozhovorům od února, zprostředkovaným USA. Jedná se také o bezpečnostních zárukách pro Ukrajinu a budoucím uspořádání evropské bezpečnosti; zatím nebyla oznámena dohoda.",
+   "impact": "Podoba případné dohody by mohla v příštích třech letech ovlivnit bezpečnost v Evropě, tedy i v ČR. Jednání teprve začala a není jisté, zda povedou k trvalému míru ani jaké záruky by obsahoval.",
+   "source_url": "https://www.rferl.org/a/russia-ukraine-abu-dhabi-war-peace-talks/33894644.html"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "OpenAI",
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "date": "2026-11-12T01:00:00+01:00",
+   "title_cs": "Gilbert + Tobin s AI mění způsob, jak dělá právo jako byznys"
+  },
+  {
+   "source": "OpenAI",
+   "title": "ChatGPT Plus for veterans and servicemembers",
+   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "date": "2026-11-11T09:00:00+01:00",
+   "title_cs": "ChatGPT Plus pro veterány a vojáky"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "llm-gemini 0.36",
+   "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+   "date": "2026-11-10T21:09:44+01:00",
+   "title_cs": "llm-gemini 0.36"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "date": "2026-11-10T17:03:47+01:00",
+   "title_cs": "Gemini 4 Carbon je k dispozici"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "date": "2026-11-10T13:02:28+01:00",
+   "title_cs": "Představujeme AlphaProof Code: průlom v hloubkovém ověřování složitého softwaru"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+   "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+   "date": "2026-11-10T08:28:21+01:00",
+   "title_cs": "Představujeme náš nejmenší a nejúspornější model: Muse Ember"
+  },
+  {
+   "source": "Import AI",
+   "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+   "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+   "date": "2026-11-09T14:31:34+01:00",
+   "title_cs": "Import AI 480: Soběstačné vesmírné ekonomiky, pokrok AI ve vědě a Meta staví dokonalé ruce pro superinteligenci"
+  }
+ ],
+ "money": {
+  "cnb_date": "10.11.2026",
+  "eur": "24,335",
+  "ono_valid": "10.11.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "37,90",
+    "diesel": "43,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "37,90",
+    "diesel": "43,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "37,90",
+    "diesel": "43,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "37,90",
+    "diesel": "43,90"
+   }
+  ]
+ }
+}
