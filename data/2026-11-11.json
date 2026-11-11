@@ -494,10 +494,17 @@
   },
   {
    "source": "Simon Willison",
-   "title": "Anthropic's IPO roadshow video",
-   "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-   "date": "2026-11-11T16:11:59+01:00",
-   "title_cs": "Videoprezentace Anthropicu k IPO"
+   "title": "Browse tools.simonwillison.net by tag",
+   "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+   "date": "2026-11-11T19:42:50+01:00",
+   "title_cs": "Procházejte tools.simonwillison.net podle štítků"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "llm 0.37.2",
+   "url": "https://simonwillison.net/2026/Nov/11/llm/",
+   "date": "2026-11-11T18:19:52+01:00",
+   "title_cs": "llm 0.37.2"
   },
   {
    "source": "Google DeepMind",
@@ -512,13 +519,6 @@
    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
    "date": "2026-11-11T09:00:00+01:00",
    "title_cs": "ChatGPT Plus pro veterány a vojáky"
-  },
-  {
-   "source": "Simon Willison",
-   "title": "llm-gemini 0.36",
-   "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-   "date": "2026-11-10T21:09:44+01:00",
-   "title_cs": "llm-gemini 0.36"
   },
   {
    "source": "Google DeepMind",
