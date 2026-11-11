@@ -507,20 +507,6 @@
    "title_cs": "llm-gemini 0.36"
   },
   {
-   "source": "Google DeepMind",
-   "title": "Gemini 4 Carbon is now available",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-   "date": "2026-11-10T17:03:47+01:00",
-   "title_cs": "Gemini 4 Carbon je k dispozici"
-  },
-  {
-   "source": "Google DeepMind",
-   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-   "date": "2026-11-10T13:02:28+01:00",
-   "title_cs": "Představujeme AlphaProof Code: průlom v hloubkovém ověřování složitého softwaru"
-  },
-  {
    "source": "Simon Willison",
    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
    "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
@@ -536,8 +522,8 @@
   }
  ],
  "money": {
-  "cnb_date": "10.11.2026",
-  "eur": "24,335",
+  "cnb_date": "11.11.2026",
+  "eur": "24,380",
   "ono_valid": "10.11.2026",
   "ono": [
    {
