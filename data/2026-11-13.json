@@ -512,6 +512,13 @@
    "title_cs": "Jak Amplitude díky OpenAI zavádí vylepšení produktu za 1–2 dny"
   },
   {
+   "source": "Google DeepMind",
+   "title": "Introducing Gemini 4 Hydrogen",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "date": "2026-11-12T19:00:50+01:00",
+   "title_cs": "Představujeme Gemini 4 Hydrogen"
+  },
+  {
    "source": "OpenAI",
    "title": "Gondola doubles revenue as its team builds more with Codex",
    "url": "https://openai.com/business/customer-stories/gondola",
@@ -524,6 +531,13 @@
    "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
    "date": "2026-11-11T23:03:25+01:00",
    "title_cs": "Gemini Decisions API"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "date": "2026-11-11T16:00:15+01:00",
+   "title_cs": "AlphaGenome 2: Jak buňky čtou DNA a co to prozradí o nemocech"
   }
  ],
  "money": {
