@@ -1,0 +1,280 @@
+{
+ "date": "2026-11-14",
+ "checked_at": "2026-11-14T07:29:25+01:00",
+ "sources": [
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-14&blok=0",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "Budějce.cz",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské muzeum",
+   "url": "https://www.muzeumcb.cz/oteviraci-doba/",
+   "status": "ok"
+  },
+  {
+   "name": "Fallcore",
+   "url": "https://www.smsticket.cz/vstupenky/77852-fallcore-2026-klub-rockle-ceske-budejovice-swept-into-decay-as-time-went-by-the-options",
+   "status": "ok"
+  },
+  {
+   "name": "InBudějovice",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "Budějcké akce",
+   "url": "https://www.budejckeakce.cz/?date=2026-11-14",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "Horká vana",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "unavailable"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "ok"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-14&end_date=2026-11-14%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatický zpravodaj",
+   "url": "https://visit.prachatice.eu/",
+   "status": "unavailable"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Doplňky krásy a elegance",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/doplnky-krasy-a-elegance.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "RETROGAMING",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.budejce.cz/kalendar/1313918875-retrogaming"
+  },
+  {
+   "kind": "Film",
+   "time": "10:00",
+   "title": "Příběhy zvířátek",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-14&blok=0"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "Uneste mě, prosím",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2814-uneste-me-prosim"
+  },
+  {
+   "kind": "Film",
+   "time": "13:45",
+   "title": "Ebenezer: Vánoční koleda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "14:00",
+   "title": "Budějovice za Velké války",
+   "venue": "Zastávka MHD Hřbitov (sv. Otýlie)",
+   "url": "https://www.budejce.cz/kalendar/1327166492-budejovice-za-velke-valky"
+  },
+  {
+   "kind": "Film",
+   "time": "14:00",
+   "title": "Pat a Mat: Zpátky na venkově",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-14&blok=0"
+  },
+  {
+   "kind": "Film",
+   "time": "15:30",
+   "title": "Skřítek: Nový začátek",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-14&blok=0"
+  },
+  {
+   "kind": "Film",
+   "time": "16:00",
+   "title": "Kluci to vidí jinak než holky - PLETKY V KINĚ",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Čardášová princezna",
+   "venue": "Jihočeské divadlo – Budova JD",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3106-cardasova-princezna"
+  },
+  {
+   "kind": "Film",
+   "time": "17:30",
+   "title": "Snow Film Fest 2026",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-14&blok=0"
+  },
+  {
+   "kind": "Film",
+   "time": "18:05",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Fallcore 2026",
+   "venue": "Klub Rockle",
+   "url": "https://www.smsticket.cz/vstupenky/77852-fallcore-2026-klub-rockle-ceske-budejovice-swept-into-decay-as-time-went-by-the-options"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:30",
+   "title": "Kupé Na Půdě",
+   "venue": "Jihočeské divadlo – Na Půdě",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2220-kupe-na-pude"
+  },
+  {
+   "kind": "Film",
+   "time": "20:10",
+   "title": "Divoký kůň Devítka",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "20:00",
+   "title": "Olympic: Bombarďák tour 2026",
+   "venue": "Kongresové centrum Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/olympic-bombardak-tour-2026/"
+  }
+ ],
+ "weekend_events": [],
+ "limitations": [
+  "Pokrytí dalších galerií, menších scén a klubů nemusí být úplné.",
+  "InBudějovice: kalendář dnes nebyl přístupný (HTTP 401), nebyl použit.",
+  "Horká vana: přímý program nebyl přístupný (HTTP 401); dnešní jednotlivé položky ICS nebylo možné spolehlivě potvrdit.",
+  "Divadlo u Kapličky: veřejný program se jeví zastaralý.",
+  "Prachatice: chybí měsíční podklad nebo je neplatný (prachatice-2026-11.json: FileNotFoundError).",
+  "Víkend: dnes je sobota; samostatný výhled se tvoří pouze ve středu až pátek."
+ ],
+ "news": [
+  {
+   "headline": "OpenAI začala v USA zpřístupňovat peněženku pro nákupy prováděné AI agentem.",
+   "fact": "OpenAI 13. listopadu oznámila postupné spuštění ChatGPT Wallet v nástroji dots pro dospělé předplatitele ChatGPT Pro v USA s podporovanými americkými kartami. Každý nákup nyní vyžaduje schválení uživatelem a bezpečnostní ověření; agent ani obchodník nedostanou skutečné údaje o kartě.",
+   "impact": "Jde o konkrétní krok od doporučování zboží k dokončení nákupu přes AI, což by do tří let mohlo změnit internetové obchodování a práci digitálních asistentů. Dostupnost v ČR, spolehlivost plateb a rozsah skutečného používání zatím nejsou známé.",
+   "source_url": "https://openai.com/index/introducing-chatgpt-wallet/"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "datasette-cluster-map 0.19",
+   "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+   "date": "2026-11-14T00:02:45+01:00",
+   "title_cs": "datasette-cluster-map 0.19"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "datasette-leaflet 0.3",
+   "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+   "date": "2026-11-13T23:30:54+01:00",
+   "title_cs": "datasette-leaflet 0.3"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Introducing ChatGPT Wallet",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "date": "2026-11-13T16:00:00+01:00",
+   "title_cs": "Představujeme ChatGPT Wallet"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "url": "https://openai.com/business/customer-stories/shield",
+   "date": "2026-11-13T09:00:00+01:00",
+   "title_cs": "Shield s OpenAI pomáhá technikům předávat práci se zastaralými portály"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Introducing Gemini 4 Hydrogen",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "date": "2026-11-12T19:00:50+01:00",
+   "title_cs": "Představujeme Gemini 4 Hydrogen"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "date": "2026-11-11T16:00:15+01:00",
+   "title_cs": "AlphaGenome 2: Jak buňky čtou DNA a co to prozradí o nemocech"
+  }
+ ],
+ "money": {
+  "cnb_date": "13.11.2026",
+  "eur": "24,425",
+  "ono_valid": "11.11.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "37,90",
+    "diesel": "42,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "37,90",
+    "diesel": "42,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "37,90",
+    "diesel": "42,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "37,90",
+    "diesel": "42,90"
+   }
+  ]
+ }
+}
