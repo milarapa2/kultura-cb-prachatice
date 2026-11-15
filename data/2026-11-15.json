@@ -1,0 +1,263 @@
+{
+ "date": "2026-11-15",
+ "checked_at": "2026-11-15T07:31:45+01:00",
+ "sources": [
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo / CBSystem",
+   "url": "https://www.cbsystem.cz/cs/akce/9885-8-miliard-lidi-hori",
+   "status": "ok"
+  },
+  {
+   "name": "MINT Market",
+   "url": "https://www.mintmarket.cz/cs/trh/ceske-budejovice-17",
+   "status": "ok"
+  },
+  {
+   "name": "Výstaviště České Budějovice",
+   "url": "https://www.vcb.cz/kalendar-akci/okresni-vystava-drobneho-zvirectva",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské muzeum",
+   "url": "https://www.muzeumcb.cz/program/vystavy/",
+   "status": "ok"
+  },
+  {
+   "name": "InBudějovice",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "Budějce.cz",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "Horká vana – veřejné kalendáře",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-15&end_date=2026-11-15%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatický zpravodaj",
+   "url": "https://visit.prachatice.eu/",
+   "status": "unavailable"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "08:00",
+   "title": "Okresní výstava drobného zvířectva",
+   "venue": "Výstaviště České Budějovice, pavilon R1",
+   "url": "https://www.vcb.cz/kalendar-akci/okresni-vystava-drobneho-zvirectva"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Doplňky krásy a elegance",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/doplnky-krasy-a-elegance.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Hřibovité houby v jižních Čechách",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/hribovite-houby-v-jiznich-cechach.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "RETROGAMING | Počátky osobních počítačů u nás",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Očima, srdcem, rukama",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/ocima-srdcem-rukama.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "MINT Market České Budějovice no. 17",
+   "venue": "Piaristické náměstí, České Budějovice",
+   "url": "https://www.mintmarket.cz/cs/trh/ceske-budejovice-17"
+  },
+  {
+   "kind": "Film",
+   "time": "13:20",
+   "title": "Můj pes Barry",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "15:15",
+   "title": "Dřevorubec",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "16:00",
+   "title": "Papája",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "8 miliard lidí hoří",
+   "venue": "Studiová scéna Na Půdě, České Budějovice",
+   "url": "https://www.cbsystem.cz/cs/akce/9885-8-miliard-lidi-hori"
+  },
+  {
+   "kind": "Film",
+   "time": "17:10",
+   "title": "De Gaulle 1: Odboj",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "18:00",
+   "title": "Návrat do neznámé země",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:30",
+   "title": "8 miliard lidí hoří",
+   "venue": "Studiová scéna Na Půdě, České Budějovice",
+   "url": "https://www.cbsystem.cz/cs/akce/9885-8-miliard-lidi-hori"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Rozvod za časů války",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "20:10",
+   "title": "Ebenezer: Vánoční koleda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  }
+ ],
+ "prachatice_events": [],
+ "weekend_events": [],
+ "limitations": [
+  "InBudějovice: kalendář nevydal přímo ověřitelný dnešní seznam; žádná akce z vloženého Guidle nebyla odvozena.",
+  "Prachatice: chybí měsíční podklad nebo je neplatný (prachatice-2026-11.json: FileNotFoundError).",
+  "Prachatice: živé API pro dnešek nevrátilo žádnou jednotlivou akci; výstavy z chybějícího zpravodaje nelze doplnit.",
+  "Úplnost českobudějovických akcí nelze z dostupných programů zaručit."
+ ],
+ "news": [
+  {
+   "headline": "EU představila plán společného zastoupení při jednáních o míru na Ukrajině.",
+   "fact": "Předseda Evropské rady António Costa po neformálním summitu 13. listopadu představil návrh evropského týmu složeného ze zástupců institucí EU, Francie, Německa, Itálie, Polska a Británie pro koordinaci účasti Evropy na mírových jednáních. O financování Ukrajiny na rok 2027 a další období mají unijní lídři teprve jednat 26.–27. listopadu.",
+   "impact": "Podoba jednání a budoucích bezpečnostních záruk pro Ukrajinu by mohla během tří let ovlivnit i bezpečnost Česka. Zatím jde o návrh zastoupení, nikoli o uzavřenou mírovou dohodu; účast Ruska a výsledek jednání zůstávají nejisté.",
+   "source_url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/11/13/"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "datasette-llm 0.1a11",
+   "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+   "date": "2026-11-15T00:59:28+01:00",
+   "title_cs": "datasette-llm 0.1a11"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "datasette-vega 0.7",
+   "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+   "date": "2026-11-14T18:09:09+01:00",
+   "title_cs": "datasette-vega 0.7"
+  },
+  {
+   "source": "Interconnects",
+   "title": "Open-source AI without Jensen",
+   "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+   "date": "2026-11-14T13:23:15+01:00",
+   "title_cs": "Open-source AI bez Jensena"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Introducing ChatGPT Wallet",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "date": "2026-11-13T16:00:00+01:00",
+   "title_cs": "Představujeme ChatGPT Wallet"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "url": "https://openai.com/business/customer-stories/shield",
+   "date": "2026-11-13T09:00:00+01:00",
+   "title_cs": "Shield s OpenAI pomáhá technikům předávat práci se zastaralými portály"
+  }
+ ],
+ "money": {
+  "cnb_date": "13.11.2026",
+  "eur": "24,425",
+  "ono_valid": "11.11.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "37,90",
+    "diesel": "42,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "37,90",
+    "diesel": "42,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "37,90",
+    "diesel": "42,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "37,90",
+    "diesel": "42,90"
+   }
+  ]
+ }
+}
