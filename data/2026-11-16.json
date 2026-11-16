@@ -178,6 +178,13 @@
  ],
  "ai_news": [
   {
+   "source": "Import AI",
+   "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+   "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+   "date": "2026-11-16T15:01:15+01:00",
+   "title_cs": "Import AI 481: AI subdodavatelé, mokrá laboratoř pro AI a lsti během vývoje"
+  },
+  {
    "source": "OpenAI",
    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
    "url": "https://openai.com/index/lvmh-media-division-partnership",
@@ -186,10 +193,10 @@
   },
   {
    "source": "OpenAI",
-   "title": "The King’s Trust and OpenAI launch £1m partnership",
-   "url": "https://openai.com/index/the-kings-trust-and-openai",
-   "date": "2026-11-16T01:00:00+01:00",
-   "title_cs": "King's Trust a OpenAI spouštějí partnerství za 1 milion liber"
+   "title": "Advancing computer-use agents for healthcare teams",
+   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "date": "2026-11-16T07:00:00+01:00",
+   "title_cs": "Pokrok v agentech pro ovládání počítače pro zdravotnické týmy"
   },
   {
    "source": "Simon Willison",
