@@ -178,6 +178,20 @@
  ],
  "ai_news": [
   {
+   "source": "OpenAI",
+   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+   "url": "https://openai.com/index/lvmh-media-division-partnership",
+   "date": "2026-11-16T10:00:00+01:00",
+   "title_cs": "Mediální divize LVMH oznamuje strategické partnerství s OpenAI"
+  },
+  {
+   "source": "OpenAI",
+   "title": "The King’s Trust and OpenAI launch £1m partnership",
+   "url": "https://openai.com/index/the-kings-trust-and-openai",
+   "date": "2026-11-16T01:00:00+01:00",
+   "title_cs": "King's Trust a OpenAI spouštějí partnerství za 1 milion liber"
+  },
+  {
    "source": "Simon Willison",
    "title": "datasette-maplibre 0.1a0",
    "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
@@ -190,20 +204,6 @@
    "url": "https://simonwillison.net/2026/Nov/15/datasette/",
    "date": "2026-11-16T00:20:27+01:00",
    "title_cs": "datasette 1.0a43"
-  },
-  {
-   "source": "OpenAI",
-   "title": "A step toward defining the Standard Model on a lattice",
-   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-   "date": "2026-11-15T23:00:01+01:00",
-   "title_cs": "Krok k definici Standardního modelu na mřížce"
-  },
-  {
-   "source": "OpenAI",
-   "title": "Our new blog for science",
-   "url": "https://openai.com/index/our-new-blog-for-science",
-   "date": "2026-11-15T23:00:00+01:00",
-   "title_cs": "Náš nový blog o vědě"
   },
   {
    "source": "Interconnects",
