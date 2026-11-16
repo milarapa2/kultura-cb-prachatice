@@ -1,0 +1,243 @@
+{
+ "date": "2026-11-16",
+ "checked_at": "2026-11-16T07:32:33+01:00",
+ "sources": [
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Horká vana – Kvízovana",
+   "url": "https://calendar.google.com/calendar/ical/11d05dba2a819756c652defe48bd6dddf27566a6086db123b9138557661c1a74@group.calendar.google.com/public/basic.ics",
+   "status": "ok"
+  },
+  {
+   "name": "Horká vana – stránka programu",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "unavailable"
+  },
+  {
+   "name": "InBudějovice",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "Turistický kalendář Budějce",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "unavailable"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "ok"
+  },
+  {
+   "name": "ICM ČB",
+   "url": "https://www.icmcb.cz/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Budějcké akce",
+   "url": "https://budejckeakce.cz/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-16&end_date=2026-11-16%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatický zpravodaj",
+   "url": "https://visit.prachatice.eu/",
+   "status": "unavailable"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Film",
+   "time": "14:30",
+   "title": "Milovník, ne bojovník",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "15:15",
+   "title": "Divoký kůň Devítka",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "17:00",
+   "title": "Wildwood: Tajemství zakázaného lesa",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "17:30",
+   "title": "Dřevorubec",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "18:00",
+   "title": "Špicberky – plavba na konec světa (Michal Švec)",
+   "venue": "DK Metropol, Malá scéna",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/spicberky-%E2%80%93-plavba-na-konec-sveta-michal-svec/2311/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "Lazebník sevillský",
+   "venue": "Jihočeské divadlo, Budova JD",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2708-lazebnik-sevillsky"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Hospodský kvíz – Horká vana",
+   "venue": "Horká vana, Česká 222/7, České Budějovice",
+   "url": "https://calendar.google.com/calendar/ical/11d05dba2a819756c652defe48bd6dddf27566a6086db123b9138557661c1a74@group.calendar.google.com/public/basic.ics"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "Můžem i s mužem",
+   "venue": "DK Metropol, Divadelní sál",
+   "url": "https://www.metropolcb.cz/program/divadelni-predstaveni/muzem-i-s-muzem-prelozeno-z-27-10-2026/2051/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:30",
+   "title": "Vyšší moc",
+   "venue": "Jihočeské divadlo, Na Půdě",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2931-vyssi-moc"
+  },
+  {
+   "kind": "Film",
+   "time": "19:30",
+   "title": "De Gaulle 1: Odboj",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:30",
+   "title": "NAMIBIE - cestovatelská přednáška Dalibora Kalčíka",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Podzimní saunové ceremoniály a peelingy",
+   "venue": "Saunový svět",
+   "url": "https://visit.prachatice.eu/udalost/podzimni-saunove-ceremonialy-a-peelingy/"
+  }
+ ],
+ "weekend_events": [],
+ "limitations": [
+  "Pokrytí dnešních kulturních akcí není úplné; galerie a muzeální otevírací doby nebyly potvrzeny.",
+  "InBudějovice, turistický kalendář Budějce, týdenní přehled ICM ČB a budejckeakce.cz: nelze z nich potvrdit úplný dnešní seznam.",
+  "Horká vana: stránka programu chráněná WEDOS; kvíz potvrzen z veřejného kalendáře Kvízovana s X-WR-CALNAME a rozvinutím opakování, nikoli aktuálním porovnáním iframe ID.",
+  "Prachatice: chybí měsíční podklad nebo je neplatný (prachatice-2026-11.json: FileNotFoundError)."
+ ],
+ "news": [
+  {
+   "headline": "Estonsko plánuje od prosince uzavřít silniční přechody s Ruskem po pokusu o sabotáž výrobce dronů.",
+   "fact": "Estonské ministerstvo zahraničí 15. listopadu uvedlo, že vláda plánuje od 1. prosince uzavřít silniční přechody s Ruskem v reakci na pokus o útok na firmu Threod Systems. Podle estonské vlády bezpečnostní služba přisuzuje přípravu útoku ruské vojenské rozvědce GRU; osm podezřelých bylo zadrženo.",
+   "impact": "Pro Česko jako spojence v EU a NATO je to možný signál, jak budou evropské státy reagovat na hrozby vůči obranným firmám; jde o mou interpretaci, nikoli o důkaz bezprostředního ohrožení českých rodin. Uzavření je zatím plán a jeho trvání ani širší dopad nejsou jisté.",
+   "source_url": "https://vm.ee/en/news/foreign-minister-tsahkna-estonia-close-road-border-crossings-russia"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "datasette-maplibre 0.1a0",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+   "date": "2026-11-16T00:58:36+01:00",
+   "title_cs": "datasette-maplibre 0.1a0"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "datasette 1.0a43",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+   "date": "2026-11-16T00:20:27+01:00",
+   "title_cs": "datasette 1.0a43"
+  },
+  {
+   "source": "OpenAI",
+   "title": "A step toward defining the Standard Model on a lattice",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "date": "2026-11-15T23:00:01+01:00",
+   "title_cs": "Krok k definici Standardního modelu na mřížce"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Our new blog for science",
+   "url": "https://openai.com/index/our-new-blog-for-science",
+   "date": "2026-11-15T23:00:00+01:00",
+   "title_cs": "Náš nový blog o vědě"
+  },
+  {
+   "source": "Interconnects",
+   "title": "Open-source AI without Jensen",
+   "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+   "date": "2026-11-14T13:23:15+01:00",
+   "title_cs": "Open-source AI bez Jensena"
+  }
+ ],
+ "money": {
+  "cnb_date": "13.11.2026",
+  "eur": "24,425",
+  "ono_valid": "11.11.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "37,90",
+    "diesel": "42,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "37,90",
+    "diesel": "42,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "37,90",
+    "diesel": "42,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "37,90",
+    "diesel": "42,90"
+   }
+  ]
+ }
+}
