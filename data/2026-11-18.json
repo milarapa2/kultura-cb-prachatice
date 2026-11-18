@@ -409,32 +409,39 @@
  ],
  "ai_news": [
   {
-   "source": "Simon Willison",
-   "title": "External sandboxes for coding agents",
-   "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
-   "date": "2026-11-17T23:52:29+01:00",
-   "title_cs": "Externí sandboxy pro programovací agenty"
+   "source": "Google DeepMind",
+   "title": "Genie 4 is now available",
+   "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+   "date": "2026-11-18T19:13:42+01:00",
+   "title_cs": "Genie 4 je k dispozici"
   },
   {
    "source": "Simon Willison",
-   "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
-   "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-   "date": "2026-11-17T23:38:52+01:00",
-   "title_cs": "GPT-6.2 Astra a GPT-6.2 Sol"
+   "title": "Quoting Daniel Stenberg",
+   "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+   "date": "2026-11-18T16:58:27+01:00",
+   "title_cs": "Citát: Daniel Stenberg"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "The PSF end-of-year fundraiser",
+   "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+   "date": "2026-11-18T15:44:48+01:00",
+   "title_cs": "Koncoroční sbírka PSF"
   },
   {
    "source": "OpenAI",
-   "title": "Introducing GPT-6.2 Astra and Sol",
-   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-   "date": "2026-11-17T18:45:00+01:00",
-   "title_cs": "Představujeme GPT-6.2 Astra a Sol"
+   "title": "Inside the Codex sandbox",
+   "url": "https://openai.com/index/inside-the-codex-sandbox",
+   "date": "2026-11-18T09:00:00+01:00",
+   "title_cs": "Uvnitř sandboxu Codexu"
   },
   {
    "source": "OpenAI",
-   "title": "Strengthening NATO and allied cyber defenses with AI",
-   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-   "date": "2026-11-17T01:00:00+01:00",
-   "title_cs": "Posílení kybernetické obrany NATO a spojenců pomocí AI"
+   "title": "The Silent Consensus",
+   "url": "https://openai.com/index/the-silent-consensus",
+   "date": "2026-11-18T01:00:00+01:00",
+   "title_cs": "Tichý konsenzus"
   },
   {
    "source": "Import AI",
@@ -452,28 +459,28 @@
   }
  ],
  "money": {
-  "cnb_date": "16.11.2026",
-  "eur": "24,430",
-  "ono_valid": "11.11.2026",
+  "cnb_date": "18.11.2026",
+  "eur": "24,385",
+  "ono_valid": "18.11.2026",
   "ono": [
    {
     "name": "Dolní Dvořiště - ONO I",
-    "n95": "37,90",
+    "n95": "37,50",
     "diesel": "42,90"
    },
    {
     "name": "Jindřichův Hradec",
-    "n95": "37,90",
+    "n95": "37,50",
     "diesel": "42,90"
    },
    {
     "name": "Planá nad Lužnicí",
-    "n95": "37,90",
+    "n95": "37,50",
     "diesel": "42,90"
    },
    {
     "name": "Podolí u Písku",
-    "n95": "37,90",
+    "n95": "37,50",
     "diesel": "42,90"
    }
   ]
