@@ -1,0 +1,481 @@
+{
+ "date": "2026-11-18",
+ "checked_at": "2026-11-18T07:31:26+01:00",
+ "sources": [
+  {
+   "name": "Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-18&end_date=2026-11-18%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatický zpravodaj",
+   "url": "https://visit.prachatice.eu/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Budějce.cz",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "InBudějovice",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "Horká vana",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatice API víkend",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-21&end_date=2026-11-21%2023:59&per_page=100",
+   "status": "ok"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Film",
+   "time": "09:30",
+   "title": "Ebenezer: Vánoční koleda",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "14:30",
+   "title": "Divočina",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "15:30",
+   "title": "Houpačky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "17:40",
+   "title": "Divoký kůň Devítka",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "18:00",
+   "title": "James McNeill Whistler",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Ebenezer: Vánoční koleda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Já, Rocky",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "",
+   "title": "Dívka v modrém",
+   "venue": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Jakub Smolík – 40 let s vámi",
+   "venue": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Českobudějovický advent",
+   "venue": "Náměstí Přemysla Otakara II., České Budějovice",
+   "url": "https://www.budejce.cz/kalendar/1160833579-ceskobudejovicky-advent"
+  }
+ ],
+ "prachatice_events": [],
+ "weekend_events": [
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "10:00",
+   "title": "Krtkova dobrodružství 1",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Svatba Fest vol. 2",
+   "venue": "Slavie, Jirsíkova 2",
+   "url": "https://www.budejce.cz/kalendar/1295957389-svatba-fest-vol-2"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Pohádkovaná aneb pohádky pro děti v Horké vaně",
+   "venue": "Horká vana, Česká 222/7",
+   "url": "https://horkavanacb.cz/program/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "13:30",
+   "title": "Kinošpunt",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "14:10",
+   "title": "Santova kouzelná dílna",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "15:30",
+   "title": "Zítra se zamiluji",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "15:40",
+   "title": "Ebenezer: Vánoční koleda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Babi Bejvávalo",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3102-babi-bejvavalo"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Sněhová královna",
+   "venue": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "17:55",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "18:00",
+   "title": "Electric Kiss",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Koncert Pavel Čadek",
+   "venue": "Horká vana, Česká 222/7",
+   "url": "https://horkavanacb.cz/program/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "19:30",
+   "title": "Pořád jsem to já",
+   "venue": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Já, Rocky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:30",
+   "title": "De Gaulle 2: Svoboda",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "",
+   "title": "Kouzelná školka uzamčená na fanfáru",
+   "venue": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "Prachatice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Pletení z pedigu II s Miroslavem Ševčíkem",
+   "venue": "Prachatické muzeum",
+   "url": "https://visit.prachatice.eu/udalost/pleteni-z-pedigu-ii-s-miroslavem-sevcikem/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "Prachatice",
+   "kind": "Akce",
+   "time": "11:00",
+   "title": "Prachcest 2026",
+   "venue": "Aula Gymnázia Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/prachcest-2026-2/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "Prachatice",
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "Jaromír Hruška: Home Run",
+   "venue": "Městské divadlo",
+   "url": "https://visit.prachatice.eu/udalost/jaromir-hruska-home-run/"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "14:00",
+   "title": "Pitomá příroda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "15:00",
+   "title": "Bídníci",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "15:25",
+   "title": "Já, Rocky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Cesta na druhý břeh",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "17:50",
+   "title": "Ebenezer: Vánoční koleda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "18:15",
+   "title": "Dobré vibrace",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Cizinec",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Příběhy noci",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "",
+   "title": "Simona – Tichá noc",
+   "venue": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html"
+  }
+ ],
+ "limitations": [
+  "Prachatice: chybí měsíční podklad nebo je neplatný (prachatice-2026-11.json: FileNotFoundError).",
+  "InBudějovice: kalendář není přímo dostupný; z vloženého Guidle nebyly převzaty akce.",
+  "Divadlo u Kapličky: zveřejněný program je zastaralý (2023).",
+  "Kotva: projekce v 09:30 je neobvykle brzy; čas je z oficiálního programu.",
+  "Pokrytí dalších pořadatelů, galerií a muzeí není úplné; nulový nález neprokazuje, že se nic nekoná.",
+  "Víkend: bez měsíčního prachatického zpravodaje; API pro neděli nevrátilo akce, což nedokazuje úplnost programu. Výstavy bez potvrzené otevírací doby byly vynechány.",
+  "Víkend: doplňkové programy všech pořadatelů nemusí být úplné."
+ ],
+ "news": [
+  {
+   "headline": "EU schválila dosud největší jednotlivou platbu z programu Ukraine Facility pro Ukrajinu.",
+   "fact": "Rada EU 16. listopadu přijala rozhodnutí, které umožní brzy vyplatit Ukrajině necelých osm miliard eur; podle Rady jde o dosud největší jednotlivou výplatu v tomto programu. Platba navazuje na splnění více než dvaceti reformních kroků a má podpořit stabilitu veřejných financí a fungování státní správy.",
+   "impact": "Pro bezpečnost Česka by v příštích třech letech mohlo záležet na tom, zda si Ukrajina udrží fungující stát i během války; to je interpretace, nikoli přímý účinek samotné platby. Není jisté, kdy peníze skutečně dorazí ani nakolik změní vývoj války.",
+   "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/ukraine-facility-council-approves-largest-ever-payment-of-8-billion-to-kyiv/"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "External sandboxes for coding agents",
+   "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+   "date": "2026-11-17T23:52:29+01:00",
+   "title_cs": "Externí sandboxy pro programovací agenty"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+   "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+   "date": "2026-11-17T23:38:52+01:00",
+   "title_cs": "GPT-6.2 Astra a GPT-6.2 Sol"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "date": "2026-11-17T18:45:00+01:00",
+   "title_cs": "Představujeme GPT-6.2 Astra a Sol"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Strengthening NATO and allied cyber defenses with AI",
+   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "date": "2026-11-17T01:00:00+01:00",
+   "title_cs": "Posílení kybernetické obrany NATO a spojenců pomocí AI"
+  },
+  {
+   "source": "Import AI",
+   "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+   "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+   "date": "2026-11-16T15:01:15+01:00",
+   "title_cs": "Import AI 481: AI subdodavatelé, mokrá laboratoř pro AI a lsti během vývoje"
+  },
+  {
+   "source": "METR",
+   "title": "Measuring alignment eval tells",
+   "url": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/",
+   "date": "2026-11-16T09:00:00+01:00",
+   "title_cs": "Jak měřit, že model pozná test sladění"
+  }
+ ],
+ "money": {
+  "cnb_date": "16.11.2026",
+  "eur": "24,430",
+  "ono_valid": "11.11.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "37,90",
+    "diesel": "42,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "37,90",
+    "diesel": "42,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "37,90",
+    "diesel": "42,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "37,90",
+    "diesel": "42,90"
+   }
+  ]
+ }
+}
