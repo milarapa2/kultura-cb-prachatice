@@ -478,39 +478,32 @@
    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
    "date": "2026-11-18T09:00:00+01:00",
    "title_cs": "Zrychlení výzkumu: nerovnoměrná hranice možností AI"
-  },
-  {
-   "source": "Import AI",
-   "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
-   "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
-   "date": "2026-11-16T15:01:15+01:00",
-   "title_cs": "Import AI 481: AI subdodavatelé, mokrá laboratoř pro AI a lsti během vývoje"
   }
  ],
  "money": {
-  "cnb_date": "18.11.2026",
-  "eur": "24,385",
-  "ono_valid": "18.11.2026",
+  "cnb_date": "19.11.2026",
+  "eur": "24,425",
+  "ono_valid": "19.11.2026",
   "ono": [
    {
     "name": "Dolní Dvořiště - ONO I",
-    "n95": "37,50",
-    "diesel": "42,90"
+    "n95": "36,90",
+    "diesel": "42,50"
    },
    {
     "name": "Jindřichův Hradec",
-    "n95": "37,50",
-    "diesel": "42,90"
+    "n95": "36,90",
+    "diesel": "42,50"
    },
    {
     "name": "Planá nad Lužnicí",
-    "n95": "37,50",
-    "diesel": "42,90"
+    "n95": "36,90",
+    "diesel": "42,50"
    },
    {
     "name": "Podolí u Písku",
-    "n95": "37,50",
-    "diesel": "42,90"
+    "n95": "36,90",
+    "diesel": "42,50"
    }
   ]
  }
