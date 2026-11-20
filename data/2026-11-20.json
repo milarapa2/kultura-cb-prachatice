@@ -449,28 +449,42 @@
    "title": "Token fraud is here and it’s BAD (YouTube)",
    "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
    "date": "2026-11-20T03:49:57+01:00",
-   "title_cs": ""
+   "title_cs": "Podvody s tokeny jsou tady a jsou zlé (YouTube)"
   },
   {
    "source": "Simon Willison",
    "title": "PostgreSQL 19 Released",
    "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
    "date": "2026-11-19T21:43:57+01:00",
-   "title_cs": ""
+   "title_cs": "Vyšel PostgreSQL 19"
   },
   {
    "source": "OpenAI",
    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
    "date": "2026-11-19T09:00:00+01:00",
-   "title_cs": ""
+   "title_cs": "Jak Performance Factory od OpenAI udržuje ChatGPT rychlý"
   },
   {
    "source": "OpenAI",
    "title": "Deploying Daybreak Red",
    "url": "https://openai.com/business/learn/deploying-daybreak-red",
    "date": "2026-11-19T01:00:00+01:00",
-   "title_cs": ""
+   "title_cs": "Nasazení Daybreak Red"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Introducing Gemini 4 Neon",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "date": "2026-11-18T22:35:43+01:00",
+   "title_cs": "Představujeme Gemini 4 Neon"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Genie 4 is now available",
+   "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+   "date": "2026-11-18T19:13:42+01:00",
+   "title_cs": "Genie 4 je k dispozici"
   }
  ],
  "money": {
