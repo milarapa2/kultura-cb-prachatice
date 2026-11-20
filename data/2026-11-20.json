@@ -1,0 +1,503 @@
+{
+ "date": "2026-11-20",
+ "checked_at": "2026-11-20T07:35:00+01:00",
+ "sources": [
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-20&end_date=2026-11-20%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatický zpravodaj",
+   "url": "https://visit.prachatice.eu/",
+   "status": "unavailable"
+  },
+  {
+   "name": "InBudějovice",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "Turistický kalendář Budějce",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "Budějcké akce",
+   "url": "https://budejckeakce.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "Horká vana – veřejné kalendáře",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "Kino Kafé 7 – renderovaný detail",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Pragokoncert",
+   "url": "https://www.pragokoncert.com/cs/koncerty/2026-yamato-cb",
+   "status": "ok"
+  },
+  {
+   "name": "Klub K2",
+   "url": "https://www.k2cb.cz/kalendar-akci/2026/11",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut Prachatice",
+   "url": "https://goout.net/cs/prachatice/akce/lezwmynkk/",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatice API – sobota",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-21&end_date=2026-11-21%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatice API – neděle",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-22&end_date=2026-11-22%2023:59&per_page=100",
+   "status": "ok"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "Sněhová královna",
+   "venue": "Jihočeské divadlo – Budova JD",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2919-snehova-kralovna"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:30",
+   "title": "Holky a kluci",
+   "venue": "Jihočeské divadlo – Na Půdě",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2328-holky-a-kluci"
+  },
+  {
+   "kind": "Akce",
+   "time": "20:00",
+   "title": "Yamato – Hito no Chikara",
+   "venue": "KD Metropol",
+   "url": "https://www.pragokoncert.com/cs/koncerty/2026-yamato-cb"
+  },
+  {
+   "kind": "Akce",
+   "time": "21:00",
+   "title": "Oldies party by GETUP",
+   "venue": "Klub K2",
+   "url": "https://www.k2cb.cz/akce/oldies-party-by-getup"
+  },
+  {
+   "kind": "Film",
+   "time": "15:40",
+   "title": "Villeneuve: Zrození šampióna",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "17:40",
+   "title": "Já, Rocky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "20:10",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "09:30",
+   "title": "Signály z neznáma",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "17:00",
+   "title": "Naše spása",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Cizinec",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "16:00",
+   "title": "Prachcest 2026",
+   "venue": "Aula Gymnázia Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/prachcest-2026/"
+  },
+  {
+   "kind": "Akce",
+   "time": "16:00",
+   "title": "Šumavské TOPinky",
+   "venue": "Kostel sv. Anny na Libínském Sedle",
+   "url": "https://visit.prachatice.eu/udalost/sumavske-topinky/"
+  },
+  {
+   "kind": "Akce",
+   "time": "18:00",
+   "title": "Šumava v zblízka i z daleka VI",
+   "venue": "Galerie Neumannka",
+   "url": "https://visit.prachatice.eu/udalost/sumava-v-zblizka-i-z-daleka-vi/"
+  }
+ ],
+ "weekend_events": [
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Babi Bejvávalo",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3102-babi-bejvavalo"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Sněhová královna",
+   "venue": "Jihočeské divadlo – Budova JD",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2919-snehova-kralovna"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "19:30",
+   "title": "Pořád jsem to já",
+   "venue": "Jihočeské divadlo – Na Půdě",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2425-porad-jsem-to-ja"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Cesta na druhý břeh",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3193-cesta-na-druhy-breh"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Pohádkovaná aneb pohádky pro děti v Horké vaně",
+   "venue": "Horká vana, Česká 222/7",
+   "url": "https://horkavanacb.cz/program/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Koncert Pavel Čadek",
+   "venue": "Horká vana, Česká 222/7",
+   "url": "https://horkavanacb.cz/program/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "20:00",
+   "title": "Divokej Bill Akusticky",
+   "venue": "KD Vltava",
+   "url": "https://www.kdvltava.com/akce/divokej-bill/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "11:00",
+   "title": "Zabijačkové hody – akordeonové duo a Správná pětka",
+   "venue": "ČEZ Areál Vltava",
+   "url": "https://www.budejcezadarmo.cz/akce/zabijackove-hody/"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Simona – Tichá noc",
+   "venue": "DK Metropol – Společenský sál",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/simona-ticha-noc-vianocny-stand-up-special/2366/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "14:10",
+   "title": "Santova kouzelná dílna",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "15:40",
+   "title": "Ebenezer: Vánoční koleda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "17:55",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Já, Rocky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "14:00",
+   "title": "Pitomá příroda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "15:25",
+   "title": "Já, Rocky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "17:50",
+   "title": "Ebenezer: Vánoční koleda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "10:00",
+   "title": "Krtkova dobrodružství 1",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Akce",
+   "time": "13:30",
+   "title": "Kinošpunt – filmová dílna pro děti",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "15:30",
+   "title": "Zítra se zamiluji",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "18:00",
+   "title": "Electric Kiss",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:30",
+   "title": "De Gaulle 2: Svoboda",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "15:00",
+   "title": "Bídníci",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "18:15",
+   "title": "Dobré vibrace",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-22",
+   "city": "České Budějovice",
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Příběhy noci",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "Prachatice",
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Pletení z pedigu II s Miroslavem Ševčíkem",
+   "venue": "Prachatické muzeum",
+   "url": "https://visit.prachatice.eu/udalost/pleteni-z-pedigu-ii-s-miroslavem-sevcikem/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "Prachatice",
+   "kind": "Akce",
+   "time": "11:00",
+   "title": "Prachcest 2026",
+   "venue": "Aula Gymnázia Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/prachcest-2026-2/"
+  },
+  {
+   "day": "2026-11-21",
+   "city": "Prachatice",
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "Jaromír Hruška: Home Run",
+   "venue": "Městské divadlo",
+   "url": "https://visit.prachatice.eu/udalost/jaromir-hruska-home-run/"
+  }
+ ],
+ "limitations": [
+  "Prachatice: chybí měsíční podklad nebo je neplatný (prachatice-2026-11.json: FileNotFoundError).",
+  "InBudějovice nezobrazilo ověřitelný konkrétní program; Guidle nepoužit. Divadlo u Kapličky má zastaralý výpis. Pokrytí galerií, muzeí, ICM a dalších menších pořadatelů není úplné.",
+  "Kotva: dnešní projekce v 09:30 je nezvykle brzká; čas pochází z oficiálního vykresleného programu.",
+  "Richard 3, 2, 1... teď! dne 20. 11. v 10:00 je podle podrobného programu v Rožnově pod Radhoštěm, proto není v budějovických akcích.",
+  "Víkend: Prachatické API pro neděli 22. 11. vrátilo nula položek; bez měsíčního zpravodaje ani ověřené otevírací doby výstav nelze považovat víkendový výběr za úplný. Galerie a část menších pořadatelů zůstaly neověřené."
+ ],
+ "news": [
+  {
+   "headline": "OpenAI oznámila, že její modely pomohly navrhnout účinnější obvody pro čipy AMD.",
+   "fact": "OpenAI 18. listopadu uvedla, že její modely při spolupráci s AMD dosáhly až 14% zlepšení vybraných parametrů návrhu grafického čipu oproti již optimalizovanému základu; část úprav AMD zahrnula do návrhu odeslaného do výroby. Podle OpenAI její modely pomohly také snížit plochu některých obvodů vlastního čipu Jalapeño a tyto úpravy byly ověřeny na vyrobeném čipu.",
+   "impact": "Pokud se tento způsob návrhu osvědčí i v dalších čipech, mohl by v příštích třech letech zrychlit vývoj výpočetního hardwaru pro AI a nepřímo ovlivnit dostupnost či cenu AI služeb používaných i v Česku. Uvedené výsledky pocházejí od OpenAI a samy o sobě neprokazují levnější služby ani podobné přínosy v celých budoucích čipech.",
+   "source_url": "https://openai.com/index/advancing-chip-design-with-our-models/"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "Token fraud is here and it’s BAD (YouTube)",
+   "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+   "date": "2026-11-20T03:49:57+01:00",
+   "title_cs": ""
+  },
+  {
+   "source": "Simon Willison",
+   "title": "PostgreSQL 19 Released",
+   "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+   "date": "2026-11-19T21:43:57+01:00",
+   "title_cs": ""
+  },
+  {
+   "source": "OpenAI",
+   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "date": "2026-11-19T09:00:00+01:00",
+   "title_cs": ""
+  },
+  {
+   "source": "OpenAI",
+   "title": "Deploying Daybreak Red",
+   "url": "https://openai.com/business/learn/deploying-daybreak-red",
+   "date": "2026-11-19T01:00:00+01:00",
+   "title_cs": ""
+  }
+ ],
+ "money": {
+  "cnb_date": "19.11.2026",
+  "eur": "24,425",
+  "ono_valid": "19.11.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "36,90",
+    "diesel": "42,50"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "36,90",
+    "diesel": "42,50"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "36,90",
+    "diesel": "42,50"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "36,90",
+    "diesel": "42,50"
+   }
+  ]
+ }
+}
