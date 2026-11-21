@@ -1,0 +1,366 @@
+{
+ "date": "2026-11-21",
+ "checked_at": "2026-11-21T07:28:43+01:00",
+ "sources": [
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "Horká vana",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské muzeum",
+   "url": "https://www.muzeumcb.cz/navstivte-nas/oteviraci-doba/",
+   "status": "ok"
+  },
+  {
+   "name": "Alšova jihočeská galerie",
+   "url": "https://www.ajg.cz/pro-navstevniky.html",
+   "status": "ok"
+  },
+  {
+   "name": "Budějce",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "Budějcké akce",
+   "url": "https://budejckeakce.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "ok"
+  },
+  {
+   "name": "Českobudějovický advent",
+   "url": "https://ceskobudejovickyadvent.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "InBudějovice",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "ICM ČB",
+   "url": "https://www.icmcb.cz/tydenni-prehled-akci-v-ceskych-budejovicich/",
+   "status": "unavailable"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-21&end_date=2026-11-21%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatický zpravodaj",
+   "url": "https://visit.prachatice.eu/",
+   "status": "unavailable"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "RETROGAMING – Počátky osobních počítačů u nás",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Očima, srdcem, rukama",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/ocima-srdcem-rukama.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Michal Cimala – Achát F1",
+   "venue": "Wortnerův dům AJG, U Černé věže 22",
+   "url": "https://www.ajg.cz/probihajici-vystavy/michal-cimala-achat-f1.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Chrámem, kruhem, strání – stálá expozice",
+   "venue": "Wortnerův dům AJG, U Černé věže 22",
+   "url": "https://www.ajg.cz/stale-expozice/chramem-kruhem-strani-stala-expozice-ze-sbirek-ajg.html"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "Pohádkovana: Rybníkáři – Fimfárum",
+   "venue": "Horká vana, Česká 222/7",
+   "url": "https://www.smsticket.cz/vstupenky/76290-pohadkovana-aneb-pohadky-pro-deti-v-horke-vane-horka-vana-ceske-budejovice"
+  },
+  {
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Svatba Fest vol. 2",
+   "venue": "KD Slavie, České Budějovice",
+   "url": "https://www.svatbafest.cz/"
+  },
+  {
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Otevření adventního kluziště",
+   "venue": "Náměstí Přemysla Otakara II.",
+   "url": "https://ceskobudejovickyadvent.cz/event/otevreni-adventniho-kluziste/"
+  },
+  {
+   "kind": "Film",
+   "time": "10:00",
+   "title": "Krtkova dobrodružství 1",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/film/krtkova-dobrodruzstvi-1/"
+  },
+  {
+   "kind": "Film",
+   "time": "13:30",
+   "title": "Kinošpunt",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/film/kinospunt/"
+  },
+  {
+   "kind": "Film",
+   "time": "14:10",
+   "title": "Santova kouzelná dílna",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "15:30",
+   "title": "Zítra se zamiluji",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/film/zitra-se-zamiluji/"
+  },
+  {
+   "kind": "Film",
+   "time": "15:40",
+   "title": "Ebenezer: Vánoční koleda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Babi Bejvávalo – premiéra",
+   "venue": "Malé divadlo, České Budějovice",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3102-babi-bejvavalo"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Sněhová královna",
+   "venue": "Budova Jihočeského divadla",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2919-snehova-kralovna"
+  },
+  {
+   "kind": "Film",
+   "time": "17:55",
+   "title": "Kluci to vidí jinak než holky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "18:00",
+   "title": "Electric Kiss",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/film/electric-kiss/"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Pavel Čadek – Další kafe tour",
+   "venue": "Horká vana, Česká 222/7",
+   "url": "https://www.fairplay.events/cs/pavel-cadek-dalsi-kafe-tour-or-ceske-budejovice-5d75"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Jiří Schelinger Tribute Mladen Djelmo",
+   "venue": "Beseda, velký sál, České Budějovice",
+   "url": "https://www.smsticket.cz/vstupenky/76256-jiri-schelinger-tribute-mladen-djelmo-beseda-velky-sal-ceske-budejovice"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:30",
+   "title": "Pořád jsem to já",
+   "venue": "Na Půdě, Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2425-porad-jsem-to-ja"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Já, Rocky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "20:30",
+   "title": "De Gaulle 2: Svoboda",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/film/de-gaulle-2-svoboda/"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "GREY256 TOUR 2026",
+   "venue": "MC Fabrika, České Budějovice",
+   "url": "https://www.grey256.com/koncerty/tour2026-cb/"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Pletení z pedigu II s Miroslavem Ševčíkem",
+   "venue": "Prachatické muzeum",
+   "url": "https://visit.prachatice.eu/udalost/pleteni-z-pedigu-ii-s-miroslavem-sevcikem/"
+  },
+  {
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Sezóna na kluzišti",
+   "venue": "Zimní kluziště – zahrada plaveckého bazénu",
+   "url": "https://visit.prachatice.eu/udalost/sezona-na-kluzisti/"
+  },
+  {
+   "kind": "Akce",
+   "time": "11:00",
+   "title": "Prachcest 2026",
+   "venue": "Aula Gymnázia Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/prachcest-2026-2/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "Jaromír Hruška: Home Run",
+   "venue": "Městské divadlo",
+   "url": "https://visit.prachatice.eu/udalost/jaromir-hruska-home-run/"
+  }
+ ],
+ "weekend_events": [],
+ "limitations": [
+  "Prachatice: chybí měsíční podklad nebo je neplatný (prachatice-2026-11.json: FileNotFoundError).",
+  "InBudějovice: kalendář bez dostupných konkrétních datovaných položek; ochranu Guidle jsme neobcházeli.",
+  "ICM ČB: dnešní položky se nepodařilo spolehlivě vyčíst.",
+  "Pokrytí není úplné; další jednotlivé akce mohou chybět. Zrušená Kouzelná školka (Metropol) a The Backyard Band (Highway 61) jsou vynechány.",
+  "Víkend: dnes je sobota, proto se samostatný doplněk nesbírá."
+ ],
+ "news": [
+  {
+   "headline": "Státy OSN se dohodly pokračovat v jednání o pravidlech pro autonomní zbraně.",
+   "fact": "Účastníci ženevského jednání o Úmluvě o některých konvenčních zbraních se 21. listopadu shodli na dalších rozhovorech s cílem vypracovat pravidla pro autonomní zbraně do dvou let. Podle Reuters kvůli odporu Ruska a dalších států dohoda nezaručuje, že budoucí pravidla budou právně závazná.",
+   "impact": "Rozhodování o tom, nakolik mohou zbraně samy vybírat a napadat cíle, může během tří let ovlivnit ochranu civilistů i podobu válek včetně té na Ukrajině. Zatím jde jen o pokračování jednání, nikoli o zákaz či jistotu, že státy přijmou účinná pravidla.",
+   "source_url": "https://www.reuters.com/world/states-agree-to-un-talks-aiming-regulate-killer-robots-by-2028-2026-11-21/"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "Quoting Ravi Vakil",
+   "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+   "date": "2026-11-20T20:21:49+01:00",
+   "title_cs": "Citát: Ravi Vakil"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "Quoting Levent Alpöge",
+   "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+   "date": "2026-11-20T17:30:48+01:00",
+   "title_cs": "Citát: Levent Alpöge"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Combatting adversarial distillation",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "date": "2026-11-20T11:00:00+01:00",
+   "title_cs": "Boj proti nepřátelské destilaci modelů"
+  },
+  {
+   "source": "METR",
+   "title": "AI R&D-relevant model capabilities are improving rapidly and are getting harder to measure",
+   "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
+   "date": "2026-11-20T09:00:00+01:00",
+   "title_cs": "Schopnosti modelů důležité pro výzkum a vývoj AI rychle rostou a je stále těžší je měřit"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "url": "https://openai.com/business/customer-stories/hebbia",
+   "date": "2026-11-20T01:00:00+01:00",
+   "title_cs": "Hebbia díky GPT-6 Astra zlepšuje finanční analýzy"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Introducing Gemini 4 Neon",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "date": "2026-11-18T22:35:43+01:00",
+   "title_cs": "Představujeme Gemini 4 Neon"
+  },
+  {
+   "source": "Google DeepMind",
+   "title": "Genie 4 is now available",
+   "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+   "date": "2026-11-18T19:13:42+01:00",
+   "title_cs": "Genie 4 je k dispozici"
+  }
+ ],
+ "money": {
+  "cnb_date": "20.11.2026",
+  "eur": "24,470",
+  "ono_valid": "20.11.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "36,90",
+    "diesel": "41,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "36,90",
+    "diesel": "41,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "36,90",
+    "diesel": "41,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "36,90",
+    "diesel": "41,90"
+   }
+  ]
+ }
+}
