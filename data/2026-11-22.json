@@ -1,0 +1,240 @@
+{
+ "date": "2026-11-22",
+ "checked_at": "2026-11-22T07:30:09+01:00",
+ "sources": [
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?dni=vse",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské muzeum",
+   "url": "https://www.muzeumcb.cz/program/vystavy/",
+   "status": "ok"
+  },
+  {
+   "name": "Horká vana (veřejné kalendáře)",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "Městský turistický kalendář",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "InBudějovice",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "stale"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-22&end_date=2026-11-22%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatický zpravodaj",
+   "url": "https://visit.prachatice.eu/",
+   "status": "unavailable"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Doplňky krásy a elegance",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/doplnky-krasy-a-elegance.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Hřibovité houby v jižních Čechách",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/hribovite-houby-v-jiznich-cechach.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "RETROGAMING | Počátky osobních počítačů u nás",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "",
+   "title": "Očima, srdcem, rukama",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/ocima-srdcem-rukama.html"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "17:00",
+   "title": "Cesta na druhý břeh",
+   "venue": "Malé divadlo, České Budějovice",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3193-cesta-na-druhy-breh"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Simona – Tichá noc (vianočný stand-up špeciál)",
+   "venue": "DK Metropol, Společenský sál, České Budějovice",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/simona-ticha-noc-vianocny-stand-up-special/2366/"
+  },
+  {
+   "kind": "Film",
+   "time": "14:00",
+   "title": "Pitomá příroda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "15:25",
+   "title": "Já, Rocky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "17:50",
+   "title": "Ebenezer: Vánoční koleda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Cizinec",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "15:00",
+   "title": "Bídníci",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?dni=vse"
+  },
+  {
+   "kind": "Film",
+   "time": "18:15",
+   "title": "Dobré vibrace",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?dni=vse"
+  },
+  {
+   "kind": "Film",
+   "time": "20:00",
+   "title": "Příběhy noci",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?dni=vse"
+  }
+ ],
+ "prachatice_events": [],
+ "weekend_events": [],
+ "limitations": [
+  "Pokrytí kulturních akcí nemusí být úplné; nespolehlivé agregované přehledy nebyly použity jako důkaz dnešního programu.",
+  "InBudějovice neposkytl přístupný konkrétní denní kalendář; vložený Guidle nebyl použit.",
+  "Divadlo u Kapličky zveřejňuje na přístupné programové stránce jen starý program z roku 2023.",
+  "GoOut vracel v přehledu posunuté označení Dnes/Zítra; jeho relativní datum nebylo použito.",
+  "Prachatice: chybí měsíční podklad nebo je neplatný (prachatice-2026-11.json: FileNotFoundError)."
+ ],
+ "news": [
+  {
+   "headline": "WHO ponechala rozsáhlou epidemii eboly v Kongu v režimu mezinárodní zdravotní nouze.",
+   "fact": "WHO ve zprávě z 20. listopadu potvrdila, že její generální ředitel 18. listopadu ponechal epidemii eboly způsobené virem Bundibugyo v režimu ohrožení veřejného zdraví mezinárodního významu. K 17. listopadu evidovala v Demokratické republice Kongo 11 613 potvrzených případů a 5 678 úmrtí; mimo zemi nezaznamenala trvalý komunitní přenos.",
+   "impact": "Dlouhé trvání epidemie může v příštích letech zatěžovat zdravotnictví v regionu a vyžadovat mezinárodní dohled i vývoj ochrany. WHO však pro ostatní státy hodnotí riziko jako nízké; zda se podaří šíření zastavit a jaký bude širší dopad, zatím není jisté.",
+   "source_url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "Muru",
+   "url": "https://simonwillison.net/2026/Nov/21/muru/",
+   "date": "2026-11-22T00:56:28+01:00",
+   "title_cs": "Muru"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "Quoting Ravi Vakil",
+   "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+   "date": "2026-11-20T20:21:49+01:00",
+   "title_cs": "Citát: Ravi Vakil"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Combatting adversarial distillation",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "date": "2026-11-20T11:00:00+01:00",
+   "title_cs": "Boj proti nepřátelské destilaci modelů"
+  },
+  {
+   "source": "METR",
+   "title": "AI R&D-relevant model capabilities are improving rapidly and are getting harder to measure",
+   "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
+   "date": "2026-11-20T09:00:00+01:00",
+   "title_cs": "Schopnosti modelů důležité pro výzkum a vývoj AI rychle rostou a je stále těžší je měřit"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "url": "https://openai.com/business/customer-stories/hebbia",
+   "date": "2026-11-20T01:00:00+01:00",
+   "title_cs": "Hebbia díky GPT-6 Astra zlepšuje finanční analýzy"
+  }
+ ],
+ "money": {
+  "cnb_date": "20.11.2026",
+  "eur": "24,470",
+  "ono_valid": "20.11.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "36,90",
+    "diesel": "41,90"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "36,90",
+    "diesel": "41,90"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "36,90",
+    "diesel": "41,90"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "36,90",
+    "diesel": "41,90"
+   }
+  ]
+ }
+}
