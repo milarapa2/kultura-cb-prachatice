@@ -1,0 +1,337 @@
+{
+ "date": "2026-11-24",
+ "checked_at": "2026-11-24T07:33:51+01:00",
+ "sources": [
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol a Galerie Nahoře",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "Horká vana – sedm veřejných kulturních kalendářů",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "ok"
+  },
+  {
+   "name": "Kino Kafé 7 – renderovaný program Europe/Prague",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva – renderovaný program Europe/Prague",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-24&blok=0",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské muzeum a otevírací doba",
+   "url": "https://www.muzeumcb.cz/navstivte-nas/oteviraci-doba/",
+   "status": "ok"
+  },
+  {
+   "name": "AJG Wortnerův dům a otevírací doba",
+   "url": "https://www.ajg.cz/vstupne-a-oteviraci-doba.html",
+   "status": "ok"
+  },
+  {
+   "name": "Kabinet CB",
+   "url": "https://www.kabinetcb.cz/udalost/pletaci-kava-s-marcelou-2026-11-24/",
+   "status": "ok"
+  },
+  {
+   "name": "Budějce.cz – turistický kalendář",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "BudějckéAkce.cz",
+   "url": "https://www.budejckeakce.cz/",
+   "status": "stale"
+  },
+  {
+   "name": "ICM České Budějovice – týdenní přehled",
+   "url": "http://www.icmcb.cz/",
+   "status": "stale"
+  },
+  {
+   "name": "InBudějovice – městský kalendář",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "stale"
+  },
+  {
+   "name": "GoOut Prachatice",
+   "url": "https://goout.net/cs/prachatice/akce/lezwmynkk/",
+   "status": "stale"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-24&end_date=2026-11-24%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatický zpravodaj",
+   "url": "https://visit.prachatice.eu/",
+   "status": "unavailable"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Galerie Nahoře: Jana Kučerová – Sudety dnes",
+   "venue": "Galerie Nahoře, DK Metropol",
+   "url": "https://www.metropolcb.cz/program/divadelni-predstaveni/galerie-nahore-jana-kucerova-sudety-dnes/2441/"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "RETROGAMING | Počátky osobních počítačů u nás",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/retrogaming-pocatky-osobnich-pocitacu-u-nas.html"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Očima, srdcem, rukama",
+   "venue": "Jihočeské muzeum, Dukelská 1",
+   "url": "https://www.muzeumcb.cz/program/vystavy/ocima-srdcem-rukama.html"
+  },
+  {
+   "kind": "Film",
+   "time": "08:30",
+   "title": "Fantom opery | PRO ŠKOLY",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-24&blok=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Michal Cimala | Achát F1",
+   "venue": "Wortnerův dům AJG, U Černé věže 22",
+   "url": "https://www.ajg.cz/probihajici-vystavy/michal-cimala-achat-f1.html"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "Nebojsa",
+   "venue": "Malé divadlo, České Budějovice",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2816-nebojsa"
+  },
+  {
+   "kind": "Akce",
+   "time": "15:00",
+   "title": "Beseda a čtení: Michaela Škultéty",
+   "venue": "Biograf Kotva – kavárna",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-24&blok=0"
+  },
+  {
+   "kind": "Film",
+   "time": "15:30",
+   "title": "Já, Rocky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "16:30",
+   "title": "Pletací káva s Marcelou",
+   "venue": "Kabinet CB – Koh-i-noor, Mánesova 11/3b",
+   "url": "https://www.kabinetcb.cz/udalost/pletaci-kava-s-marcelou-2026-11-24/"
+  },
+  {
+   "kind": "Film",
+   "time": "17:30",
+   "title": "Všichni fotři jsou lotři",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-24&blok=0"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:30",
+   "title": "Autorské čtení Simone Scharbert",
+   "venue": "Horká vana, Česká 222/7",
+   "url": "https://horkavanacb.cz/program/"
+  },
+  {
+   "kind": "Film",
+   "time": "17:55",
+   "title": "Ebenezer: Vánoční koleda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "SCREAMERS – Vánoční speciál!",
+   "venue": "DK Metropol – Malá scéna",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/screamers-%E2%80%93-vanocni-special!/2382/"
+  },
+  {
+   "kind": "Film",
+   "time": "19:30",
+   "title": "Perličky z 60. let",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/?datum=2026-11-24&blok=0"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:30",
+   "title": "Cyrano z Bergeracu",
+   "venue": "Jihočeské divadlo – Na Půdě",
+   "url": "https://www.jihoceskedivadlo.cz/porad/2700-cyrano-z-bergeracu"
+  },
+  {
+   "kind": "Film",
+   "time": "20:10",
+   "title": "Divoký kůň Devítka",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Bleší trh a KreBul obchůdek",
+   "venue": "KreBul, Zlatá stezka 145",
+   "url": "https://visit.prachatice.eu/udalost/blesi-trh-a-krebul-obchudek-6/"
+  },
+  {
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Stanislav Motl: Děti Antonína Kaliny",
+   "venue": "Komunitní centrum na půdě",
+   "url": "https://visit.prachatice.eu/udalost/stanislav-motl-deti-antonina-kaliny/"
+  },
+  {
+   "kind": "Akce",
+   "time": "14:00",
+   "title": "Trénování paměti a cvičení prstů",
+   "venue": "Komunitní centrum SNP 559",
+   "url": "https://visit.prachatice.eu/udalost/trenovani-pameti-a-cviceni-prstu/"
+  },
+  {
+   "kind": "Akce",
+   "time": "14:00",
+   "title": "Výroba adventního věnce",
+   "venue": "Rodinný klub TUKAN",
+   "url": "https://visit.prachatice.eu/udalost/vyroba-adventniho-vence/"
+  },
+  {
+   "kind": "Akce",
+   "time": "18:00",
+   "title": "Emoce v našem životě",
+   "venue": "Vodňanská 51, Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/emoce-v-nasem-zivote/"
+  },
+  {
+   "kind": "Film",
+   "time": "18:00",
+   "title": "Máma a Táta jsou Boží",
+   "venue": "Kino Národka",
+   "url": "https://visit.prachatice.eu/udalost/mama-a-tata-jsou-bozi/"
+  },
+  {
+   "kind": "Akce",
+   "time": "19:00",
+   "title": "Miloslav Martan – Vietnam a Kambodža",
+   "venue": "Městské divadlo",
+   "url": "https://visit.prachatice.eu/udalost/miloslav-martan-vietnam-a-kambodza/"
+  }
+ ],
+ "weekend_events": [],
+ "limitations": [
+  "Prachatice: chybí měsíční podklad nebo je neplatný (prachatice-2026-11.json: FileNotFoundError).",
+  "InBudějovice: městský kalendář neposkytl ověřitelný dnešní program; vložený Guidle nebyl použit.",
+  "ICM ČB: aktuální týdenní přehled se nepodařilo ověřit.",
+  "BudějckéAkce a GoOut: přehledy neposkytly další samostatně ověřené dnešní položky.",
+  "Divadlo u Kapličky: dostupný program je z roku 2023, aktuální představení se nepodařilo ověřit.",
+  "Úplnost programu nelze zaručit."
+ ],
+ "news": [
+  {
+   "headline": "Evropská komise navrhla další sankce proti Rusku a zpřísnila vízová doporučení.",
+   "fact": "Komise 23. listopadu představila návrh 22. balíku sankcí, zaměřený mimo jiné na ruské banky, kryptoplatby a energetické služby. Zároveň přijala revidovaná doporučení pro posuzování víz současných a bývalých ruských bojovníků; samotné spuštění plošného vízového zákazu ještě podléhá rozhodnutí Rady EU.",
+   "impact": "Pokud Rada navržené sankce schválí a členské státy je účinně uplatní, mohou v příštích třech letech omezit zdroje pro ruskou válku a posílit bezpečnost v EU včetně Česka. Účinek není jistý: záleží na přijetí, vymáhání a případném obcházení opatření.",
+   "source_url": "https://cyprus.representation.ec.europa.eu/news/statement-president-von-der-leyen-22nd-package-sanctions-against-russia-2026-11-23_en"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "datasette-charts 0.2a0",
+   "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+   "date": "2026-11-24T05:24:29+01:00",
+   "title_cs": "datasette-charts 0.2a0"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "datasette-agent 0.7a1",
+   "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+   "date": "2026-11-24T04:45:57+01:00",
+   "title_cs": "datasette-agent 0.7a1"
+  },
+  {
+   "source": "OpenAI",
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "url": "https://openai.com/index/introducing-shirudo",
+   "date": "2026-11-23T22:20:00+01:00",
+   "title_cs": "OpenAI a Cisco představují Shirudo"
+  },
+  {
+   "source": "Import AI",
+   "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+   "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+   "date": "2026-11-23T15:11:17+01:00",
+   "title_cs": "Import AI 482: Benchmarky jader od Huaweie, detekce dronů ze vzduchu a vědecký benchmark AI od národní laboratoře"
+  },
+  {
+   "source": "OpenAI",
+   "title": "Connected intelligence for in-house legal",
+   "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+   "date": "2026-11-23T09:00:00+01:00",
+   "title_cs": "Propojená inteligence pro firemní právní oddělení"
+  }
+ ],
+ "money": {
+  "cnb_date": "23.11.2026",
+  "eur": "24,455",
+  "ono_valid": "23.11.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "36,90",
+    "diesel": "41,50"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "36,90",
+    "diesel": "41,50"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "36,90",
+    "diesel": "41,50"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "36,90",
+    "diesel": "41,50"
+   }
+  ]
+ }
+}
