@@ -1,0 +1,295 @@
+{
+ "date": "2026-11-28",
+ "checked_at": "2026-11-28T07:31:42+01:00",
+ "sources": [
+  {
+   "name": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0",
+   "status": "ok"
+  },
+  {
+   "name": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/",
+   "status": "ok"
+  },
+  {
+   "name": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/program",
+   "status": "ok"
+  },
+  {
+   "name": "DK Metropol",
+   "url": "https://www.metropolcb.cz/program-colosseum.html",
+   "status": "ok"
+  },
+  {
+   "name": "KD Vltava",
+   "url": "https://www.kdvltava.com/akce/tri-sestry/",
+   "status": "ok"
+  },
+  {
+   "name": "Turistický kalendář České Budějovice",
+   "url": "https://www.budejce.cz/kalendar",
+   "status": "ok"
+  },
+  {
+   "name": "BudějckéAkce",
+   "url": "https://www.budejckeakce.cz/kultura/",
+   "status": "ok"
+  },
+  {
+   "name": "InBudějovice",
+   "url": "https://www.inbudejovice.cz/kalendar-akci",
+   "status": "unavailable"
+  },
+  {
+   "name": "Divadlo u Kapličky",
+   "url": "https://divadloukaplicky.cz/program/",
+   "status": "stale"
+  },
+  {
+   "name": "Horká vana – veřejné kalendáře",
+   "url": "https://horkavanacb.cz/program/",
+   "status": "unavailable"
+  },
+  {
+   "name": "ICM ČB – týdenní přehled",
+   "url": "https://www.icmcb.cz/",
+   "status": "unavailable"
+  },
+  {
+   "name": "GoOut České Budějovice",
+   "url": "https://goout.net/cs/ceske-budejovice/akce/lezdyvlkk/",
+   "status": "ok"
+  },
+  {
+   "name": "Městský kalendář Prachatice API",
+   "url": "https://visit.prachatice.eu/wp-json/tribe/events/v1/events?start_date=2026-11-28&end_date=2026-11-28%2023:59&per_page=100",
+   "status": "ok"
+  },
+  {
+   "name": "Prachatický zpravodaj",
+   "url": "https://visit.prachatice.eu/",
+   "status": "unavailable"
+  }
+ ],
+ "events": [
+  {
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Českobudějovický advent",
+   "venue": "Náměstí Přemysla Otakara II.",
+   "url": "https://www.budejce.cz/kalendar/1160833579-ceskobudejovicky-advent"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "10:00",
+   "title": "Babi Bejvávalo",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3102-babi-bejvavalo"
+  },
+  {
+   "kind": "Film",
+   "time": "10:00",
+   "title": "Cinemini",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Film",
+   "time": "13:50",
+   "title": "Hexe: Magický svět",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "14:00",
+   "title": "Papája",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/film/papaja/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "15:00",
+   "title": "Babi Bejvávalo",
+   "venue": "Malé divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3102-babi-bejvavalo"
+  },
+  {
+   "kind": "Film",
+   "time": "15:55",
+   "title": "Ebenezer: Vánoční koleda",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "16:00",
+   "title": "Panika v městečku",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/film/panika-v-mestecku/"
+  },
+  {
+   "kind": "Akce",
+   "time": "16:15",
+   "title": "Animační dílna",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Akce",
+   "time": "16:30",
+   "title": "Rozsvícení vánočního stromu",
+   "venue": "Náměstí Přemysla Otakara II.",
+   "url": "https://www.budejce.cz/kalendar/1160971123-rozsviceni-vanocniho-stromu"
+  },
+  {
+   "kind": "Film",
+   "time": "18:10",
+   "title": "Dobré vibrace",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  },
+  {
+   "kind": "Film",
+   "time": "18:30",
+   "title": "Manon",
+   "venue": "Biograf Kotva",
+   "url": "https://www.biografkotva.cz/"
+  },
+  {
+   "kind": "Divadlo",
+   "time": "19:00",
+   "title": "Čardášová princezna",
+   "venue": "Jihočeské divadlo",
+   "url": "https://www.jihoceskedivadlo.cz/porad/3106-cardasova-princezna"
+  },
+  {
+   "kind": "Akce",
+   "time": "20:00",
+   "title": "Tři sestry Fanánek 60 Tour",
+   "venue": "KD Vltava",
+   "url": "https://www.kdvltava.com/akce/tri-sestry/"
+  },
+  {
+   "kind": "Akce",
+   "time": "20:00",
+   "title": "LÁSKA NEBESKÁ – klavírní recitál se smyčcovým kvartetem",
+   "venue": "DK Metropol – Divadelní sál",
+   "url": "https://www.metropolcb.cz/program/veskere-akce/laska-nebeska-%E2%80%93-klavirni-recital-se-smyccovym-kvartetem/2397/"
+  },
+  {
+   "kind": "Film",
+   "time": "20:10",
+   "title": "Já, Rocky",
+   "venue": "Kino Kafé 7",
+   "url": "https://www.kinokafe7.cz/?filterIndex=0"
+  }
+ ],
+ "prachatice_events": [
+  {
+   "kind": "Akce",
+   "time": "08:00",
+   "title": "Zimní bazar sportovních potřeb",
+   "venue": "Dům dětí a mládeže Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/zimni-bazar-sportovnich-potreb-2/"
+  },
+  {
+   "kind": "Akce",
+   "time": "09:00",
+   "title": "Tradiční vánoční Polaz",
+   "venue": "Prachatické muzeum",
+   "url": "https://visit.prachatice.eu/udalost/tradicni-vanocni-polaz/"
+  },
+  {
+   "kind": "Akce",
+   "time": "10:00",
+   "title": "Vánoční focení s Museem fotoateliérem Seidel",
+   "venue": "Prachatické muzeum",
+   "url": "https://visit.prachatice.eu/udalost/vanocni-foceni-s-museem-fotoatelierem-seidel-2/"
+  },
+  {
+   "kind": "Akce",
+   "time": "14:00",
+   "title": "Tradiční vázání věnců",
+   "venue": "Tělocvična DDM Prachatice",
+   "url": "https://visit.prachatice.eu/udalost/tradicni-vazani-vencu-2/"
+  },
+  {
+   "kind": "Akce",
+   "time": "15:00",
+   "title": "Adventní koncert",
+   "venue": "Kostel Narození Panny Marie v Chrobolech",
+   "url": "https://visit.prachatice.eu/udalost/adventni-koncert-2/"
+  },
+  {
+   "kind": "Akce",
+   "time": "17:00",
+   "title": "Podzimní saunové ceremoniály a peelingy",
+   "venue": "Saunový svět",
+   "url": "https://visit.prachatice.eu/udalost/podzimni-saunove-ceremonialy-a-peelingy-4/"
+  }
+ ],
+ "weekend_events": [],
+ "limitations": [
+  "InBudějovice: kalendář nepředkládá přístupné datované akce; Guidle nebyl použit.",
+  "ICM ČB: týdenní přehled nebyl ověřen; Divadlo u Kapličky zveřejňuje zastaralý program z roku 2023.",
+  "Horká vana: program při přímém načtení vrátil 401; jednotlivé veřejné ICS výskyty nebylo možné v tomto běhu spolehlivě ověřit, a proto nebyla přidána žádná položka.",
+  "Animační dílna v Kotvě je v programu označena jako vyprodaná.",
+  "Pokrytí místních pořadatelů a výstav nemusí být úplné; neověřené položky byly vynechány.",
+  "Prachatice: chybí měsíční podklad nebo je neplatný (prachatice-2026-11.json: FileNotFoundError).",
+  "Prachatice: v převzatém městském API je i koncert v Chrobolech mimo Prachatice; podle zadání byly dnešní položky převzaty beze změny."
+ ],
+ "news": [
+  {
+   "headline": "WHO zpřesnila opatření proti pokračující epidemii eboly v Kongu.",
+   "fact": "Světová zdravotnická organizace 27. listopadu zveřejnila aktualizovaná doporučení; k 24. listopadu evidovala v Demokratické republice Kongo přes 12 000 případů a 5 900 úmrtí. Pro další země doporučuje cíleně vyhledávat a posuzovat cestující s možnou expozicí, nikoli plošně omezovat lety.",
+   "impact": "Udržení přenosu pod kontrolou a vývoj vakcín či léčby mohou v příštích letech rozhodnout o rozsahu mezinárodního zdravotního rizika. Dopad na ČR je nejistý; zpráva sama neznamená, že se zde nákaza šíří.",
+   "source_url": "https://www.who.int/news/item/27-11-2026-who-issues-updated-ebola-response-recommendations--calling-for-improved-security-and-accelerated-research"
+  }
+ ],
+ "ai_news": [
+  {
+   "source": "Simon Willison",
+   "title": "datasette-charts 0.4a0",
+   "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+   "date": "2026-11-28T00:57:17+01:00",
+   "title_cs": "datasette-charts 0.4a0"
+  },
+  {
+   "source": "Simon Willison",
+   "title": "datasette-mcp 0.4",
+   "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+   "date": "2026-11-27T01:26:17+01:00",
+   "title_cs": "datasette-mcp 0.4"
+  }
+ ],
+ "money": {
+  "cnb_date": "27.11.2026",
+  "eur": "24,435",
+  "ono_valid": "25.11.2026",
+  "ono": [
+   {
+    "name": "Dolní Dvořiště - ONO I",
+    "n95": "35,90",
+    "diesel": "40,50"
+   },
+   {
+    "name": "Jindřichův Hradec",
+    "n95": "35,90",
+    "diesel": "40,50"
+   },
+   {
+    "name": "Planá nad Lužnicí",
+    "n95": "35,90",
+    "diesel": "40,50"
+   },
+   {
+    "name": "Podolí u Písku",
+    "n95": "35,90",
+    "diesel": "40,50"
+   }
+  ]
+ }
+}
